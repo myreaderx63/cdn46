@@ -1,0 +1,1275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	<meta name="keywords" content="VMware, EMC, iSCSI, FCoE, NFS, Virtualization, Insider, Site Recovery Manager" />
+	<meta name="description" content="A techncial deep dive into VMware-related topics." />
+    <link rel="canonical" href="https://virtualgeek.typepad.com/virtual_geek/" />
+
+
+
+        <link rel="stylesheet" href="https://virtualgeek.typepad.com/virtual_geek/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'Virtual Geek' (Atom)" href="https://virtualgeek.typepad.com/virtual_geek/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Virtual Geek' (RSS 1.0)" href="https://virtualgeek.typepad.com/virtual_geek/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Virtual Geek' (RSS 2.0)" href="https://virtualgeek.typepad.com/virtual_geek/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00e552e53bd2883300e552ff1bc08834');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="Virtual Geek" />
+<meta property="og:site_name" content="Virtual Geek" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://virtualgeek.typepad.com/virtual_geek/" />
+<meta property="og:description" content="an insider's perspective, technical tips n' tricks  in the era of the IT Revolution" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up2.typepad.com/6a00e552e53bd2883300e553a909058834-220si" />
+
+
+
+	<title>Virtual Geek</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00e552e53bd2883300e552ff1bc08834" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://virtualgeek.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-two-column-right index">
+	
+	<div id="container" class="container">
+		<div id="container-inner" class="pkg">
+			
+        	<div class="row">
+     
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://virtualgeek.typepad.com/virtual_geek/" accesskey="1">Virtual Geek</a></h1>
+		<h2 id="banner-description">
+			an insider's perspective, technical tips n' tricks  in the era of the IT Revolution
+		</h2>
+	</div>
+</div>
+
+
+<div id="nav">
+	<div id="nav-inner">
+		<ul class="nav-list pkg">
+			<li class="nav-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/">Home</a></li>
+			<li class="nav-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/archives.html">Archives</a></li>
+			<li class="last-nav-list-item nav-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/atom.xml">Subscribe</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
+
+                        <div id="pagebody">
+                        
+
+                                <div id="pagebody-inner" class="pkg">
+                                        <div id="alpha">
+                                                <div id="alpha-inner" class="pkg">
+                                                        
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+
+
+
+    <h2 class="date-header">February 20, 2018</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301bb09f51cc9970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><b>I’m going to make this a two-part post. Part 1 = what is in the rear-view window? Part 2 = what’s out the front windshield?</b></p>  <p><b>Part 1: CPSD and Dell EMC are in my rear-view window.</b></p>  <p>First, while want to close the chapter behind me - it’s a flawed analogy, because it suggests some sort of “finality”. I’ll <b><i>always</i></b> be there for the CI/HCI customers, our partners, for my beloved Dell EMC colleagues in the CI, HCI and Ready Solutions teams and more broadly.</p>  <p>Furthermore – the experiences of the last 2 years, the 4 years before that (leading all my systems engineering brothers and sisters), and the 5 years before that leading the EMC/VMware integration – those experiences will <b><i>always</i></b> be part of me.</p>  <p>Within Dell EMC, we’ve <a href="https://www.theregister.co.uk/2018/01/25/dell_dispenses_with_chad_sakacs_cpsd_unit/">decided to align</a> our HCI business with the Dell EMC server business, the CI business with the Dell EMC Storage business, and Ready Solutions (as well as essential elements of CI engineering and R&amp;D) with the Service Provider/Networking/Enterprise Infrastructure teams – today is the best kind of proof that the team, the product is marching on – and how much confidence I have in them.</p>  <p>I want to say something firmly, loudly and clearly – I support the changes, and I think it’s the right thing.</p>  <p>Customers and partners need to understand that this doesn’t signal changes to VxRail, VxRack, VxBlock, and XC Series. In fact, while our Q4 results haven’t been announced – when they do, they will speak for themselves.</p>  <p>What also speaks is the <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/the-best-atheletes-vxblock-1000-faster-higher-stronger.html">launch of the VxBlock 1000</a> – a commitment by the team to continue to lead the CI market, and continue to redefine, and re-invent the category.</p>  <p><b><i>So why the change? Answer = It’s the right time for the products and the company:</i></b></p>  <ul>   <li>There’s inherent simplification and alignment that flows from these decisions. There are system, development, and GTM simplifications – things that are important for the next phase of the journey.</li>    <li>We’re already at an HCI unit volume that dwarfs the CI business. It’s important to understand that BOTH CI and HCI will continue to be a big part of the IT infrastructure world – but inherently with different scales, ASPs, and design targets. In 2017, Dell EMC became #1 in HCI by every metric that matters – and knowing how Q4 (and the whole year) ended – the team is only just starting. But already – we’re at the point where the customer count of our HCI customers exceeds our CI customers. The next chapter of HCI (both VMware aligned and open ecosystem) will have 10x to 100x the customer count of the whole CI market. It will thrive by leveraging the scaled business that is the server business. The team is working hard to aim for pulling the roadmaps of vSAN, vSAN Ready Nodes, VMware Cloud Foundation, VxRail and VxRack SDDC into one tight stream. My friend who leads the Server business unit (Ashley Gorukhpurwalla) knows that HCI isn’t about servers – but we all know that the x86 base building block is an essential foundation. Furthermore – we know that HCI is the “base building block of cloud”. Our efforts around the Dell Technology-base of our on-premises IaaS/PaaS/CaaS clouds depends on VxRail and VxRack SDDC. I think customers should expect us to be opinionated and aligned (and we are) in Dell Technologies – but that at each layer, we keep embracing choice. An example of that is the Dell EMC Microsoft Azure Stack offer is flying off the shelf.</li>    <li>The CI business is finding a new gear. In 2017 we lost some ground – but maintained our #1 position. That trend changed in the 2<sup>nd</sup> half – and the CI business and primary storage show that. CI is essential to the primary storage business of Dell EMC. There are thousands of customers who depend on Dell EMC CI to be the foundation of their datacenter – and have moved up to “consume” infra, not waste time and build complexity by “constructing” this basic building block. <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/the-best-atheletes-vxblock-1000-faster-higher-stronger.html">The VxBlock 1000 launch</a> is starting the year right for the CI business – like an Olympic skier bursting out of the starting gate. The CI team and the Dell EMC Storage team are working hand in hand, aligning everything together. We are leaning into NSX, and starting to think though how we keep innovating and reinventing the category we created. My friends who lead the Storage business unit (Jeff Boudreau) and SP/Networking/EI business unit (Tom Burns) have it well in hand.</li>    <li>The Ready Solutions business made a ton of progress in 2017, simplifying the portfolio, getting laser focused on the things that move the need. They made huge progress in 2017 around HPC, around AI/ML, SAP and other essential partners.</li> </ul>  <p><b><i>It’s the right time for the people:</i></b></p>  <ul>   <li>Our VMware HCI (VxRail, VxRack SDDC) continues to be led by Gil Shneorson and done in tight partnership with the team at VMware who work with Gil as one (Yanbing Li on vSAN, John Gilmartin on VMware Cloud Foundation).</li>    <li>Our open ecosystem HCI (VxRack FLEX, XC Series, Azure Stack) continues to be led by Dan McConnell – and while we are opinionated on the path forward for customers who have standardized on VMware, we know that we must always provide choice.</li>    <li>Our VxBlock, Vscale CI is led by long time former VCE veteran Dan Meddaugh. Our next generation CI innovation efforts are led by another long time former VCE vet, Trey Layton.</li>    <li>Our Ready Solutions efforts are led by Kash Shaikh who has jumped in and played a critical role through 2017. </li> </ul>  <p>These changes give these great people, the great teams they lead a chance to step up, gain more visibility and impact.</p>  <p>Those leaders, those people deserve all the kudos, all the credit – all our success is built on their hard work, their sacrifices, and their blood/sweat/tears. THANK YOU – Gil, Dan, Dan, Trey, Kash, Bob, Armughan, Kerry, Julie, Lillian – and everyone else!</p>  <p><b><i>It’s also the right time for a change for me personally.</i></b></p>  <ul>   <li>I have a passion for the mission of simplification. I believe that the industry as a whole has to make consuming platforms simpler. I also believe that this is pushing the industry towards vertically integrated “stacks” or put otherwise, platforms that one uses, one consumes – one doesn’t construct.</li>    <li>I trust my colleagues to keep moving forward the state of the art for one layer of the platform – in fact I’m counting on them.</li>    <li>Solving the “outcome” in different parts of the stack depends on the work of my brothers and sisters in Dell EMC and VMware.</li>    <li>Most of all - re-invention is fun, and I have renewed mojo at the thought of what’s next.</li> </ul>  <p>Start by bookmarking <a href="http://virtualgeek.io">http://virtualgeek.io</a>.</p>  <p>I’ve realized that I started Virtual Geek in 2008 – and have made just under a thousand (958!) posts, 4325 comments, and more than 5,000,000 lifetime page views. WOW. Chuck Hollis – I owe you for pushing me into the whole blog thing.</p>  <p>Like with my life, it’s time for a change. I can’t change Virtual Geek – it is a reflection of me after all – but I can re-invent it. Part 2 of this blog will be there.</p>  <p>It marks part of a new beginning with Dell Technologies – and is now posted <a href="http://virtualgeek.io/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery/">here</a>.</p>  <p>I’m energized, learning, and excited in a whole new way!</p>  <p><strong>Dear reader – as always, THANK YOU!</strong></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 10:15 PM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html#comments">Comments (11)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301bb09f51cc9970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F02%2Fits-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html&text=" target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F02%2Fits-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F02%2Fits-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html&title=It%26rsquo%3Bs%20time%20for%20change%2C%20and%20change%20%3D%20renewed%20invention%2C%20renewed%20vigor%2C%20renewed%20discovery.', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">February 12, 2018</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301b7c94f4984970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/the-best-atheletes-vxblock-1000-faster-higher-stronger.html">The best athletes (and VxBlock 1000) = faster, higher, stronger!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>In watching the Olympics, it’s amazing to see athletes doing amazing things – frankly it’s inspiring.</p>
+<p>Sometimes it’s a new star rising – something new (amazing Chloe Kim!) .&#0160;&#0160;</p>
+<p>Sometimes it’s a veteran pulling a “Michael Phelps” – producing every 4 years (see Dutch speed skater Sven Kramer).</p>
+<p><strong>I’m not claiming that what we do at work compares to those amazing athletes do… But it makes for a timely analogy&#0160; with the <a href="https://www.dellemc.com/en-us/converged-infrastructure/converged-systems.htm">VxBlock 1000 Ready To Ship (RTS)</a> milestone today :-)&#0160;&#0160; If you want to learn more, join the #CrowdChat at 11:55am ET today <a href="https://t.co/bFexCNNG7h">here</a>.</strong></p>
+<blockquote>
+<p><em>While I no longer lead the efforts behind CI/HCI at Dell EMC – I still have a passion for it, and love the people and the teams in their new homes (post coming up on what’s next for me soon enough).</em></p>
+</blockquote>
+<p>In 2009, Vblock was born. Cisco together with EMC invented the Converged Infrastructure category – and have led it ever since.&#0160;&#0160; Dell EMC VxBlock is the “Sven Kramer” of Converged Infrastructure :-)</p>
+<blockquote>
+<p>The founding idea was basic, simple:&#0160; <em>the complexity associated with the base infrastructure stack was a waste of time and money. That waste is bad enough when all you do is look at is acquisition and initial costs – but the waste balloons out when you look at lifecycle management of base infra over years – along with multi-vendor support and commercial costs.&#0160;&#0160; <strong>What if we were to design, build, manufacture, support, sustain over it’s lifecycle the entire compute/storage/network domain – for bare metal, and up to the VMware layer – as ONE THING?</strong></em></p>
+</blockquote>
+<p>This complexity of siloes of infrastructure is purely sand in the gears – zero value.&#0160;&#0160; It may be a familiar model to people in infrastructure siloes, or purchasing teams accustomed to optimizing for piece parts and using price arbitrage levers…&#0160; But in every SINGLE case, there’s someone who is looking at the system-level operating complexity and cost and asking “THERE MUST BE A BETTER WAY”.</p>
+<p><strong>There is – CI and HCI is that better way.&#0160; They are about <u>changing</u> what you <u>construct</u> into what you <u>consume.</u></strong></p>
+<p>They say that imitation is the sincerest form of flattery.&#0160;&#0160; I understand this personally.&#0160;&#0160; We certainly didn’t invent HCI – but when we entered the market, we did it in force, we learnt from the people who went first, refined, leveraged our strengths and used that to start innovating on our own.&#0160;&#0160; In short order, Dell EMC and VMware became #1 in HCI.&#0160;&#0160; I am thankful for those who came before, and respect our competitors.&#0160; We will furiously defend our #1 position and work to broaden the position.</p>
+<p>In CI there are many imitations of the VxBlock business – and likewise respected competitors.&#0160; Unlike HCI where a year ago we were NOT #1, we were NOT the first – and needed to fight to get the #1 spot; in CI it’s a different story.</p>
+<p><strong><em>When it comes to CI - we have been successfully defending the #1 spot – for almost a DECADE.</em></strong></p>
+<p>Many people (including some in Dell EMC and our channel partners) still view CI as a “bundle”.&#0160; Many view the value of CI as simply being the sum of the parts (UCS, NEXUS, storage partner).&#0160;&#0160; <strong>We don’t – VxBlock is about changing the HOW of your operational model, not the WHAT.&#0160;&#0160; </strong></p>
+<p>None of the CI competitors have furiously embraced the “lifecycle management” idea, and most involve “meet in the channel” business models of servers, network, storage.&#0160;&#0160;</p>
+<p>These bundles and “meet in the channel” models are different from the “single product, single lifecycle, everything from one place” foundation of VCE and the Vblock.&#0160; When we execute well on the simplicity of initial standup acceleration, and more importantly, improved lifecycle vs the “piece parts” – that’s when our CI customers are the most happy.</p>
+<p>The fact that others have taken a different path is perfectly OK – ultimately customers decide and vote with their dollars on what matters most to them.</p>
+<p>Now – what’s new?&#0160;&#0160; In early 2017, we realized that it was time for a simplification, a re-invention of Converged Infrastructure.&#0160;&#0160; The VxBlock 1000 is a huge milestone – not the first, and not the last.</p>
+<p>The work started with going from 2 product families (Vblock and VxBlock) to one (VxBlock). This simplified the Release Certification Matrix (RCM) enormously – and use of the VMware Distributed Switch enables SDN models on VxBlock – we started to see a much, much higher prevalence of NSX on VxBlock as an example. But that was simply the first step. Today’s step is much bigger.</p>
+<p>Today the team launched the VxBlock 1000, the next step in simplification and ultimately (over time) full re-invention.&#0160; <strong><em>Vxblock 1000 =&#0160; industry’s best CI just got faster, higher, stronger.&#0160;&#0160; </em></strong></p>
+<p>So… what’s new?</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c94f4972970b-pi"><img align="left" alt="image" border="0" height="199" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09f2af87970d-pi" style="margin: 0px 10px 0px 0px; border: 0px currentcolor; float: left; display: inline; background-image: none;" title="image" width="117" /></a></p>
+<p><u><strong>SIMPLIFICATION: 3x SIMPLER.</strong>&#0160;&#0160;&#0160; </u></p>
+<ul>
+<ul>
+<li>With VxBlock 1000 – we go from having 3 types of VxBlock (VxBlock 350, 540, 740), three corresponding RCMs, and islands of resources and management to a single RCM.&#0160;&#0160; Our existing customers (of course) can expect the existing investments to be supported for their full lifecycle…. But going forward, it’s one, simplified CI offer.</li>
+<li>We’ve developed an interactive online lifecycle management portal – this can make checking and resolving low level firmware compliance take 80% less time.&#0160;&#0160; People that run infrastructure know that low level stuff can really bite you.&#0160;&#0160; VxBlock cuts down the risk a lot – and ultimately, we own the outcome.</li>
+<li>We’ve developed a much simpler and scalable management appliance – the next generation AMP = AMP-VX. The new AMP-VX is smaller, less costly, more flexible.&#0160; AMP-VX uses vSAN and an HCI model for simplicity, and the ability to scale, and has a built in Data Domain DD2200 for localized backup of system info.&#0160;&#0160; The new AMP-VX can handle up to 8 VxBlock 1000 systems, which themselves can be massive. The AMP-VX also has our next-generation remote support systems, and embedded data protection.&#0160;&#0160; You heard that right – beyond the data protection of the AMP-VX, every VxBlock 1000 include a trial of the Converged Infrastructure Data Protection suite, which can be turned on for the whole system and all workloads if you love it.</li>
+</ul>
+<li><u><strong>CHOICE and FLEXIBILITY:</strong> </u></li>
+</ul>
+<blockquote>
+<ul>
+<li>You have 4x the choice in the storage layer (XtremIO X2, VMAX AF, Unity AF, Isilon Gen 6)</li>
+<li>You have 2x the choice in the compute layer (UCS b-series M4 and M5, and c-series) – meaning you can pool VDI dense systems with GPUs, along with test/dev and prod VMs, containers and other very different workloads.</li>
+<li>… All with the value of system-level acquisition, lifecycle and support.&#0160; You don’t need different “islands”, or Vscale (except at the most massive datacenter scales)</li>
+</ul>
+</blockquote>
+<ul>
+<li><strong><u>STRONGER and FASTER:</u></strong></li>
+<ul>
+<li>CI done right isn’t about the ingredients – <strong><em>except for insofar that those ingredients change the “shape” of the system’s economics, performance or other parameters. </em></strong></li>
+<ul>
+<li>The VxBlock 1000 can be configured with a broad range of the following:</li>
+<ul>
+<li>the new Unity X50F – which has a 4x greater density/performance vs. the previous generation</li>
+<li>XtremIO X1 to X2 = 2 to 1 footprint reduction</li>
+<li>Isilon Gen 5 to Gen 6 = 6 to 1 footprint reduction… And Isilon Gen 6 can be built-in, no need for a tech extension.</li>
+<li>the new M5 UCS B-series blades (a VxBlock 1000 can support up to 800 blades up from the previous maximum of 512), and upgraded 40G network with 100G uplinks, and more.</li>
+</ul>
+</ul>
+</ul>
+<li><strong><u>SMARTER and FUTURE READY:</u></strong></li>
+<ul>
+<li>We’ve designed the VxBlock 1000 to be NVMe ready – as we know that customers will be deploying VxBlock 1000 and will have them up and running over a service life that may very well include NVMe. The fabric is ready to integrated NVMe storage initiators and targets when you need to go from milliseconds to microsecond timescales.</li>
+<li>The smarts in the AMP-VX are just the start.&#0160;&#0160; VxBlock 1000 fits into Vscale, can integrate with VxRack systems, including fabric automation.&#0160;&#0160; While there’s nothing stopping customers from using the element managers that they know – we know that system-level automation is an area of continued opportunity for innovation.</li>
+</ul>
+</ul>
+<p><strong>A couple real examples from customer scenarioes can help make this leap forward more visceral.</strong>&#0160;&#0160;</p>
+<blockquote>
+<p><em>Note that these may strike you all as BIG.&#0160;&#0160; They are BIG.&#0160;&#0160; I’ve often joked that VxBlock is available in any size you want – so long as it’s large, XL, or XXL.&#0160;&#0160; CI fundamentally doesn’t scale DOWN well.&#0160;&#0160; The economics of CI are best at moderate scale and up.&#0160;&#0160; You also cannot physically make a CI system that is physically really small… This is one of the HCI advantages.</em></p>
+</blockquote>
+<p>The first example is a very common model – standard general purpose VSI (virtual server infrastructure).&#0160;&#0160; At the top is a VxBlock 350 example – and our CI competitors would be similar.&#0160;&#0160;&#0160; VxBlock 1000 has a 25% smaller footprint, and similar reductions in capital and operation expenses.&#0160;&#0160; <strong><em>Why?</em></strong>&#0160;&#0160;</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09f2af8a970d-pi"><img alt="image" border="0" height="272" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c94f4980970b-pi" style="margin: 0px; border: 0px currentcolor; display: inline; background-image: none;" title="image" width="600" /></a></p>
+<p>Simple.&#0160;&#0160; CI normally scales to a certain point, and then you get another “block”.&#0160;&#0160; Anyone who says “you can scale it however you want” is smoking something, or is not on the hot seat for sustained lifecycle and support.&#0160;&#0160; Why do I say that?&#0160; There are system design parameters (like fabric capacity, buffer credits, initiator/target maximums, and many, many others) that go into a system level design.&#0160;&#0160;&#0160;&#0160;&#0160; While VxBlock 1000 has maximums (it must of course, it’s maximums are so much higher) the multiple systems can be collapsed.</p>
+<p>Here’s another example.&#0160;&#0160; It’s not uncommon for customers to have multiple “tiers” of VxBlocks based on RAS (Reliability, Availability, Serviceability) and specific data services.&#0160;&#0160; This IS NOT for general purporse VM workloads – but workloads with very specific requirements.&#0160;&#0160; If you are nodding – you are a customer like this.&#0160; If you are looking at this post quizzically, you are not one of these customers.&#0160;&#0160; These customers often have Multiple VxBlock 740s and several VxBlock 350s, and a VxBlock 540 or two.&#0160;&#0160; This kind of customer ALWAYS has a need for a large scale-out NAS use case – and want it in the same single lifecycle, “single throat to choke” model.</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2d9b03c970c-pi"><img alt="image" border="0" height="264" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09f2af8f970d-pi" style="border: 0px currentcolor; display: inline; background-image: none;" title="image" width="600" /></a></p>
+<p>In this case – there’s a massive improvement.&#0160;&#0160; First, no “islands” of compute or storage capacity as workloads move from test/dev into prod.&#0160;&#0160; There’s a shared fabric for everything (resulting in a massive 70% reduction in networking cost).&#0160;&#0160; ALL the systems fit into one system, and one management pod (one AMP-VX).&#0160;&#0160; When they need to do a lifecycle update – it’s a 75% improvement.&#0160;&#0160;&#0160;&#0160;&#0160; Try to imagine doing this yourself, with a mishmash of kit – or even with other forms of CI.</p>
+<p><strong><u>VxBlock 1000 is ORDERABLE TODAY.&#0160; </u></strong></p>
+<p>All of these improvements are built on top of time-tested, customer validated VxBlock value.&#0160;&#0160; VxBlock 1000 builds upon documented VxBlock benefits (from “<a href="http://www.dellemc.com/collateral/analyst-report/vxblock-value-realized.pdf">The Business Value of Modernizing Applications with Dell EMC VxBlock Systems</a>,” a study of customer’s pre/post-CI experiences - published by IDC on Nov 7, 2017):</p>
+<ul>
+<li>61% lower cost of operations</li>
+<li>66% more efficient operations</li>
+<li>52% less time keeping the lights on</li>
+<li>34% faster application deployment</li>
+<li>99% less unplanned downtime</li>
+<li>8 Months pay back</li>
+<li>640% 5-year ROI</li>
+</ul>
+<p><strong><em>Look, people keep wanting to debate the role of CI and HCI, and what the future holds.&#0160; I get that.&#0160;&#0160; I don’t think this is super-complicated:</em></strong></p>
+<ul>
+<li>My personal conviction, looking at a lot of data - is that both will continue for years, and BOTH will outgrow “build it yourself”.</li>
+<li>HCI will of course out-grow CI, and HCI will be the “base” of IaaS/PaaS/CaaS clouds that depend on even more simplification/standardization and automation of lifecycke of the infrastructure layer.</li>
+<li>At the same time - CI will be the “simple button” for consuming classic infrastructure stacks for apps that don’t land on an IaaS, but land on virtualized infrastructure.</li>
+<li>We have refined, simplified and re-invented CI today – and I know the team isn’t stopping here, expect more.&#0160; We will keep using our experiences as the CI leader to keep pushing forward.</li>
+</ul>
+<p>While I no longer lead the CI team (more on this in a bit – I’m keeping a little quiet) – I know they are awesome, and together with the HCI and Ready Solutions teams – they are in a great spot.&#0160;</p>
+<p>On a personal note – I want to congratulate the whole Converged Infrastructure team at Dell EMC on the big day, the big launch – celebrate, and then keep pushing forward together to keep being the best!</p>
+<p><strong>Customers, partners (heck, competitors too!) what do YOU think?&#0160; What do you think about the new VxBlock 1000, and what do you think the team should do next?</strong></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 07:05 PM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2018/02/the-best-atheletes-vxblock-1000-faster-higher-stronger.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2018/02/the-best-atheletes-vxblock-1000-faster-higher-stronger.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301b7c94f4984970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F02%2Fthe-best-atheletes-vxblock-1000-faster-higher-stronger.html&text=The%20best%20athletes%20(and%20V..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F02%2Fthe-best-atheletes-vxblock-1000-faster-higher-stronger.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F02%2Fthe-best-atheletes-vxblock-1000-faster-higher-stronger.html&title=The%20best%20athletes%20(and%20VxBlock%201000)%20%3D%20faster%2C%20higher%2C%20stronger!', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">January 09, 2018</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301b8d2ce07d8970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2018/01/what-a-start-to-the-year.html">What a start to the year...</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>It&#39;s been a crazy couple days on a couple fronts, but the most material front has certainly been Spectre and Meltdown.</p>
+<p>There are lots of sources, and the trick is that while distinctly the root cause lies in the CPU domain and with the CPU manufacturers- the impact touches nearly everything.</p>
+<p>It&#39;s been keeping the team here busy for a while.</p>
+<p>For Dell customers - <a href="https://www.dell.com/support/contents/us/en/19/article/product-support/self-support-knowledgebase/software-and-downloads/support-for-meltdown-and-spectre">here&#39;s the main place</a> for aggregation of the latest official information and updates - for everything from clients, storage, network, data protection, and CI/HCI.&#0160;&#0160; This page also links to key partner ecosystem official landing pages.</p>
+<p>One that I want to call out specifically - VMware customers have some benefits naturally, but updates are still critical, and you can read more on that <a href="https://www.vmware.com/us/security/advisories/VMSA-2018-0002.html">here</a>.</p>
+<p>Yes CI and HCI customers there will be formal system level updates (and they will be on that page) including RCM updates for VxBlock and VxRack FLEX, as well as automated updates for VxRail and VxRack SDDC.&#0160;&#0160; We&#39;re aggregating up all the impact assessment and rolling everything into a common update.</p>
+<p>For those seeking to understand what this is all about, I would start:</p>
+<ul>
+<li><a href="https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html">Here</a> if you want &quot;just the facts&quot; and are of a comp-sci bent - the Project Zero blog from Google is pretty authoritative on the root cause and how the exploits work (though it was discovered by several groups nearly simultaneously)</li>
+<li><a href="https://www.theregister.co.uk/2018/01/04/intel_amd_arm_cpu_vulnerability/">Here</a> if you want the summary, with some added commentary/snark (in classic El Reg style).</li>
+</ul>
+<p>A little bit of personal perspective:</p>
+<ul>
+<li>IMHO, this falls into the &quot;failure of imagination&quot; error category - like the fire in Apollo 1.&#0160;&#0160; It&#39;s so obvious now how speculative execution could be exploited, but it&#39;s a facepalm moment.&#0160; My 2 cents - witch-hunts don&#39;t help, learning does.&#0160; We will pick ourselves up, learn, and get better from the failure.</li>
+<li>I know it&#39;s hard - but try to pragmatically work the problem, not guess.&#0160; Since the cause is with the CPUs, but the impact is industry wide, lean on your partner ecosystem to help you (certainly not limited to Dell Technologies, there&#39;s a lot coming from Intel, ARM, AMD, Microsoft, Google, Apple and others)</li>
+</ul>
+<p>To continue the space program metaphor, and to quote the one and only Gene Krantz: <em>&quot;Let&#39;s work the problem people. Let&#39;s not make things worse by guessing.&quot;&#0160;&#0160;&#0160; </em></p>
+<p>It&#39;s only logical that the fixes and workarounds for these 3 exploits will have some degree of performance impact (since they are fixing/working around a flaw in something that is a performance optimization, namely speculative execution).&#0160;&#0160;&#0160; But - the impact will vary.&#0160;&#0160; I&#39;ve seen people latch on to early data, or data from one workload or another, or one test that they read online somewhere.&#0160;&#0160; Let&#39;s not panic, let&#39;s pragmatically work the problem together.</p>
+<p>Welcome to 2018!</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 07:24 AM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2018/01/what-a-start-to-the-year.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2018/01/what-a-start-to-the-year.html#comments">Comments (1)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301b8d2ce07d8970c'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F01%2Fwhat-a-start-to-the-year.html&text=What%20a%20start%20to%20the%20year..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F01%2Fwhat-a-start-to-the-year.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2018%2F01%2Fwhat-a-start-to-the-year.html&title=What%20a%20start%20to%20the%20year...', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">December 22, 2017</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301bb09e23ce6970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/to-allthank-you-for-2017-and-lets-dream-of-2018.html">To all&ndash;THANK YOU for 2017, and lets dream of 2018!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>To all my readers, all our customers and partners, all my colleagues, all my friends – heck my competitors, thank you for everything in 2017.&#160;&#160; </p>  <p>It was a year filled with change for me in the middle of a massive integration through the Dell acquisition – with a ton of learning, a ton of personal development/growth, and on the basis of the team – a ton of impact in the marketplace.</p>  <p>But – looking at the bigger picture, I get the sense it was a year of change for many.&#160; It was a turbulent year in the world – everything seeming a little unsettled.&#160;&#160; </p>  <p>It was also a year of so much creation, so much progress.&#160;&#160; </p>  <p>Whenever I need a grounding, I spend time with two sources of energy for me: 1) on a personal level, this is my family (on whom I depend ultimately for my grounding – ultimately the most important source of everything for me); 2) at work, I get energy from the customers whom we serve.</p>  <p>Take the time to click on these tweets below, and watch the videos, listen to these customer stories.&#160; </p>  <blockquote>   <p><strong><em>I know that my team and I are fiercely competitive and love winning.&#160;&#160; All customers are precious – but sometimes it’s the ones that people miss are the most amazing.&#160;&#160; These ones are ones where we’re helping drive human progress forward in our own small way. </em></strong></p> </blockquote>  <p>They are amazing stories, and each are only a minute or two in duration.&#160;&#160; They are inspiring to me, and I hope they are to you as well!</p>  <p><a href="https://twitter.com/DellEMC_CI/status/940929804764962816"><img title="clip_image001" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="clip_image001" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09e23ce2970d-pi" width="197" height="192" /></a><a href="https://twitter.com/AeroFarms/status/940660317234876416"><img title="clip_image002" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="clip_image002" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c93f2a26970b-pi" width="110" height="194" /></a><a href="https://twitter.com/DellEMC_CI/status/939616650718011393"><img title="clip_image003" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="clip_image003" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c97e46970c-pi" width="130" height="193" /></a><a href="https://twitter.com/DellEMC_CI/status/941315857996746752"><img title="clip_image004" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="clip_image004" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c97e4a970c-pi" width="168" height="193" /></a></p>  <p><b>It isn’t easy – for anyone.</b>&#160;&#160; We each have our own mountains to climb, but we can do it, particularly when we do it together.&#160;&#160; THANK YOU – not only from me, but the whole Converged Platform and Solutions leadership team (click on the picture below)</p>  <p><a href="https://www.youtube.com/watch?v=_DYrFozhM6o"><img title="clip_image006" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="clip_image006" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c93f2a2a970b-pi" width="600" height="224" /></a></p>  <p><b><i>I’m looking forward to unplugging for a bit starting tonight.&#160;&#160; It’s so important for each of us to ground ourselves, reflect on the world, the people around us.&#160; </i></b></p>  <p><i>Dream of what the next orbit around the sun will bring: challenges and changed to be sure – but that’s part of the fun.&#160; Trials are what bring tribulations.&#160;&#160; New challenges are what create the opportunity for fresh victories.&#160;&#160; Change brings new friends, new learning and new personal growth.&#160;&#160; </i></p>  <p><strong>Thank you all – and may you all have a safe, happy holidays!</strong></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 11:46 AM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/to-allthank-you-for-2017-and-lets-dream-of-2018.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/to-allthank-you-for-2017-and-lets-dream-of-2018.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/to-allthank-you-for-2017-and-lets-dream-of-2018.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301bb09e23ce6970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Fto-allthank-you-for-2017-and-lets-dream-of-2018.html&text=To%20all%26ndash%3BTHANK%20YOU%20for%202017..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Fto-allthank-you-for-2017-and-lets-dream-of-2018.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Fto-allthank-you-for-2017-and-lets-dream-of-2018.html&title=To%20all%26ndash%3BTHANK%20YOU%20for%202017%2C%20and%20lets%20dream%20of%202018!', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">December 21, 2017</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301b8d2c94e6e970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018-vertical-stack-wars-are-upon-us.html">Looking forward to 2018: Vertical &ldquo;Stack Wars&rdquo; are upon us.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>This is part 3 of a 3-part blog series on things that I’m thinking about going into 2018. </p>  <blockquote>   <p><em>Warning – remember, Virtual Geek post are my musings, not an official company position.&#160;&#160; They are officially my opinions – which means they aren’t worth more than 2 cents.&#160; They aren’t authored by anyone else, and with the RAREST of exceptions (I can think of only 2 amongst thousands of posts) they don’t get reviewed.&#160;&#160;&#160; I’ve only every removed one post (to avoid harming customers), and in all other cases, I’ve made additions (noting changes) rather than removing the content. </em></p> </blockquote>  <p>You can read the first – which explores HCI and the “build” and “buy” choices that are patterns which are emerging <a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html">here</a>.</p>  <p>You can read the second – which shares my point of view that HCI is really just a head-fake.&#160; It’s not really about HCI at all – or infrastructure at all for that matter (rather whether private *aaS clouds can get simple enough, compelling enough to scale) <a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-2-hint-its-not-about-infrastructure.html">here</a>.</p>  <p>This third post is short and sweet – but perhaps the most controversial, because it will get “lock in” people crawling out of the woodwork.</p>  <p>I think we’re moving into an era where vertical “Stack Wars” are upon us – and I think this will trigger an era of ecosystem destruction/construction.</p>  <p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c94e6a970c-pi"><img title="maxresdefault" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="maxresdefault" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09e20c28970d-pi" width="600" height="338" /></a></p>  <p>I think that part 1 <a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html">blog post</a> is really about the trigger event, the equivalent of the “assassination of Duke Ferdinand” and WWI, and no, I don’t mean “HCI” – rather the idea embedded there.</p>  <p>Customers are evaluating “build” and “buy” choices in a new light in evaluating stack choices.&#160; It’s notable that some of the comments on the blog post (I’ll respond to them later) highlight what is, in my mind, the “wrong way” to think about “build and buy” choices.&#160;&#160; The defining element of a “buy” choice is not about any of the ingredients – rather a<strong><em> transfer of accountability</em></strong>.&#160;&#160; The whole thing below that layer becomes “someone else’s problem” (including sustaining it, and lifecycle/operations functions).</p>  <p>This isn’t a new thing – but the Public Cloud and SaaS waves of the last few years have shone a light on the effects of variation – which on their own seem so small (picking component X over component Y) – but in aggregate create complexity in the whole stack.&#160; <em><strong>Public Cloud and SaaS show what can happen when you say “underneath this layer, there will be NO variation, and it’s not your problem… and therefore you don’t have a choice in that matter”.</strong></em></p>  <p><strong>This first meta point</strong> means that the incremental value of a variation of a component has to be greater than ever to “break a stack”.&#160;&#160; The value needs to be enormous.&#160;&#160; </p>  <p>IMO, it’s a terrible time to be a business where you provide a component in a stack – a better widget.&#160;&#160; Conversely, it’s a great time to create value on TOP of a stack.&#160;&#160; </p>  <p><strong><u>THUD.</u></strong>&#160;&#160; That’s the “sound” of an implication that flows from the meta point.&#160;&#160;&#160; The first meta point (“breaking a stack” becomes fatal) will have a big impact on the startup ecosystem – and means that yup, 2018+ will be years of consolidation in these spaces.&#160;&#160; You can see it in 2017, where the SDN startups all started to get picked up.&#160; The HCI consolidation was another example.&#160; Ditto with storage tuck-ins.</p>  <p>The part 2 blog post is the next logical step.&#160;&#160; People don’t want servers, storage, network – or CI/HCI for that matter (though that’s a step towards “someone else’s problem”) – they want platforms they consume vs construct.&#160;&#160; They want IaaS/PaaS/CaaS/DaaS platforms.</p>  <p>OK – that statement is a little too binary – of course, there is a huge, long tail of infrastructure underneath internal applications that for one reason or another won’t run on platforms, and will run on servers/networks/storage/CI.&#160;&#160;&#160; But – beyond that long tail – I stick to my guns.&#160;&#160; Customers want cloud platforms.&#160;&#160; Fundamental forces result in multi (there will be multiple cloud platforms) and hybrid (economic drivers, data gravity drivers, data sovereignty drivers) cloud models – but those will be the platforms that are the new commodities to select from.</p>  <p><strong>This second meta-point</strong> means that the consolidators will HAVE to be able to offer a full opinionated stack all the way up to the IaaS/PaaS/CaaS/DaaS level – or frankly just won’t be in a position to play.&#160;&#160; Why?&#160;&#160; Competing against the hyper-scale clouds will require extremely opinionated stacks – otherwise you cannot simplify enough, standardize enough, execute enough.</p>  <p><strong><u>THUD.</u></strong>&#160;&#160; That’s the “sound” of an implication that flows from the meta point.&#160;&#160;&#160; The second meta point will have a big impact on the remaining players left standing.&#160;&#160; If you aren’t clear, and opinionated on your answer for an IaaS/PaaS/CaaS/DaaS platform, and it’s not compelling – you will be increasingly in a world of hurt as the alternatives (public cloud stacks) get stronger every day.</p>  <p>This 2nd one is terrifying and inspiring for me at the same time.&#160;&#160; </p>  <p>As Dell Tech – we have a clear set of assets of our own to have awesome vertically integrated IaaS/PaaS/CaaS/DaaS stacks (as well as the IoT and AI/ML stacks right behind them) – but we haven’t yet proven (at scale) an ability to pull it all together, and iterate fast.&#160; FAST.&#160;&#160; That’s our challenge in 2018.&#160;&#160; It’s terrifying because it’s hard.&#160; It’s inspiring because we have a shot, we have the pre-requisites, and we CAN do it.</p>  <p><strong>Why will this be a controversial post?</strong>&#160;&#160; </p>  <p>Well – customers don’t like the intrinsic “reduction of choice” (at least “below the stack boundary”) that is implied and in fact inevitable from the 2 meta points.&#160;&#160; It means that we are moving inexorably towards a world of total infrastructure commoditization – and “infrastructure” doesn’t stop at “servers/networks/storage” (what people think of as “hardware”) – but ultimately to “commodity IaaS/PaaS/CaaS/DaaS platforms” (which is all about software). </p>  <p>The distinction between the hardware domain and software domain is irrelevant in the platform domain.&#160;&#160; A platform has functions, has services, has economic envelopes.</p>  <p>People in the years to come will evaluate and select from “platform” fungible asset classes (truly, the definition of commodity goods) which are at the platform level, not below.</p>  <p>It means that in the coming years, whole industries, business models, operating practices and careers are on “an endangered list”.&#160;&#160; In each of these “stack” refers to an IaaS/PaaS/CaaS/DaaS stack.&#160;&#160;&#160; What is on the “endangered list”?</p>  <ul>   <li>evaluating and acquiring open systems “sub component” level of a stack will die off (how IT budgets work).</li>    <li>building open systems “sub component” level of a stack will die off – with the exception of a consolidated list of mega players (how most of the IT ecosystem works today).</li>    <li>careers that specialize only in one “sub component” level of a stack will die off (how many IT careers work)</li>    <li>doing price arbitrage at that “sub-component” level of a stack will die off (how procurement teams are wired)</li>    <li>how vendor open ecosystems operate at the “sub-component” level of a stack will die off (how whole ecosystems function)</li> </ul>  <p>Now, will this happen all at once?&#160;&#160; <strong><em>Nope. </em></strong>&#160; Will it happen in 2018?&#160; <strong><em>I doubt that</em></strong>.&#160;&#160; </p>  <p>It’s like global warming and climate change – there’s a long buildup, and then the effects start to appear at the edges – debated by many… but over time, becomes more understood as inevitable.</p>  <p><strong><em>Now, I’m confident that humanity can, must, and will rally to deal with climate change – and it’s a bad analogy… I’m also hoping that this era of “vertical stack wars” has a more positive effect :-)</em></strong></p>  <p>I think that in the IT industry, the collapse of value that commoditization of a stack can AT THE SAME TIME create whole new ecosystems and new value on TOP of the commodity, even as it squeezes economic models and challenges ecosystems below that layer.</p>  <p>Our hand is pretty clear, and our strategy is pretty clear (at least to me) – 3 basic elements:</p>  <ol>   <li>Have the strongest of the fundamental building block ingredients to create a complete stack all the way up to the IaaS/PaaS/CaaS/DaaS layer, namely:</li>    <ol>     <li>clients – people will always have a way they interact with apps and info “a pane of glass”</li>      <li>server hardware – one of the most important of the commodities as it becomes the generalized “building block” for almost everything over time.</li>      <li>storage hardware and data protection (and the SDS stacks that are embedded in them) – where the data lives is important (and has always been).</li>      <li>networking hardware that leans into commoditization of networking hardware vs. pushing back against it.</li>      <li>compute/storage/networking/security software abstractions</li>      <li>simplified IaaS, PaaS, CaaS layers that embrace hybrid deployment models.&#160;&#160;&#160;&#160;&#160; </li>      <li>deep expertise in building, supporting, and sustaining integrated system stacks – all the way up to the IaaS/PaaS/CaaS/DaaS, including with the software necessary for full stack integration.</li>      <li>… and a couple places where I think we can do more (the data layer – distinct from the storage layer).&#160; </li>   </ol>    <li>BE OPEN.&#160;&#160; Win in the existing “stack sub-component” open ecosystems of choice – <strong><em>which will have a super-long tail, and is the bulk of the market today, and even for years to come</em></strong>.&#160;&#160; Here, gain share, consolidate the market, and support our customers.&#160;&#160; In this market, Dell has an ecosystem, VMware has an ecosystem, Pivotal has an ecosystem.&#160; These are only partially-overlapping Venn Diagrams – which creates strain.&#160;&#160;&#160; <em><strong>A critical element (one that I’m not sure all my colleagues fully internalize) – even winning here is NOT ENOUGH.</strong></em></li>    <li>     <div align="left">At the same time, BE OPINIONATED.&#160;&#160; We simply must do the best job of delivering simple, consumable on-premises full platform stacks that are Dell Technologies aligned.&#160;&#160; Recognize that these platform stacks – at the IaaS, PaaS, CaaS and DaaS layer will have to be hybrids – in some cases running on our HCI, but also on the hyper-scale public clouds.&#160; </div>   </li> </ol>  <p align="left"><strong>We can be fine (and others can to) with #1, and #2 in the near term.&#160;&#160; However, ONLY if we can do #1, #2, and <u>especially #3</u> can we win in the long term.&#160; Daunting, but exciting.</strong></p>  <p align="left">Last thought work wise for the year (one more “thank you” post of course!)…&#160; <strong><em>It’s not clear what some of the folks in the industry are going to do here.&#160;&#160; Ergo, what will be their opinionated full stack?</em></strong>&#160;&#160;&#160; </p>  <blockquote>   <p align="left"><em>Don’t let the canard argument of “we support an open ecosystem, so don’t need or want a stack” hold up.&#160; We <u><strong>all</strong>&#160;</u>play in that open ecosystem – but in the era of “vertical stack wars”, that won’t be sufficient.&#160;&#160; If you agree with my two meta points, you recognize that doing #1 and #2 awesomely will be OK (and maybe hold up for a while) – but simply not enough.&#160;&#160; Everyone will need to have a #3 for long-term (i.e. 10 years from now) viability.</em></p> </blockquote>  <p align="left">Some have the wherewithal (in cash, in resources, in customers), but haven’t yet played their hand.&#160;&#160; If/when they do – they will need to be massive changes.&#160;&#160; I’m fascinated by whether the answer to the fact they haven’t made their moves as a signal that: a) I’m wrong fundamentally (very possible!); 2) they are waiting for something (rarely a good move); 3) they are aware of what’s going on, but lack some sort of conviction.</p>  <blockquote>   <p align="left"><em>OPINION: An example here is Cisco.&#160;&#160; Listening to their earnings calls over the last while, they have been doing OK, and have made some big acquisitions that I’m jealous of (ahem App Dynamics), and they are trying hard to navigate the disruption to their cash cow business.&#160;&#160; They are in the HCI business, and we compete periodically there – at the same time that we partner on CI.&#160;&#160; But – they are clearly not trying to be a platform player up to the IaaS/PaaS/CaaS layer – in that domain, it’s mostly ecosystem.&#160;&#160; I think (??) their PoV is rooted in the “platforms will need to be connected via networks” which of course is true.&#160;&#160; But – I don’t think that will be enough, particularly as the carriers and service providers embrace commodity networking hardware and open SDN stacks.&#160;&#160; That said – maybe the “waiting for something” is the ability to repatriate off-shore capital which under the new tax law will have a grace period.&#160;&#160; The shopping list would need to be longer than people think, but of course it’s possible.&#160;&#160; Then again, what the heck do I know :-)</em></p> </blockquote>  <p align="left">Some of the smaller players are pushing to shift – either trying to become a vertical stack of their own, or to shift to be a value on TOP of other vertical stacks.</p>  <blockquote>   <p align="left"><em>OPINION: An example here is RedHat.&#160;&#160; They have a strong vertically integrated IaaS/PaaS/CaaS stack.&#160;&#160; Some of the open-source zealots get mad about how RedHat links up the value of their stack.&#160;&#160; BTW - no offense intended with the term, but you know who you are… ideas, particularly ideas like open-source are powerful forces for good, but when people get zealous about ANY idea it can get funky.&#160; “Snapping their stack together” is right.&#160;&#160; It’s not because RedHat is bad, evil or Machiavellian.&#160; They are responding to a clear market imperative for a vertically integrated stack.&#160;&#160; RedHat is clearly an important partner in our Dell EMC #2 open ecosystem strategy, but not in our Dell Technologies #3 vertically integrated stack strategy.</em></p>    <p align="left"><em>OPINION: Another example here is Nutanix.&#160;&#160; They are shifting to a vertical stack vs. their starting point of an “open HCI” (“if you like vSphere, use vSphere!”) – which remains the majority of their customer base, though on every earnings call, they point out AHV growth.&#160;&#160; If you loved them for being open, great.&#160;&#160; Just expect that as they add new capabilities to shift towards a “cloud stack” (visible already), you are going to get pressed into their vertical stack from the bottom to the top.&#160;&#160; Again, like with RedHat, I don’t think it’s Machiavellian, and I’m not not being negative, I think it’s the only rational move, so I respect it.&#160;&#160; That said – every customers will end up needing to chose who they make their vertical stack bets on.&#160;&#160; Nutanix is clearly in our Dell EMC #2 open ecosystem strategy, but not in our Dell Technologies #3 vertically integrated stack strategy.</em></p> </blockquote>  <p align="left">Some don’t have the wherewithal, and will fight (strongly!) in the open ecosystem component businesses.&#160;&#160; I respect all competition, but here I won’t give specific examples/opinions here, I’ll leave them unwritten.</p>  <p align="left">Some have it all, but don’t seem to have the will – I’ll leave my opinions here unwritten.</p>  <p align="left"><strong>We live in interesting times!&#160;&#160; </strong></p>  <p align="left"><em>There you have it – 3 thoughts for the end of the year, imagining what the year to come has in store.&#160;&#160; </em></p>  <p align="left"><em>My last post of the year will be a “thank you” post to all, but I’ll start here.&#160; THANK YOU.&#160; THANK YOU for being a reader of Virtual Geek.&#160; I hope that you get something (even if you get ideas, or just get angry) from reading.&#160;&#160; As always, would love your thoughts and feedback.&#160;&#160; I don’t censor comments – I only filter to avoid spam (there’s a lot that get by the automated filters).</em></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 04:25 PM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018-vertical-stack-wars-are-upon-us.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018-vertical-stack-wars-are-upon-us.html#comments">Comments (1)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018-vertical-stack-wars-are-upon-us.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301b8d2c94e6e970c'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018-vertical-stack-wars-are-upon-us.html&text=Looking%20forward%20to%202018..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018-vertical-stack-wars-are-upon-us.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018-vertical-stack-wars-are-upon-us.html&title=Looking%20forward%20to%202018%3A%20Vertical%20%26ldquo%3BStack%20Wars%26rdquo%3B%20are%20upon%20us.', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301bb09e1faa1970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-2-hint-its-not-about-infrastructure.html">Looking forward to 2018&ndash;Part 2: Hint, it&rsquo;s not about infrastructure.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>If you’re just catching up, this is a part of a multi-blog post epic saga (ha!) with some things that are on my mind as I reflect towards 2018.</p>  <p>I’d encourage you to read the first part <a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html">here</a>, which discussed the way I see the HCI market choosing between “build” and “buy” choices, and reflected on how this isn’t a new thing – it’s a debate that occurs at every part of the stack.</p>  <p><b><u>PART 2: Hint, it’s not about infrastructure.</u></b></p>  <p>Just like I’ve always believed that no human ever woke up and said “I need a storage array” or “I need a server”, or “I need vSphere”.&#160;&#160; Likewise, no human ever woke up and said “I need CI/HCI”.</p>  <p><b><i>What do I mean?</i></b></p>  <p>There are people that THINK they need server/network/storage/virtualization/HCI – but they are delusional, or put more nicely, they lack the macro right perspective.&#160;&#160; All infrastructure exists solely to support use cases, workloads, and ultimately applications and business processes.</p>  <p><b><i>Infrastructure is purely a means to an end, not an end to itself.</i></b></p>  <p>Yes, the infrastructure matters, most of all in it’s availability, but also its performance, it’s economic envelope (which is measured in bunch of different ways)</p>  <p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09e1fa9b970d-pi"><img title="image" style="border: 0px currentcolor; border-image: none; display: inline; background-image: none;" border="0" alt="image" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c93ee595970b-pi" width="600" height="336" /></a></p>  <p><strong><em>What’s actually underneath the black drop cloth is not the important thing.&#160; The outcome is the important thing.</em></strong></p>  <p>This is a point that I think often IT practitioners need to keep very “front and center” in their minds.&#160;&#160;&#160; The tendency to focus on components rather than systems is the essence of the “build” to “buy” continuum I discussed in part 1 of this blog post series.</p>  <p><strong><em>So then… What are the outcomes our customers are seeking?</em></strong></p>  <p>The most requested on-premises workloads are NOT a specific workload per se – but a generalized platform.&#160;&#160;&#160;&#160; This is a switch from years past, when we would spend oodles of time testing, validating, documenting and building lab queens for singular workloads.</p>  <p><strong><em>The demand has shifted to generalized workload platforms – specifically Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), Desktop-as-a-Service (DaaS) and now Container-as-a-Service (CaaS) platforms.</em></strong></p>  <p>I’m going to be pretty binary in the next statement – the infrastructure underpinnings – the “what’s under the black drop-cloth” under these *aaS platforms are HCI – period. </p>  <p>If the x86 server + virtualized compute/SDS/SDN have become the “bricks”, HCI has become the “foundation”, and these IaaS/PaaS/DaaS/CaaS generalized platforms are the “house”.&#160; Why?</p>  <ul>   <li>You cannot build simplicity on top of complexity.&#160;&#160; HCI and software defined approaches are simpler.&#160;&#160; *aaS models demand simplicity – and have their own stacks with their own moving parts.&#160;&#160; </li>    <li>     <p>You cannot automate on top of rigidity.&#160;&#160; HCI and software defined approaches are more programmable and API driven – they expect more frequent updates and change.&#160;&#160; Trust me, as the person where the “buck stops” for thousands of the largest CI stacks, I know what goes into a life-cycle update.&#160;&#160; We do it better than anyone else with VxBlock, and it involves engineering and services perfection, careful planning and maintenance windows.&#160;&#160; Conversely, we do remote lifecycle updates of VxRail all day long during business hours.&#160; You simply cannot lifecycle a *aaS on an infrastructure stack that itself is hard to lifecycle.</p>   </li>    <li>     <p>You cannot make really good utility economic models on top of things that have massive “step functions” in their base cost of goods.&#160;&#160; HCI and software-defined appraoches scale in a fundamentally different way – were “pay as you use” models have a strong benefit, as the infrastructure is supporting a platform where consumption is more difficult to predict.</p>   </li> </ul>  <p>It’s for those 3 reasons that when you are looking for an *aaS platform – odds are very, very good that the answer to “what is under the black drop cloth” is HCI.</p>  <p><strong>SIDEBAR: Now, so people don’t get binary, let’s talk about where I see the answer under the black drop-cloth being CI, and not HCI.</strong>&#160;&#160; </p>  <ul>   <li>Most SAP HANA and SAP projects are a better fit on things like CI.</li>    <li>Most EPIC projects are a better fit on things like CI.</li>    <li>Most Oracle ERP projects are a better fit on things like CI.</li> </ul>  <blockquote>   <p>These examples that tend to “CI” (and others like them) are due to several factors:</p>    <ol>     <li>Legacy data service requirements (some of these have very specific legacy remote replication behaviors)</li>      <li>Long cycle time for application stack validation.&#160;&#160; In several of the cases above – the validation process is very geared towards “legacy” stack design, and they are tried and true. </li>      <li>Risk aversion (even if it’s not for real technical reasons).&#160;&#160; In the list above – the infrastructure is a tiny, tiny fraction of the overall cost, and I find that customers (and the systems integrators/business consultants that invariably are attached to those projects) tend to “stick with what they know”.</li>      <li>Unusual CPU/Memory vs. Persistence ratios.&#160;&#160; While the old canard that “HCI doesn’t scale CPU/Memory independently” is no longer explicitly true (many HCI platforms have many node types, can add memory/storage to nodes independently, can mix clusters of different node types) – it’s still true that if you need a LOT of CPU/Memory and a LITTLE storage (or vice versa), the economics of traditional CI models win over HCI (even factoring in operational benefits).&#160; </li>      <li>Very “bound” multi-year scaling models.&#160; In the examples above, in general there is an understanding of the economic model over a multi-year consumption basis – and in fact a large capital economic step-function is a benefit, not a negative.</li>   </ol> </blockquote>  <blockquote>   <p>Each of these factors have two important qualifiers: “most” and “for now”.&#160;&#160; “Most” = there are some projects where either legacy data services are relaxed, or parts of the stack are validated (parts of EPIC are supported on HCI for example), the customers is less risk adverse etc. </p> </blockquote>  <p>But – for the world of IaaS, PaaS, CaaS, DaaS – those platforms are the “raison d’etre” of HCI.&#160;&#160; </p>  <p><strong>This is the basis of the “Hint: it’s not about infrastructure”.&#160;&#160; <u>The growth in HCI is a head-fake</u>.</strong>&#160;&#160; <strong>The real battleground is “can we make private, enterprise cloud work?”</strong></p>  <p>In Q4 2017, we came to an observation that we HAVE to make our Hybrid Cloud offers that focus on outcomes versus foundational elements simpler, easier, and more aligned.</p>  <p>Going into 2018:</p>  <ul>   <li>IaaS = I’m laser-focused on making our VMware Hybrid Cloud on VxRack SDDC simple to acquire, consume, lifecycle –<strong><em> a VMware Ready System, and our Dell Technologies aligned IaaS answer</em></strong>.&#160;&#160; We will of course continue to support “build it yourself” IaaS stacks in a wide variety of choices (VxBlock, VxRack FLEX, VxRail – heck, piece parts), with services to put it together.&#160;&#160; BUT - if you want “esay button IaaS” – this, along with it’s off-premises instantiation (VMware on AWS) is my focus – period.&#160;&#160; </li>    <li>PaaS/CaaS = I’m laser-focused on making PCF 2.0 (including Pivotal Container Services) on VxRail simple to acquire, consume, lifecycle –<strong><em> a Pivotal Ready System, and our Dell Technologies aligned PaaS/CaaS answer</em></strong>.&#160;&#160; We will of course continue to support “build it yourself” PaaS/CaaS stacks in a wide variety of choices (VxBlock, VxRack FLEX), with services to put it together.&#160;&#160; BUT - if you want “esay button PaaS/CaaS” – this, along with it’s off-premises instantiation (PCF on AWS/Azure/GCP) is my focus – period.&#160;&#160; </li> </ul>  <blockquote>   <p><em>Sidebar: Attentive readers may wonder why we use VxRack SDDC for IaaS, but VxRail for PaaS/CaaS.&#160;&#160; This is very intentional.&#160;&#160; PaaS/CaaS use cases are linked to specific HA design at the PCF layer, as well as correlate nearly 100% with SDN network segmentation – in our case NSX-T.&#160;&#160;&#160; Whereas IaaS use cases are well covered in VCF 2.3/VxRack today – the VCF/VxRack SDDC roadmap through 2018 will broaden to bring in the PaaS/CaaS use cases.&#160;&#160; VxRail can cover these use cases today.&#160;&#160;&#160; It also means that we MUST integrate VxRail and VxRack SDDC such that customers can start with VxRail and move non-disruptively to VxRack SDDC.&#160; On it.</em></p> </blockquote>  <p>… This is interesting, because it’s a reflection of two things:</p>  <ul>   <li>HCI isn’t about HCI.&#160; HCI is about making private enterprise clouds really possible with sufficient simplicity to scale.&#160;&#160; This is not new (we’ve been at this for years), but the learning has culminated in a realization of the need for maniacal focus.</li>    <li>It is a segue into tomorrow’s topic…</li> </ul>  <p><b><u>Next up tomorrow, a longer term (and perhaps the most controversial) post: Vertical “Stack Wars” are upon us.</u></b></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 11:17 AM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-2-hint-its-not-about-infrastructure.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-2-hint-its-not-about-infrastructure.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-2-hint-its-not-about-infrastructure.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301bb09e1faa1970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018part-2-hint-its-not-about-infrastructure.html&text=Looking%20forward..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018part-2-hint-its-not-about-infrastructure.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018part-2-hint-its-not-about-infrastructure.html&title=Looking%20forward%20to%202018%26ndash%3BPart%202%3A%20Hint%2C%20it%26rsquo%3Bs%20not%20about%20infrastructure.', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">December 19, 2017</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301bb09e17fb4970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html">Looking forward to 2018&ndash;Part 1: Buy to Buy and HCI (and more)</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>The ongoing evolution of HCI – 2017, 2018 and beyond – in three parts.</p>  <p>In 2016, EMC (and then Dell EMC) and VMware started with several goals – one of which was to become #1 in the HCI market by the end of 2017. <b>That mission was accomplished mid-year 2017, so check.</b></p>  <p>That said, as the calendar comes to a close, and I reflect a bit on the HCI market – I know we’re just getting started.</p>  <p><i>I also know that people will try to make this black and white. I’ve noticed that if I write a post on a topic, people sometimes assume it’s the only side of the story, or an official position.&#160;&#160; </i><i>It’s a weird accidental byproduct of Virtual Geek being a personal blog (off domain, I pay for it myself, and I compose during strange hours). Virtual Geek, remains my own labor of love - but naturally biased by what I do at work. </i></p>  <p><i>I’ve also found people want to be binary, to polarize every topic. People will read into this post series that it’s about CI **OR** HCI. Hint: it’s not – the Converged Infrastructure market will be the same size as the HCI market through 2020. Others will read into part 3 of the post that I’m saying that the “vertical stack wars” era means that there isn’t a need in the market for horizontal, open ecosystem CI/HCI stacks. Nope. Those are both are going a step too far in my humble opinion. </i></p>  <p><i>IT Industry transitions simultaneously are fast (grow rates shift seismically, and new ideas take hold quickly) but also take a long time (big long tails and complex systems with material and real inertia).</i></p>  <p>Back to the “where do I see HCI going next?”</p>  <p>There are two distinct HCI mega-trends that we are simultaneously leading (the largest player in the HCI ecosystem and are part of (in the broader ecosystem).</p>  <blockquote>   <p><b><em>Here’s I’m not talking about the shift TO HCI from traditional 3-tier IT stacks of server/network/storage. That is a transition is in flight (again, CI will be as big as HCI until a crossover I believe will be in 2020). </em></b></p> </blockquote>  <p><b><em>The drivers for HCI are basic, simple and clear:</em></b></p>  <ul>   <li>A fundamental IT need for simplification/automation through software (much lower costs to operate, and much better ratios of people/time : value)</li>    <li>The ongoing shift of value to software + industry standard hardware (faster tech adoption curve + scaling model)</li>    <li>The increasing recognition that infrastructure is something to be consumed, not constructed – and that shift keeps moving “northward” in stack (never ending commoditization at the bottom layers, and shift up the value stack).</li> </ul>  <p><u>What AM I talking about?</u> </p>  <p>There are 3 essential strategic observations about the market from where I sit – and I’m reflecting on as we enter 2018:</p>  <ol>   <li><strong>There are two HCI “ways forward” that are emerging.</strong> These two that fall into the natural “build” to “buy” continuum.&#160; Here, it’s about two ways that customers consume HCI: Software led + open ecosystem hardware (“Build”) and Integrated Systems (“Buy”).</li>    <li><strong>It’s NOT about HCI – it’s about cloud.</strong>&#160;&#160; The HCI value proposition is evolving northwards into turnkey cloud stacks (IaaS, PaaS, CaaS, DaaS), and increasingly I’m finding (and everyone is finding!) that you need the simplification of HCI as the “base strata” of a sustainable cloud stack.</li>    <li><strong>That we are in the first pitches of the first inning of an era of “vertical stack wars”.</strong>&#160;&#160; This isn’t just about us – there are many examples across the industry.</li> </ol>  <p>I think that these will be “challenging ideas” as they butt heads with things people have been doing for eons. I think that it means we’re also entering an era where ecosystems that have been around for decades will be challenged.</p>  <p>Personally, I’m determined to tackle these with the same ferocity and willingness to self-disrupt that has been necessary in tackling the first chapters of the HCI industry transition.</p>  <p>I’m convinced that these 3 simple observations will be taking a lot of my own cycles, and I suspect the cycles for many as we all participate in the next orbit around the earth, and I’m noodling furiously on it.</p>  <p>Read on for more!</p>  
+			</div>
+							<p class="entry-more-link">
+					<a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html#more">Continue reading "Looking forward to 2018&ndash;Part 1: Buy to Buy and HCI (and more)" &raquo;</a>
+				</p>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 04:14 PM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html#comments">Comments (2)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301bb09e17fb4970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html&text=Looking%20forward%20to%2020..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html&title=Looking%20forward%20to%202018%26ndash%3BPart%201%3A%20Buy%20to%20Buy%20and%20HCI%20(and%20more)', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">December 18, 2017</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301b7c93e261f970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html">Looking back on 2017: A turbulent year &ndash; but also a year of IT pragmatism</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Inevitably as a calendar year wraps up – one reflects back on the year past and dreams of the year to come.&#160;&#160;&#160; I’ve got a couple I want to get out before I curl up with a cup of eggnog, a book, by the fireplace with my family.</p>  <p>This first one is a look back, and then the next few will be a look forward.</p>  <p>Year in, year out, one thing that is constant is hyperbole and irrational exuberance.&#160; I think this is a natural part of human nature. We tend to like black and white and struggle with nuance and transition.&#160; We often pay too much attention to people who make statements that lack nuance.</p>  <p>There is no more current an example of this than the rise of public cloud. </p>  <p>When public clouds first started to gain traction years ago, prognostications about how each and every application workload would be moving into the cloud were made. <strong>They were wrong.</strong></p>  <p>Don’t misunderstand me. Anyone who attended or watched AWS re:Invent 2017, or who looks at the growth rates of Azure, of SFDC and other SaaS options knows that the public cloud is massive and is experiencing massive growth. </p>  <p><strong><em>Public Cloud (IaaS, PaaS, CaaS, SaaS, and server-less models all) are here to stay and are a critical part of every customer’s ecosystem.</em></strong></p>  <p><strong><em>But in 2017, I know from thousands of customer conversations that we’ve evolved our thinking. We’ve moved to a more <u>pragmatic</u> point of view.</em></strong></p>  <p><strong><u>FACT</u></strong>: There are whole classes of workloads that for economic, governance, and data gravity (compute tends to co-locate with data, because moving data is generally hard – as if it has “mass”) reasons are not ideally suited to run in a public cloud. </p>  <p><b>What public clouds did show us is that there is a better way to build IT infrastructure</b> – and they reinforced that standardization, simplification, and software-defined approaches are the foundation on which clouds are built.&#160;&#160; The public clouds shine a bright light that complexity and variation are the opposite of agility – which flows from simplification, standardization and automation (which in turn flows from software-defined everything).&#160; </p>  <p>From where I sit, I think a lot about 2017 through the lens of our part of that movement.&#160;&#160; We’ve taken those lessons to heart by developing a wide range of <a href="https://www.dellemc.com/en-us/converged-infrastructure/solutions.htm">converged</a> and <a href="http://www.dellemc.com/en-us/converged-infrastructure/hyper-converged-infrastructure.htm">hyper-converged infrastructure</a> (HCI) solutions that effectively turn local data centers into a private cloud with hybrid cloud capabilities. Instead of spending months configuring and integrating IT infrastructure, the pre-integrated systems from Dell EMC enable the internal IT organization to function as an internal cloud service provider.&#160;&#160; </p>  <p><strong><em>Note – this is one example of many of the long-running shift from “IT is something you construct” to “IT is something you consume”.</em></strong></p>  <p>If I think about the dialogs I’ve had with hundreds of customers through 2017, many clearly discovered that for certain workloads, there is an economic imperative to have a real private cloud part of a multi-cloud and hybrid cloud strategy. </p>  <p><strong><u>FACT</u></strong>: it is much less expensive to deploy long-running workloads, particularly those that have large amounts of data, and are not naturally cloud native app stacks – it’s less expensive in a private cloud in a datacenter or a colo than it is to host them in a public cloud… But <em><strong>only if you can have a stack that is simple enough, standard enough </strong></em>that it doesn’t look/feel like the way IT has been done, but instead follows “cloud-like” tech stacks and operational models.&#160;&#160; This economic fact is rooted in simple “rent, lease, own” economics in action.</p>  <p>The result is an era of new found pragmatism in IT circles I find myself in. Rather than assume everything is going to be automatically deployed on a public cloud, the customers I talk to now simply view the local data center as one choice of many clouds. Furthermore, just because an application workload began life in one cloud does not mean it will spend its entire life there.&#160;&#160; This is MOST true for cloud-native applications, but is even more true than ever for more traditional applications through containerization.</p>  <ul>   <li>There are many cases of application workloads created in public clouds to be migrated to an on-premises environment to contain costs. </li>    <li>At the same time, there are still plenty of workloads, such as legacy applications or databases not used often, that can be lifted and shifted into a public cloud as part of an effort to reduce cost or make room for additional applications deployed in the local data center. </li>    <li>And of course – the public IaaS/PaaS/CaaS cloud platforms play a critical workload when you need something for hours or days (and not months/years), or for workloads that have unknown scaling needs.</li> </ul>  <p>The need to not only be a public cloud consumer, but also to function as a cloud service provider is what's driving so many organizations to modernize their data centers. </p>  <p>And, if they’re making this IT transformation, they’re certainly looking at HCI as the “foundation” layer for their cloud models.&#160;&#160; <a href="https://blog.dellemc.com/en-us/idc-dell-emc-1-in-hci/">International Data Corp</a>. (IDC) recently reported that hyper-converged system sales grew 48.5% year over year during the second quarter of 2017, generating $763.4 million worth of sales. This amounts to 24.2% of the total value for combined integrated infrastructure and certified reference systems valued at $1.56 billion in the second quarter alone. Overall, Dell EMC is the largest supplier of this combined market segment with $763.4 million in sales, or 48.5 percent share of the market segment.</p>  <p><strong>The good news is that all these fierce debates about enabling technologies seem to be taking less time to play out.&#160;&#160;&#160; The next “wave of pragmatism” is around container orchestration/cluster management.</strong></p>  <p>Earlier in the year, container manager/cluster manager debates raged. </p>  <p>Now it's clear that Kubernetes is the standard around which everyone is rallying. Kubernetes can, will be, and IS being deployed on top of virtual machines, public clouds and bare-metal servers. </p>  <p>Another debate which seems to have burnt furiously – but has now burnt out, and is in “fierce pragmatism” phase is “kernel mode VMs” vs. “containers.” This was always a silly debate. Who cares? Yes, in some cases, container/cluster managers are deployed on Linux OSes on bare metal. However, in most cases, Kubernetes (and more generally, containers/cluster managers) are being deployed on top of kernel mode hypervisors to isolate applications in a way that not only provides better security, it prevents “noisy neighbor” applications from consuming all the available resources. Oh, and that darn intersection of hardware and software (which is always there). Again, pragmatism has won the day as IT organizations come to realize that containers and virtual machines complement each other.</p>  <p>IT leaders are starting to realize that the best way to approach IT is to start at the highest level of abstraction possible. If a simple process can be accomplished using a software-as-a-service (SaaS) application, chances are high that's probably going to be the simplest way of achieving that goal. </p>  <p>At the other extreme, if the process involves a high amount of differentiated business value, then chances are high that the organization should build a custom application. What IT organizations should not be wasting their time and resources on in this day and age is stitching together disparate pieces of infrastructure to support those applications. It makes little sense for IT organizations to re-invent the wheel, when vendors like us spend tens of thousands of work hours validating and optimizing complete IT systems for repeatable use.</p>  <p>That's why infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS) environment have become so widely employed. </p>  <p><strong>I’ll say it again: <em>IT is increasingly something consumed, not something constructed. The effort of invention, innovation and unique differentiation at each customer is accelerating its move into the application domain.</em></strong></p>  <p>Every minute and dollar spent on infrastructure is time and money that gets diverted away from applications and new services. Organizations today differentiate themselves on the quality of the digital experiences they enable for customers. The amount of differentiated business value that can be generated by manually optimizing IT infrastructure is minimal at best. As the business becomes more dependent on IT, there's a growing appreciation for accelerating outcomes. No business leader especially cares whether an IT administrator could wring an extra 10 percent of utilization out of a server or storage system. They want to have confidence in an IT organization that can responsibly respond to changing business conditions as adroitly whenever and, increasingly, wherever necessary.</p>  <p>I aspire, we aspire&#160; to make the infrastructure invisible—for the benefit of our customers. We want infrastructure, to some degree, to be boring.&#160;&#160; It’s when people get pragmatic that things get kind of boring, but also when the ball moves the furthest forward :-)</p>  <p>The biggest decision any IT leader needs to make today comes down to philosophy. </p>  <p>Inflexible IT infrastructure has contributed greatly to a negative perception of IT departments everywhere. IT leaders now have an opportunity to greatly enhance the perception of IT departments within their organization by focusing more on the art of the possible versus the constraints that have in many ways held IT organizations from reaching their full potential. </p>  <p>That’s a burden.&#160;&#160; It’s a leadership challenge to IT to be pragmatic, and lead the creative juices of their most precious assets (hint: humans, creativity/innovation, time) towards things that are valuable.</p>  <p>None of that means that every IT organization should deploy every application workload on premises, BTW.&#160; In the same way that I believe IT is increasingly consumed vs. constructed on premises (using HCI and turnkey cloud stacks), when a workload should be off-premises on IaaS/PaaS or just consumed as SaaS – go for it.</p>  <p>Pragmatism and transformation is all about deciding what you are going to STOP wasting time, blood, sweat and tears on and conversely deciding what matters most.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 05:25 PM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html#comments">Comments (0)</a>
+                                    
+				
+									<span class="separator">|</span>
+					<a class="entry-trackbacks" href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html#trackback">TrackBack (0)</a>
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301b7c93e261f970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html&text=Looking%20..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F12%2Flooking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html&title=Looking%20back%20on%202017%3A%20A%20turbulent%20year%20%26ndash%3B%20but%20also%20a%20year%20of%20IT%20pragmatism', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">November 30, 2017</h2>
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301b7c938b25a970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html">Dell EMC XC Series &ndash; the best path for Nutanix customers gets better!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><em><strong>While I would love to have every single customer leverage VMware technologies – some do not – and in the same way that VMware has their open ecosystem, so does Dell EMC</strong>.</em></p>
+<p>For those customers that have <strong>chosen not to standardize on VMware, </strong>we&#39;re also making 14<sup>th</sup> Generation PowerEdge Servers available as part of the Dell EMC XC Series.</p>
+<p>This update starts with the same core Dell EMC leverage – bringing the power of the 14th Generation of PowerEdge to the XC Series of appliances.</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c938b24c970b-pi"><img alt="image_thumb[21]" border="0" height="281" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c3010b970c-pi" style="margin: 0px; border: 0px currentcolor; display: inline; background-image: none;" title="image_thumb[21]" width="600" /></a></p>
+<p>Now – like VxRail – there’s more to XC than just the server hardware – there’s a critical layer that takes on all the systems integration layers.&#0160;&#0160; Calling it “software goop” is appropriate but insufficient.&#0160;&#0160; Like in the VMware ecosystem, customers can choose a “build it” or “buy it” experience – but it’s important to internalize what you are choosing to take on (not just once, but forever) when you choose to “build”.&#0160;&#0160; It’s of course the extensive system-level engineering, testing and support – but also software IP that matter when customers want to get out of the infrastructure business (aka “buy”).</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c30110970c-pi"><img alt="image_thumb[23]" border="0" height="253" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b7c938b253970b-pi" style="margin: 0px; border: 0px currentcolor; display: inline; background-image: none;" title="image_thumb[23]" width="600" /></a></p>
+<p>We’ve also been looking at other ways to delight the XC customer base – and have been investing in the ecosystem.</p>
+<p>The XC update also includes embedding Dell EMC Data Protection with Avamar directly into the Prism management interface, added new unique data protection for customers using Dell EMC XC and Microsoft Hyper-V together, and new Dell EMC Data Domain integration.</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09dbcb02970d-pi"><img alt="image_thumb[25]" border="0" height="304" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09dbcb06970d-pi" style="margin: 0px; border: 0px currentcolor; display: inline; background-image: none;" title="image_thumb[25]" width="600" /></a></p>
+<p>Furthermore – this means that XC gains some additional capabilities for customers deploying Hyper-V on Dell EMC XC:</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c30116970c-pi"><img alt="image_thumb[27]" border="0" height="316" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c3011a970c-pi" style="margin: 0px; border: 0px currentcolor; display: inline; background-image: none;" title="image_thumb[27]" width="600" /></a></p>
+<p>Thank you to all our XC customers, to Nutanix as our partner, and most of all – a thank you to the Dell EMC team that works hard to make XC the best path forward for customers who are looking for the Nutanix AOS stack!</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 09:19 AM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html#comments">Comments (3)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301b7c938b25a970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F11%2Fdell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html&text=Dell%20EMC%20XC%20..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F11%2Fdell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F11%2Fdell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html&title=Dell%20EMC%20XC%20Series%20%26ndash%3B%20the%20best%20path%20for%20Nutanix%20customers%20gets%20better!', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-chad_sakac entry-type-post entry" id="entry-6a00e552e53bd2883301b7c9389c56970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-vxrail-now-bigger-stronger-faster.html">Dell EMC VxRail - now bigger, stronger, faster!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Interestingly, the adjectives and superlatives in the title are not sufficient :-)&#0160; Today, our HCI portfolio also comes in “smaller” and “more cost effective” and “much more flexible”.</p>
+<p>Let me start with 3 “this I believe” strategic statements:</p>
+<ol>
+<li>I believe that the x86 server is becoming the base building block not just for compute – but through software defined stacks for storage, networking, and compute abstractions – the base building block for almost every workload.&#0160; This is why my PowerEdge brothers and sisters approached the design of the 14<sup>th</sup> Generation PowerEdge servers to not only be an idealized compute and virtualization platform – but build in more than 150 improvements focused on making them be the ideal platform for SDS and HCI stacks</li>
+<li>I believe that HCI, and more generally SDS stacks are able to support the majority of x86 workloads by count – today.&#0160;&#0160; While there are workloads that for various data services, or CPU/persistence capacity ratio reasons are supported ideally on traditional storage models – they are not the majority by count.&#0160; It’s important to realize we’re transitioning architectural approaches, and these transitions take time – but it’s not a tech thing at this point.&#0160;&#0160; This doesn’t mean “end of CI” or “end of external storage”.&#0160; It does mean “more and more HCI/SDS every day”.</li>
+<li>I believe that there are approaches to HCI – a “pick software, pick hardware” approach (“Build”) or an integrated system approach (“Buy”) – both are real, both are material in the marketplace, both are important, both are non-transient.&#0160;&#0160; <em>More on this one in another post coming soon.</em></li>
+</ol>
+<p>The facts are pretty supportive:</p>
+<p><a href="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301bb09dbb4a0970d-pi"><img alt="image" border="0" height="312" src="https://virtualgeek.typepad.com/.a/6a00e552e53bd2883301b8d2c2eae4970c-pi" style="border: 0px currentcolor; display: inline; background-image: none;" title="image" width="600" /></a></p>
+<p><strong>Today’s news is another milestone on our journey around 1, 2, 3.</strong></p>
+<p><strong>If you want to understand more – read on!</strong></p>
+
+			</div>
+							<p class="entry-more-link">
+					<a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-vxrail-now-bigger-stronger-faster.html#more">Continue reading "Dell EMC VxRail - now bigger, stronger, faster!" &raquo;</a>
+				</p>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 09:19 AM </span> <span class="separator">|</span> <a class="permalink" href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-vxrail-now-bigger-stronger-faster.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-vxrail-now-bigger-stronger-faster.html#comments">Comments (1)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00e552e53bd2883301b7c9389c56970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-twitter">
+     
+
+<a href="https://twitter.com/share?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F11%2Fdell-emc-vxrail-now-bigger-stronger-faster.html&text=Dell%20EMC%20VxRail%20-%20now%20bigger%2C%20strong..." target="_blank" class="share-link share-link-twitter">Tweet This!</a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-digg"><a href="http://digg.com/submit?url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F11%2Fdell-emc-vxrail-now-bigger-stronger-faster.html&amp;phase=2" class="share-link share-link-digg">Digg This</a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-delicious"><a href="http://del.icio.us/post" class="share-link share-link-delicious" onclick="window.open('http://del.icio.us/post?v=4&partner=typepad&noui&jump=close&url=https%3A%2F%2Fvirtualgeek.typepad.com%2Fvirtual_geek%2F2017%2F11%2Fdell-emc-vxrail-now-bigger-stronger-faster.html&title=Dell%20EMC%20VxRail%20-%20now%20bigger%2C%20stronger%2C%20faster!', 'delicious', 'toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/page/2/"><span class="pager-label">Next</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+                                                </div>
+                                        </div>
+                                        <div id="beta">
+                                                <div id="beta-inner" class="pkg">
+                                                        <!-- sidebar -->
+
+
+<!-- list_inlcude.tt  -->
+<div id="_google_analtyics_typelist_" class="module-typelist module">
+<h2 class="module-header"><!-- Google Analtyics TypeList --></h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7271749-1");
+pageTracker._trackPageview();
+} catch(err) {}</script></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="_blog_with_integrity_" class="module-typelist module">
+<h2 class="module-header"><!-- Blog with Integrity --></h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="http://www.blogwithintegrity.com/"><img src="http://www.blogwithintegrity.com/badges/BWI_125sq.jpg" border="0" alt="BlogWithIntegrity.com"/></a></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-syndicate module">
+	<div class="module-content">
+	<a href="https://virtualgeek.typepad.com/virtual_geek/atom.xml"><i class="fas fa-rss"></i> Subscribe to this blog's feed</a>
+	</div>
+</div>
+<div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://virtualgeek.typepad.com/.services/blog/6a00e552e53bd2883300e552ff1bc08834/search" class="form-search form-inline" role="search">
+
+            <input type="search" name="filter.q" results="5" value="" />
+            <input type="submit" value="Search" />
+            
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+<!-- list_inlcude.tt  -->
+<div id="disclaimer" class="module-typelist module">
+<h2 class="module-header">Disclaimer</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note">The opinions expressed here are my personal opinions. Content published here is not read or approved in advance by Dell Technologies and does not necessarily reflect the views and opinions of Dell Technologies or any part of Dell Technologies. This is my blog, it is not an Dell Technologies blog. </div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://virtualgeek.typepad.com/about.html">About</a></h2>
+</div>
+<div class="module-category-cloud module">
+	<h2 class="module-header"><a href="https://virtualgeek.typepad.com/virtual_geek/archives.html">Categories</a></h2>
+	<div class="module-content">
+		<ul class="module-list">
+			<li class="module-list-item cloud-weight-5"><a href="https://virtualgeek.typepad.com/virtual_geek/fud/">Anti-FUD</a></li>
+			<li class="module-list-item cloud-weight-1"><a href="https://virtualgeek.typepad.com/virtual_geek/customer-sucesses/">Customer Sucesses</a></li>
+			<li class="module-list-item cloud-weight-5"><a href="https://virtualgeek.typepad.com/virtual_geek/demonstrations/">Demonstrations</a></li>
+			<li class="module-list-item cloud-weight-4"><a href="https://virtualgeek.typepad.com/virtual_geek/emc-competitors/">EMC Competitors</a></li>
+			<li class="module-list-item cloud-weight-4"><a href="https://virtualgeek.typepad.com/virtual_geek/celerra-vsa-howto/">EMC VM Appliance HOWTO</a></li>
+			<li class="module-list-item cloud-weight-6"><a href="https://virtualgeek.typepad.com/virtual_geek/emc_stuff/">EMC VMware Strategy Stuff</a></li>
+			<li class="module-list-item cloud-weight-10"><a href="https://virtualgeek.typepad.com/virtual_geek/vmware-tech-guide/">EMC VMware Tech Stuff</a></li>
+			<li class="module-list-item cloud-weight-1"><a href="https://virtualgeek.typepad.com/virtual_geek/fc/">FC</a></li>
+			<li class="module-list-item cloud-weight-3"><a href="https://virtualgeek.typepad.com/virtual_geek/homebrew-vmware/">Homebrew VMware</a></li>
+			<li class="module-list-item cloud-weight-3"><a href="https://virtualgeek.typepad.com/virtual_geek/iscsi/">iSCSI</a></li>
+			<li class="module-list-item cloud-weight-3"><a href="https://virtualgeek.typepad.com/virtual_geek/joint-reference-architectures/">Joint Reference Architectures</a></li>
+			<li class="module-list-item cloud-weight-1"><a href="https://virtualgeek.typepad.com/virtual_geek/lol/">LOL</a></li>
+			<li class="module-list-item cloud-weight-3"><a href="https://virtualgeek.typepad.com/virtual_geek/nfs/">NFS</a></li>
+			<li class="module-list-item cloud-weight-1"><a href="https://virtualgeek.typepad.com/virtual_geek/personal/">Personal</a></li>
+			<li class="module-list-item cloud-weight-8"><a href="https://virtualgeek.typepad.com/virtual_geek/vmware-tech-stuff/">VMware Tech Stuff</a></li>
+			<li class="module-list-item cloud-weight-3"><a href="https://virtualgeek.typepad.com/virtual_geek/vmworld/">VMworld & EMC World</a></li>
+		</ul>
+	</div>
+</div>
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://virtualgeek.typepad.com/virtual_geek/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/fud/">Anti-FUD</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/customer-sucesses/">Customer Sucesses</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/demonstrations/">Demonstrations</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/emc-competitors/">EMC Competitors</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/celerra-vsa-howto/">EMC VM Appliance HOWTO</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/emc_stuff/">EMC VMware Strategy Stuff</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/vmware-tech-guide/">EMC VMware Tech Stuff</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/fc/">FC</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/homebrew-vmware/">Homebrew VMware</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/iscsi/">iSCSI</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/joint-reference-architectures/">Joint Reference Architectures</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/lol/">LOL</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/nfs/">NFS</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/personal/">Personal</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/vmware-tech-stuff/">VMware Tech Stuff</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/vmworld/">VMworld & EMC World</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://virtualgeek.typepad.com/virtual_geek/archives.html">See More</a>
+	</div>
+</div>
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">Its time for change, and change = renewed invention, renewed vigor, renewed discovery.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/the-best-atheletes-vxblock-1000-faster-higher-stronger.html">The best athletes (and VxBlock 1000) = faster, higher, stronger!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2018/01/what-a-start-to-the-year.html">What a start to the year...</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/to-allthank-you-for-2017-and-lets-dream-of-2018.html">To allTHANK YOU for 2017, and lets dream of 2018!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018-vertical-stack-wars-are-upon-us.html">Looking forward to 2018: Vertical Stack Wars are upon us.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-2-hint-its-not-about-infrastructure.html">Looking forward to 2018Part 2: Hint, its not about infrastructure.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-forward-to-2018part-1-buy-to-buy-and-hci-and-more.html">Looking forward to 2018Part 1: Buy to Buy and HCI (and more)</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/12/looking-back-on-2017-a-turbulent-year-but-also-a-year-of-it-pragmatism.html">Looking back on 2017: A turbulent year  but also a year of IT pragmatism</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html">Dell EMC XC Series  the best path for Nutanix customers gets better!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-vxrail-now-bigger-stronger-faster.html">Dell EMC VxRail - now bigger, stronger, faster!</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+
+<div class="module-recent-comments module">
+	<h2 class="module-header">Recent Comments</h2>
+	<div class="module-content">
+		<ul class="module-list">
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301b8d2de80f7970c#comment-6a00e552e53bd2883301b8d2de80f7970c">chip</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html?cid=6a00e552e53bd2883301b7c9527fcd970b#comment-6a00e552e53bd2883301b7c9527fcd970b">Chad Sakac</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html">Dell EMC XC Series &ndash; the best path for Nutanix customers gets better!</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html?cid=6a00e552e53bd2883301b7c952476b970b#comment-6a00e552e53bd2883301b7c952476b970b">Todd Johnston</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2017/11/dell-emc-xc-series-the-best-path-for-nutanix-customers-gets-better.html">Dell EMC XC Series &ndash; the best path for Nutanix customers gets better!</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301b8d2dc75da970c#comment-6a00e552e53bd2883301b8d2dc75da970c">Darren McCullum</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301bb09f56b30970d#comment-6a00e552e53bd2883301bb09f56b30970d">Danny Elmarji</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301b7c952019d970b#comment-6a00e552e53bd2883301b7c952019d970b">Gustav Xie</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301b7c951f2d4970b#comment-6a00e552e53bd2883301b7c951f2d4970b">Greg Knieriemen</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301b7c951eafe970b#comment-6a00e552e53bd2883301b7c951eafe970b">Vaughn Stewart</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301b8d2dc4f36970c#comment-6a00e552e53bd2883301b8d2dc4f36970c">Vaughn Stewart</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+			<li class="module-list-item">
+				<a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html?cid=6a00e552e53bd2883301bb09f52f82970d#comment-6a00e552e53bd2883301bb09f52f82970d">Tom Howarth</a> on <a href="https://virtualgeek.typepad.com/virtual_geek/2018/02/its-time-for-change-and-change-renewed-invention-renewed-vigor-renewed-discovery.html">It&rsquo;s time for change, and change = renewed invention, renewed vigor, renewed discovery.</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="module-syndicate module">
+	<div class="module-content">
+	<a href="https://virtualgeek.typepad.com/virtual_geek/atom.xml"><i class="fas fa-rss"></i> Subscribe to this blog's feed</a>
+	</div>
+</div>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+</div> <!-- row -->
+                        
+
+
+
+                </div>
+        </div>
+        
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=1664300&amp;user_id=3033332&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
