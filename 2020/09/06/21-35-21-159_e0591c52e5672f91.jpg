@@ -1,0 +1,2548 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=7"/>
+    <meta name="baidu_union_verify" content="70278ca12bda1561b9bf95a04d63cfc9">
+    <meta property="wb:webmaster" content="083dfd7526045837"/>
+    <title>在线漫画,火影忍者,海贼王,死神,动漫之家漫画网</title> 
+<meta name="keywords" content="漫画,在线漫画,火影忍者,海贼王,动漫之家漫画网,178漫画,动漫之家快翻组" /> 
+<meta name="description" content="动漫之家漫画网提供海量漫画,全天更新在线漫画欣赏,详尽的动漫资料库、动画资讯、用户评论社区于一体,它与在线动画站、动漫之家宅新闻三站合一，将成为国内更新较快,动漫视听享受较全,资料库较详尽的社区型动漫爱好者的交流互动平台" />
+    <base target="_blank">
+    <link rel="stylesheet" type="text/css" href="/css/base.css"/>
+<link rel="stylesheet" type="text/css" href="/css/style2011.css?t=20131210"/>
+<!-- <script type="text/javascript" src="/js/jquery.js"></script> -->
+<script type="text/javascript" src="https://static.dmzj.com/public/js/jquery-1.8.2.min.js"></script>
+<!--<script type="text/javascript" src="/js/nav_float.js?t=201504211525322dd"></script>-->
+<link rel="stylesheet" href="https://static.dmzj.com/public/css/global_nav.css"/>
+<script type="text/javascript" src="https://static.dmzj.com/public/js/globalNav.js?2015609" charset="utf-8"></script>
+<script type="text/javascript" src="https://static.dmzj.com/public/js/dmzj-land-2015.6.js?20156030"></script>
+<script type="text/javascript" src="https://static.dmzj.com/public/js/TSB.js?2015609" charset="utf-8"></script>
+<link rel="stylesheet" href="https://static.dmzj.com/ucenter/css/ucenterland.css?2015609"/>
+
+<link rel="stylesheet" type="text/css" href="https://static.dmzj.com/module/css/float_code.css"/>
+<script type="text/javascript" src="https://static.dmzj.com/public/js/jquery.cookie.js"></script>
+
+    <link href="css/slider.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="js/jeasing.pack.js"></script>
+    <script type="text/javascript" src="js/jeasing-c.pack.js"></script>
+    <script type="text/javascript" src="js/jslider.pack.js"></script>
+    <script type="text/javascript" src="js/cookie.js"></script>
+    <script type="text/javascript" src="js/comic2011.js?tt=20130925"></script>
+    <script type="text/javascript" src="js/pm.js?tt=20120220"></script>
+    <script type="text/javascript" src="/js/mcheck.js?tt=20130826"></script>
+    <!-- AFP两段式代码-公用代码 -->
+    <!-- <script type="text/javascript" src="//afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script> -->
+    <script type="text/javascript">window._pt_lt = new Date().getTime();</script>
+    <style>
+        /***少女漫画专栏样式**************/
+        .topnav {
+            height: 33px;
+            padding: 0 0 0 10px;
+            background: #f7f7f7 url(/css/img/vertical_line_bg.gif) repeat-x
+        }
+
+        .topnav li {
+            text-decoration: none;
+            float: left;
+            padding: 0 2px 0 0;
+            display: block;
+        }
+
+        .topnav li a {
+            text-align: center;
+            line-height: 28px;
+            height: 28px;
+            border: 1px #d4d5d9 solid;
+            display: inline-block;
+            padding-left: 8px;
+            background-color: #fff;
+            margin-top: 3px;
+        }
+
+        .topnav li a:hover, .topnav li a.current {
+            border-bottom: 1px #fff solid;
+            line-height: 32px;
+            height: 32px;
+            color: #ec136f;
+            text-decoration: none;
+            margin: 0
+        }
+
+        .topnav li a span {
+            padding-right: 8px;
+            cursor: pointer;
+        }
+
+        .topnav li a:hover span, .topnav li a.current span {
+            cursor: pointer;
+        }
+
+        .girlnew, .topnav2 {
+            overflow: hidden;
+            width: 713px;
+        }
+
+        .girlnew ul {
+            width: auto;
+            height: auto;
+            overflow: hidden;
+            padding: 14px 6px 7px 11px;
+            _padding: 14px 2px 7px 11px;
+            margin: 0
+        }
+
+        .topnav2 li {
+            float: left;
+            color: #666666;
+            line-height: 17px;
+            width: 100px;
+            padding: 14px 6px 7px 11px;
+            overflow: hidden
+        }
+
+        .topnav2 li a {
+            text-decoration: none;
+            display: block;
+        }
+
+        .topnav2 li a:hover {
+            text-decoration: underline;
+            color: #c8000a
+        }
+
+        .topnav2 li a:hover img {
+            border: solid 1px #c8000a;
+        }
+
+        .topnav2 li img {
+            height: 133px;
+            width: 100px;
+            border: solid 1px #d4d5d9;
+            background: #FFF;
+            padding: 1px;
+        }
+
+        .topnav2 li span strong {
+            padding: 0 2px 0 0
+        }
+
+        .topnav2 li span {
+            display: block;
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+<div class="toppic_content">
+    <div class="logobox">
+        <div class="logo_mh"><a href="/" title=""></a></div>
+        <a class="activity_pic" href="http://news.dmzj.com/article/3857.html" target="_blank"></a>
+        <!--logo_dh-->
+        <div class="navigation_list">
+            <div class="navigation_listbtn">
+                <ul>
+                    <li><a href="//www.dmzj.com/" title="原创漫画" target="_blank">原创漫画</a></li>
+<li><a href="//news.dmzj.com" title="动漫情报" target="_blank">动漫情报</a></li>
+<li><a href="//donghua.dmzj.com/" title="动画频道" target="_blank">动画频道</a></li>
+<li><a href="//manhua.dmzj.com" class="navigation_on" title="漫画频道">漫画频道</a></li>
+<!--<li><a href="//xs.dmzj.com/" title="轻小说">轻小说</a></li>-->
+<li><a href="http://zt.dmzj.com/h5pcgame/gameh5.html" class="navigation_on"  title="游戏中心">游戏中心</a></li>
+<li><a href="//bbs.dmzj.com/" title="动漫之家" target="_blank">动漫之家</a></li>
+
+<div class="bjclicks bjclick_left"></div>
+<div class="bjclicks bjclick_right"></div>
+
+<style type="text/css">
+	.bjclicks{
+		display: block;
+		position: fixed;
+		top:20px;
+		z-index: 0;
+		min-height: 1080px;
+	}
+	.bjclick_left{
+		left:0px;
+	}
+	.bjclick_right{
+		right:0px;
+	}
+	.flink-box-main {
+		background: #ffffff;
+	        padding: 10px 10px;
+	}
+	.search_content {
+	  background: #ffffff;
+	}
+</style>
+
+
+<script type="text/javascript">
+	/*
+	var bjJsons={}
+	var showid = 'Z5umpy'	
+	var refurl = escape(document.referrer)
+	//默认请求图片   
+	$.ajax({
+		type:'GET',
+		dataType: "jsonp",
+		url:'https://show-g.mediav.com/s?type=1&of=4&newf=2&scheme=https&showids=Z5umpy&uid=14660588809342515666870283076613&jsonp=showAds&refurl='+refurl,
+		//url:'https://ad-test.mediav.com/s?type=1&of=4&newf=2&scheme=https&showids=Z5umpy&uid=14660588809342515666870283076613&jsonp=showAds&refurl='+refurl,
+		data:{},
+		success:function(res){
+			console.log(res)
+		}
+	})
+
+
+	function showAds(res) {
+		console.log(res)
+		//return
+		bjJsons = res
+			
+			var bjimgs=bjJsons.adspaces.Z5umpy.ads[0].img	
+			if(bjimgs == "" || bjimgs==undefined) {
+				bjimgs=bjJsons.adspaces.Z5umpy.ads[0].limg
+			}
+			$("html body").css({"background":`url(${bjimgs})center top no-repeat`})
+			//打点请求
+			var dadianArry=bjJsons.adspaces.Z5umpy.ads[0].imptk
+			for(var i=0;i<dadianArry.length;i++){
+				if(i>=0){
+				    var ad_bg_img = new Image();
+				    ad_bg_img.src = dadianArry[i]
+				}
+			}
+	}
+	
+	
+	
+	//变换窗口透明背影宽度
+	$(window).resize(function () {
+		bjclick()
+	})
+	
+	
+
+	$(function(){
+		var startClick
+		var endClick
+		var clickX
+		var clickY
+		//控制两侧透明背影宽度
+		bjclick()
+		$(".bjclicks").keydown(function(){
+			startClick = new Date().getTime()
+		})
+		//点击事修的
+		$(".bjclicks").keyup(function(e){
+			clickX=$(this).offset().top;
+		        clickY=$(this).offset().left;
+						
+			endClick = new Date().getTime()
+			var dianjiArry=bjJsons.adspaces.Z5umpy.ads[0].clktk
+			for(var i=0;i<dianjiArry.length;i++){
+				if(i>=0){
+				    var ad_bg_img = new Image();
+                                    ad_bg_img.src = replace_url(dianjiArry[i])
+				}
+			}
+			
+			var hrefUrl = bjJsons.adspaces.Z5umpy.ads[0].curl
+			window.open(replace_url(hrefUrl))
+		})
+
+		function replace_url(url) {
+			
+			console.log(startClick, endClick, clickX, clickY)
+			url = url.replace('__EVENT_TIME_START__', startClick)
+			url = url.replace('__EVENT_TIME_END__', endClick)
+			url = url.replace('__OFFSET_X__', clickX)
+			url = url.replace('__OFFSET_Y__', clickY)
+			url = url.replace('__ADSPACE_W__', 1920)
+			url = url.replace('__ADSPACE_H__', 1080)
+			return url
+		}
+	})
+	//修改窗口宽度
+	function bjclick(){
+		var winwidth = $(window).width()
+		var banwidht=(winwidth-970)/2
+		console.log(banwidht)
+		 $(".bjclick_left").css("width",banwidht+'px')
+		 $(".bjclick_right").css("width",banwidht+'px')	 
+	} */ 
+</script>
+
+                </ul>
+            </div>
+            <!--navigation_listbtn-->
+            <div class="clearfix"></div>
+            <div class="qqnew"><a href="../rss.xml" class="rss" target="_blank">Rss订阅</a>
+                <ul>
+                    <li>目前最新：<a href="shenqinvxiahuidaowoshenbian/" class="qqnewlink1">神奇女侠：回到我身边</a> <a
+                            href="/shenqinvxiahuidaowoshenbian/103246.shtml" class="qqnewlink">[第08卷]</a></li>
+                    <li>动漫综合群：<span class="qqnewtext">74448318</span></li>
+                    <li>漫画讨论群：<span class="qqnewtext">260284741</span></li>
+                </ul>
+            </div>
+        </div>
+        <!--navigation_list-->
+    </div>
+    <!--logobox-->
+    <div class="clearfix"></div>
+    <div class="navbg1">
+        <ul>
+            <li><a href="/" class="navbg1btn_on" id="navbg1btn_ont" title="动漫之家漫画网首页"><span>漫画</span></a></li>
+                <li><a href="http://www.dmzj.com/app/pc.html" title="手机APP"><span>手机APP</span></a></li>
+                <li><a href="http://m.dmzj.com" title="手机漫画"><span>手机漫画</span></a></li>
+                <li><a href="/update_1.shtml" title="漫画更新"><span>漫画更新</span></a><span class="newbotton"></span></li>
+                <li><a href="/rank/" title="漫画排行" target="_blank"><span>漫画排行</span></a></li>
+                 <li><a href="/tags/category_search/0-0-0-all-0-0-0-1.shtml#category_nav_anchor" title="全部漫画分类" target="_blank"><span>全部分类</span></a></li>
+                <!--li><a href="http://acg.178.com/list/93666648665.html" title="漫画盘点" target="_blank"><span>漫画盘点</span></a></li-->
+                <li><a href="/tags/shaonian.shtml" title="少年漫画"><span>少年漫画</span></a></li>
+                <li><a href="/girl/" title="少女漫画"><span>少女漫画</span></a></li>
+                <li><a href="/tags/qingnian.shtml" title="青年漫画"><span>青年漫画</span></a></li>
+                <li><a href="/tags/riben.shtml" title="日本漫画"><span>日漫</span></a></li>
+                <li><a href="/tags/oumei.shtml" title="欧美漫画"><span>美漫</span></a></li>
+                <li><a href="/author/index.shtml" title="漫画家资料库" class="on"><span>漫画家</span></a></li>
+        </ul>
+    </div>
+    <!--navbg1-->
+    <!--ad js-->
+	<script src="https://www.dmzj.com/js/ad/ad_1.js?v=1" type="text/javascript"></script>
+
+    <div class="search_content">
+        <div class="search_list1">
+            <div class="hotsearch"> 热门漫画：<a href="/yiquanchaoren/" title="一拳超人">一拳超人</a><a href="/sthqgmn/" title="山田和七个魔女">山田君</a><a href="/yaojingdeweiba/" title="妖精的尾巴">妖精尾巴</a><a href="http://www.dmzj.com/info/heibaiwushuang.html" title="黑白无双">黑白无双</a><a href="http://www.dmzj.com/info/wunongliezhuan.html" title="巫农列传">巫农列传</a><a href="http://www.dmzj.com/info/guiyingzi.html" title="诡水疑云">诡水疑云</a><a href="http://www.dmzj.com/info/jiandienvgao.html" title="间谍女高">间谍女高</a><a href="http://www.dmzj.com/info/mwyyzysjsd.html" title="魔王与勇者与圣剑神殿">魔王与勇者与圣剑</a><a href="http://www.dmzj.com/info/luanru.html" title="乱入">乱入</a></div>
+
+            <div class="search_b_box">
+                <form method="get" target="_blank" action="tags/search.shtml"
+                      onsubmit="if(!this.s.value || this.s.value=='请输入漫画名或作者'){alert('请输入要搜索的内容！');return false;}"><span
+                        class="search_botton"></span><span><label>全站搜索：</label><input class="search_sr" type="text"
+                                                                                      value="请输入漫画名或作者"
+                                                                                      onfocus="if(this.value =='请输入漫画名或作者') this.value = '';"
+                                                                                      size="19" name="s"/></span>
+                    <span><input class="search_input" type="submit" value=""/></span></form>
+            </div>
+
+            <div class="clearfix"></div>
+        </div>
+        <!--search_list1-->
+        <div class="search_list2">
+            <div class="hottest_animation">
+                <ul>
+                    <span>推荐专题：</span>
+                    <li><a href="http://zt.dmzj.com" title="全部精彩专题" style="color:#FD3600">全部专题</a></li>
+                    <li><a href="http://zt.dmzj.com/xinmanzhoukan19" title="新漫周刊第19期">新漫周刊19</a></li>
+                    <li><a href="http://zt.dmzj.com/dashang201610" title="动漫之家人气作品官方安利">人气大赏</a></li>
+                     <li><a href="http://zt.dmzj.com/donghua201610" title="2016年10月秋季新番动画专题">十月新番</a></li>
+                    <li><a href="http://zt.dmzj.com/yinhexiwanjiemanyouzhinan02" title="近期完结漫画推荐专题第二弹">完结漫画02</a></li>
+                    <li><a href="http://zt.dmzj.com/xinmanzhoukan18" title="新漫周刊第18期">新漫周刊18</a></li>
+                    <li><a href="http://zt.dmzj.com/c90" title="Comiket90漫展专题">C90本子专题</a></li>
+                    <li><a href="http://zt.dmzj.com/xinmanzhoukan17" title="新漫周刊第17期">新漫周刊17</a></li>
+                    <li><a href="http://zt.dmzj.com/qixigouliangjie2016" title="七夕狗粮节-狗粮专卖">七夕狗粮节</a></li>
+                    <li><a href="http://zt.dmzj.com/yinhexiwanjiemanyouzhinan01" title="近期完结漫画推荐专题">完结漫画01</a></li>
+                    <li><a href="http://zt.dmzj.com/childrensday2016" title="那些曾经让你印象深刻的小学生们">儿童节专题</a></li>
+                </ul>
+            </div>
+        </div>
+        <!--search_list2-->
+        <div class="search_list2">
+            <div class="hottest_animation">
+                <ul>
+                    <span>漫画类型：</span>
+		                <li><a href="/tags/maoxian.shtml" title="冒险漫画">冒险漫画</a></li>
+		                <li><a href="/tags/huanle.shtml" title="搞笑漫画">搞笑漫画</a></li>
+		                <li><a href="/tags/aiqing.shtml" title="爱情漫画">爱情漫画</a></li>
+		                <li><a href="/tags/hougong.shtml" title="后宫漫画">后宫漫画</a></li>
+		                <li><a href="/tags/weiniang.shtml" title="伪娘漫画">伪娘漫画</a></li>
+		                <li><a href="/tags/xingzhuanhuan.shtml" title="性转换漫画">性转换漫画</a></li>
+		                <li><a href="/tags/baihe.shtml" title="ゆり漫画">ゆり漫画</a></li>
+		                <li><a href="/tags/gedou.shtml" title="格斗漫画">格斗漫画</a></li>
+		                <li><a href="/tags/kehuan.shtml" title="科幻漫画">科幻漫画</a></li>
+		                <li><a href="/tags/jingji.shtml" title="竞技漫画">竞技漫画</a></li>
+		                <li><a href="/tags/mofa.shtml" title="魔法漫画">魔法漫画</a></li>
+		                <li><a href="/tags/xuanyi.shtml" title="悬疑漫画">悬疑漫画</a></li>
+		                <li><a href="/tags/category_search/0-0-0-all-0-0-0-1.shtml#category_nav_anchor" title="全部分类">更多</a></li>
+                </ul>
+            </div>
+
+        </div>
+        <!--search_list2-->
+        <div class="search_list3">
+            <div class="initials_style">
+                <ul>
+                     <span>首字母：</span>
+                        <li><a href="/tags/a.shtml">A</a></li>
+                        <li><a href="/tags/b.shtml">B</a></li>
+                        <li><a href="/tags/c.shtml">C</a></li>
+                        <li><a href="/tags/d.shtml">D</a></li>
+                        <li><a href="/tags/e.shtml">E</a></li>
+                        <li><a href="/tags/f.shtml">F</a></li>
+                        <li><a href="/tags/g.shtml">G</a></li>
+                        <li><a href="/tags/h.shtml">H</a></li>
+                        <li><a href="/tags/i.shtml">I</a></li>
+                        <li><a href="/tags/j.shtml">J</a></li>
+                        <li><a href="/tags/k.shtml">K</a></li>
+                        <li><a href="/tags/l.shtml">L</a></li>
+                        <li><a href="/tags/m.shtml">M</a></li>
+                        <li><a href="/tags/n.shtml">N</a></li>
+                        <li><a href="/tags/o.shtml">O</a></li>
+                        <li><a href="/tags/p.shtml">P</a></li>
+                        <li><a href="/tags/q.shtml">Q</a></li>
+                        <li><a href="/tags/r.shtml">R</a></li>
+                        <li><a href="/tags/s.shtml">S</a></li>
+                        <li><a href="/tags/t.shtml">T</a></li>
+                        <li><a href="/tags/u.shtml">U</a></li>
+                        <li><a href="/tags/v.shtml">V</a></li>
+                        <li><a href="/tags/w.shtml">W</a></li>
+                        <li><a href="/tags/x.shtml">X</a></li>
+                        <li><a href="/tags/y.shtml">Y</a></li>
+                        <li><a href="/tags/z.shtml">Z</a></li>
+                        <li><a href="/tags/0.shtml">0~9</a></li>
+                        <li><a href="http://bbs.dmzj.com/thread-412604-1-1.html" style="border:0;background:#fff">推荐想看的漫画</a></li>
+                </ul>
+            </div>
+
+        </div>
+        <!--search_list3-->
+
+    </div>
+    <!--search_content-->
+
+</div>
+<!--toppic_content-->
+
+
+	<script src="https://www.dmzj.com/js/ad/ad_2.js?v=1" type="text/javascript"></script>
+<div class="wrap">
+    <div class="leftmiddle">
+        <div class="leftmiddle_mr">
+            <div class="today_recommended">
+                <div class="h2_title">
+                    <span class="h2_icon h2_icon1"></span>
+
+                    <h2>今日推荐</h2>
+						<span>
+							&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/disclaimer.shtml">动漫之家仅提供展示平台，若侵犯到您的权益，请联系我们删除，我们始终在为版权维护与作品推广而努力。</a>
+						</span>
+                </div>
+                <div class="today_recommended_bigpic">
+                    <div class="today_recommended_bigpic1">
+<div id="slider-wrap" class="slider-wrap">
+
+
+
+<div id="main-photo-slider" class="csw" style="visibility: hidden">
+<div class="panelContainer">
+
+
+<div class="panel" title="Panel 1">
+<div class="wrapper">
+<a href="https://zt.dmzj.com/xinmanzhoukan89/?mh" title="新漫89·人外、恶役、年下"><img src="https://images.dmzj.com/tuijian/365_187/200717xinman89tj7.jpg" alt="新漫89·人外、恶役、年下" /></a>
+<div class="photo-meta-data">
+<strong><a href="https://zt.dmzj.com/xinmanzhoukan89/?mh" title="新漫89·人外、恶役、年下">新漫89·人外、恶役、年下</a></strong>
+<!--小标题一-->
+</div>
+</div>
+</div>
+
+<div class="panel" title="Panel 2">
+<div class="wrapper">
+<a href="https://zt.dmzj.com/xinmanzhoukan88/?mh" title="新漫88·婚姻、师徒、青梅竹马"><img src="https://images.dmzj.com/tuijian/365_187/200703xinman88tj7.jpg" alt="新漫88·婚姻、师徒、青梅竹马" /></a>
+<div class="photo-meta-data">
+<strong><a href="https://zt.dmzj.com/xinmanzhoukan88/?mh" title="新漫88·婚姻、师徒、青梅竹马">新漫88·婚姻、师徒、青梅竹马</a></strong>
+<!--小标题一-->
+</div>
+</div>
+</div>
+
+<div class="panel" title="Panel 3">
+<div class="wrapper">
+<a href="http://zt.dmzj.com/h5pcgame/gameh5.html" title="契约战纪·二次元卡牌大作战"><img src="https://images.dmzj.com/tuijian/365_187/200702h5qyzj1.jpg" alt="契约战纪·二次元卡牌大作战" /></a>
+<div class="photo-meta-data">
+<strong><a href="http://zt.dmzj.com/h5pcgame/gameh5.html" title="契约战纪·二次元卡牌大作战">契约战纪·二次元卡牌大作战</a></strong>
+<!--小标题一-->
+</div>
+</div>
+</div>
+
+<div class="panel" title="Panel 4">
+<div class="wrapper">
+<a href="https://zt.dmzj.com/xinmanzhoukan87/?mh" title="87·过期周刊第一期"><img src="https://images.dmzj.com/tuijian/365_187/200619xinman87tj7.jpg" alt="87·过期周刊第一期" /></a>
+<div class="photo-meta-data">
+<strong><a href="https://zt.dmzj.com/xinmanzhoukan87/?mh" title="87·过期周刊第一期">87·过期周刊第一期</a></strong>
+<!--小标题一-->
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+
+<div id="movers-row">
+
+<div><a href="#1" class="cross-link"><img src="https://images.dmzj.com/tuijian/365_187/200717xinman89tj8.jpg" class="nav-thumb" alt="新漫89·人外、恶役、年下" /></a></div>
+
+<div><a href="#2" class="cross-link"><img src="https://images.dmzj.com/tuijian/365_187/200703xinman88tj8.jpg" class="nav-thumb" alt="新漫88·婚姻、师徒、青梅竹马" /></a></div>
+
+<div><a href="#3" class="cross-link"><img src="https://images.dmzj.com/tuijian/365_187/200702h5qyzj1xx.jpg" class="nav-thumb" alt="契约战纪·二次元卡牌大作战" /></a></div>
+
+<div><a href="#4" class="cross-link"><img src="https://images.dmzj.com/tuijian/365_187/200619xinman87tj8.jpg" class="nav-thumb" alt="87·过期周刊第一期" /></a></div>
+
+</div>
+</div>
+
+</div><!--today_recommended_bigpic1-->
+
+<script>
+$(function(){
+$("#main-photo-slider").css("visibility","visible");
+})
+</script>
+                    <div class="today_recommended_bigpic2">
+
+<div class="today_recommended_bigpic2_a">
+<div class="today_recommended_bigpic2_a1"><a href="/略微妙的温柔欺凌" title="略微妙的温柔欺凌">
+<img class="hotrm_img" src="//images.dmzj.com/webpic/10/wr20200715.jpg"
+alt="Promise·Cinderella" width="82" height="112"></a></div><!--today_recommended_bigpic2_a1-->
+<div class="today_recommended_bigpic2_a2">
+<ul>
+<li>名称：<a href="/luexianweimiaodewenrouqiling/" title="略微妙的温柔欺凌"><strong>略微妙的温柔欺凌</strong></a> <span class="gray12" style=" margin-left:20px">第35话</span> <!--<a target="_blank" href="http://donghua.dmzj.com/donghua_info/10747.html" style="color:#d90d0d">「动画」</a>--></li>
+<li>作者：<a href="/tags/mosco.shtml" title="もすこ">もすこ</a> </li>
+<li>分类：<a href="/tags/zhiyu.shtml" title="治愈">治愈</a></li>
+<li>简介：<span class="gray12">我如今正在受着的木崎君的欺凌，虽然大家为我打抱不平，但是只有大家都没注意到他的温柔！。！？</span></li>
+</ul>
+</div><!--today_recommended_bigpic2_a2-->
+</div><!--today_recommended_bigpic2_a-->
+
+<div class="clearfix"></div>
+
+<div class="today_recommended_bigpic2_b">
+<div class="today_recommended_bigpic2_b1">
+<ul>
+    
+<li class="blue_bg"><span class="icon20"></span><span class="gray12">[爱情]</span> <a href="/yishayihua/" class="gray12link" title="一霎一花">一霎一花</a></li>
+<li><span class="icon20"></span><span class="gray12">[校园]</span> <a href="/biantailaoshiqujiehunba/" class="gray12link" title="我、要结婚了！">我、要结婚了！</a></li>
+<li class="blue_bg"><span class="icon20"></span><span class="gray12">[爱情]</span> <a href="/xiaoxinnageenv/" class="gray12link" title="小心那个恶女">小心那个恶女</a></li>
+<li><span class="icon20"></span><span class="gray12">[爱情]</span> <a href="/chiqingdejiewen/" class="gray12link" title="痴情的接吻">痴情的接吻</a></li>
+<li class="blue_bg"><span class="icon20"></span><span class="gray12">[魔法]</span> <a href="/xiaolvlvyuaili/" class="gray12link" title="小绿绿与爱莉" style="color:#f00">小绿绿与爱莉</ul>
+</div><!--today_recommended_bigpic2_b1-->
+
+<div class="today_recommended_bigpic2_b2">
+<ul>
+<li><span class="icon20"></span><span class="gray12">[爱情]</span> <a href="/buyspring/" class="gray12link" title="Buy Spring" style="color:#f00">Buy Spring</a></li>
+<li class="blue_bg"><span class="icon20"></span><span class="gray12">[神鬼]</span> <a href="/buliangtuimoshileina" class="gray12link" title="不良退魔师蕾娜">不良退魔师蕾娜</a></li>
+<li><span class="icon20"></span><span class="gray12">[搞笑]</span> <a href="/younvshezhang/" class="gray12link" title="小不点社长">小不点社长</a></li>
+<li class="blue_bg"><span class="icon20"></span><span class="gray12">[爱情]</span>  <a href="/chunjiexiuzheng/" class="gray12link" title="纯洁修正">纯洁修正</a></li>
+<li class="blue_bg"><span class="icon20"></span><span class="gray12">[爱情]</span> <a href="/lianhongdoushiyinweini/" class="gray12link" title="脸红都是因为你">脸红都是因为你</a></li>
+
+
+
+
+
+</ul>
+</div><!--today_recommended_bigpic2_b2-->
+
+
+</div><!--today_recommended_bigpic2_b-->
+
+</div><!--today_recommended_bigpic2-->
+                </div>
+                <!--today_recommended_bigpic-->
+            </div>
+            <!--today_recommended-->
+
+            <div class="clearfix"></div>
+
+            <div class="caricature_nav">
+
+                <div class="pic70">
+                    <style>
+.pic70 ul{ height:120px;overflow:hidden;}
+.pic70 ul li {position:relative; float:left; overflow:visible; text-align:center; width:87px; *width:88px; margin:5px 14px 0 0;}
+.pic70 ul li img{ border:1px solid #CCCCCC; padding:0px; width:85px; height:90px; margin-bottom:3px;}
+.pic70 ul li p { height:20px;display:block;overflow:hidden; width:87px; *width:88px;}
+.pic70 span.newmh { display:inline-block; width:30px; height:15px; background:url(//img.178.com/acg/201103/93652556563/93664561669.gif) no-repeat;position:absolute; top:-4px; left:65px;}
+.pic70 .huashu {font-family:"黑体",Verdana; font-size:14px; position:absolute;text-align:center;line-height:18px;width:85px;height:18px;display:block;color:#fff;top:73px;left:1px;background-color:#000;background:rgba(0,0,0,0.8);filter:alpha(opacity=80);cursor:pointer;}
+.pic70 .added { font-weight:bolder; color:#fbeb3d}
+
+.hanhuadiv{margin:5px 10px 0 5px;padding:0 0 5px 0;border-bottom:#b8b8b8 1px dotted;clear:both}
+.hanhualist{margin:5px 10px 0 5px;}
+.hanhualist ul{clear:both}
+.hanhualist li{width:200px;height:22px;line-height:22px;overflow:hidden;white-space:nowrap;}
+.hanhuazulist a{padding-left:10px;background:url(//cimg.178.com/dmlq/v2-img/datalist.gif) no-repeat left 10px;width:90px;float:left;display:inline-block;overflow:hidden;}
+</style>
+
+
+<div style="overflow:hidden;height:120px;width:714px;margin-right:-1px;position:relative">
+  <div>
+    
+    <ul>
+      <li><a href="/yiquanchaoren/" target="_blank" title="一拳超人"><img src="//images.dmzj.com/tuijian/95_95/1027yiquan.jpg" alt="一拳超人" /></a><p><a href="/yiquanchaoren/" target="_blank" title="一拳超人">一拳超人</a></p></li>
+      <li><a href="/heibaiwushuang/" target="_blank" title="黑白无双"><img src="//images.dmzj.com/tuijian/95_95/1027heibai.jpg" alt="黑白无双" /></a><p><a href="/heibaiwushuang/" target="_blank" title="黑白无双">黑白无双</a></p></li>
+      <li><a href="/sxzyys/" target="_blank" title="双星之阴阳师"><img src="//images.dmzj.com/resource/news/2015/06/10/1433901435420927.jpg" alt="双星之阴阳师" /><!--div class="huashu added">第267话</div--></a><!--span class="newmh"></span--><p><a href="/sxzyys/" target="_blank" title="双星之阴阳师"><!--style="color:#d90d0d"-->双星阴阳师</a></p></li>
+      <li><a href="//www.dmzj.com/info/guiyingzi.html" target="_blank" title="诡水疑云（诡影子2）"><img src=" //images.dmzj.com/tuijian/95_95/1029guishui.jpg" alt="诡水疑云（诡影子2）" /></a><p><a href="//www.dmzj.com/info/guiyingzi.html" target="_blank" title="诡水疑云（诡影子2）">诡水疑云</a></p></li>
+      <li><a href="/magi/" target="_blank" title="魔笛MAGI"><img src="//images.dmzj.com/tuijian/95_95/1027modi.jpg" alt="魔笛MAGI" /></a><p><a href="/magi/" target="_blank" title="魔笛MAGI" >魔笛MAGI</a></p></li>
+      <li><a href="//www.dmzj.com/info/jinglingzhidan.html" target="_blank" title="精灵之蛋"><img src="//images.dmzj.com/tuijian/95_95/160809jinglingzhidan.jpg" alt="精灵之蛋" /></a><p><a href="//www.dmzj.com/info/jinglingzhidan.html" target="_blank" title="精灵之蛋">精灵之蛋</a></p></li>
+      <li><a href="/kenan/" target="_blank" title="柯南"><img src="//images.dmzj.com/tuijian/95_95/1027kenan.jpg" alt="柯南" /></a><p><a href="/kenan/" target="_blank" title="柯南">柯南</a></p></li>
+    </ul>
+  </div>
+</div>
+                </div>
+
+            </div>
+            <!--caricature_nav-->
+
+            <div class="clearfix"></div>
+
+            <div class="tcaricature_new">
+                <div class="h2_title">
+                    <span class="floatright margintop5"><a href="update_1.shtml" class="update_link"
+                                                           title="更多更新">全部更新列表</a></span>
+                    <span class="h2_icon h2_icon3"></span>
+
+                    <h2>最新更新漫画</h2>
+                    <a href="../rss.xml" class="rss" target="_blank">Rss订阅</a>
+                </div>
+
+                <div class="tcaricature_block tcaricature_block2">
+                                            <ul>
+                            <li>
+                                <a href="shenqinvxiahuidaowoshenbian/"
+                                   target='_blank' title='神奇女侠：回到我身边'><img
+                                        alt="神奇女侠：回到我身边"
+                                        src="https://images.dmzj.com/webpic/12/sqnxhdwsb20190810.jpg"/>神奇女侠：回到我身边                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='DC Comics' href='/tags/dccomics.shtml' class='black_font12'>DC Comics</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/shenqinvxiahuidaowoshenbian/103246.shtml"
+                                        title="第08卷"
+                                        target='_blank'>第08卷</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="jiujiangshichengshide/"
+                                   target='_blank' title='九酱是诚实的 '><img
+                                        alt="九酱是诚实的 "
+                                        src="https://images.dmzj.com/webpic/1/jiu20200907.jpg"/>九酱是诚实的                                 </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='したらなな' href='/tags/shitaranana.shtml' class='black_font12'>したらなな</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/jiujiangshichengshide/108601.shtml"
+                                        title="第01话"
+                                        target='_blank'>第01话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="lianshangweiniangdeshaonv/"
+                                   target='_blank' title='恋上伪娘的少女'><img
+                                        alt="恋上伪娘的少女"
+                                        src="https://images.dmzj.com/webpic/2/lianshangweiniangdeshaonvcfengmianl.jpg"/>恋上伪娘的少女                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='岛崎无印' href='/tags/dqwy.shtml' class='black_font12'>岛崎无印</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/lianshangweiniangdeshaonv/108600.shtml"
+                                        title="第541~570话"
+                                        target='_blank'>第541~570话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="shaonvnidiandehanzidaoleo/"
+                                   target='_blank' title='和喜欢游戏的朋友各种轶事'><img
+                                        alt="和喜欢游戏的朋友各种轶事"
+                                        src="https://images.dmzj.com/webpic/5/70035405nidiandehanzi118p0.jpg"/>和喜欢游戏的朋友各种轶事                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='にいち' href='/tags/ainiti.shtml' class='black_font12'>にいち</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/shaonvnidiandehanzidaoleo/106928.shtml"
+                                        title="第31话"
+                                        target='_blank'>第31话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="xianzaiwochengleeyidaxiaojiedidizeshinvzhujue/"
+                                   target='_blank' title='现在我成了恶役大小姐弟弟则是女主角'><img
+                                        alt="现在我成了恶役大小姐弟弟则是女主角"
+                                        src="https://images.dmzj.com/webpic/7/200519xzwcleydxj.jpg"/>现在我成了恶役大小姐弟弟则是女主角                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='内村かなめ' href='/tags/neichun.shtml' class='black_font12'>内村かなめ</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/xianzaiwochengleeyidaxiaojiedidizeshinvzhujue/106927.shtml"
+                                        title="第03话"
+                                        target='_blank'>第03话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="liedengrenmojianshiyunyongjinengbanchengweizuiqian/"
+                                   target='_blank' title='劣等人魔剑使运用技能板成为最强'><img
+                                        alt="劣等人魔剑使运用技能板成为最强"
+                                        src="https://images.dmzj.com/webpic/17/ldrmjsyyjnbcwzq20200824.jpg"/>劣等人魔剑使运用技能板成为最强                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='萩鵜アキ' href='/tags/qiutiaki.shtml' class='black_font12'>萩鵜アキ</a>/<a target='_blank' title='かのう宽人' href='/tags/kanuoukuanren.shtml' class='black_font12'>かのう宽人</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/liedengrenmojianshiyunyongjinengbanchengweizuiqian/108598.shtml"
+                                        title="第02话"
+                                        target='_blank'>第02话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="keaishuyuni/"
+                                   target='_blank' title='可爱属于你'><img
+                                        alt="可爱属于你"
+                                        src="https://images.dmzj.com/webpic/15/zheshimimidesu0708.jpg"/>可爱属于你                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='いうのす' href='/tags/iwunosu.shtml' class='black_font12'>いうのす</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/keaishuyuni/107737.shtml"
+                                        title="第04话"
+                                        target='_blank'>第04话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="mowangderenshi/"
+                                   target='_blank' title='魔王的人事'><img
+                                        alt="魔王的人事"
+                                        src="https://images.dmzj.com/webpic/14/mowangderenshi0709.jpg"/>魔王的人事                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='红村岬' href='/tags/hongcunjia.shtml' class='black_font12'>红村岬</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/mowangderenshi/103244.shtml"
+                                        title="第12话"
+                                        target='_blank'>第12话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="wuxianshutuheiyazhuanji/"
+                                   target='_blank' title='无限树图：黑鸦传记'><img
+                                        alt="无限树图：黑鸦传记"
+                                        src="https://images.dmzj.com/webpic/16/wxst190527.jpg"/>无限树图：黑鸦传记                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='海道左近' href='/tags/haidaozuojin.shtml' class='black_font12'>海道左近</a>/<a target='_blank' title='La-na' href='/tags/lana.shtml' class='black_font12'>La-na</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/wuxianshutuheiyazhuanji/102743.shtml"
+                                        title="第10话"
+                                        target='_blank'>第10话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="baoshifeizhijian/"
+                                   target='_blank' title='暴食妃之剑'><img
+                                        alt="暴食妃之剑"
+                                        src="https://images.dmzj.com/webpic/16/200403bsfzj.jpg"/>暴食妃之剑                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='猫子' href='/tags/maozi.shtml' class='black_font12'>猫子</a>/<a target='_blank' title='もちろんさん' href='/tags/balaofjoghezf.shtml' class='black_font12'>もちろんさん</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/baoshifeizhijian/107734.shtml"
+                                        title="附录01"
+                                        target='_blank'>附录01</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="zhuanshengguolesishiniandashuyexianglianailiao/"
+                                   target='_blank' title='转生过了40年，大叔也想恋爱了'><img
+                                        alt="转生过了40年，大叔也想恋爱了"
+                                        src="https://images.dmzj.com/webpic/16/pigushiseqing0813.jpg"/>转生过了40年，大叔也想恋爱了                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='えむあ' href='/tags/emua.shtml' class='black_font12'>えむあ</a>/<a target='_blank' title='清露' href='/tags/qinglu.shtml' class='black_font12'>清露</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/zhuanshengguolesishiniandashuyexianglianailiao/107736.shtml"
+                                        title="第05话"
+                                        target='_blank'>第05话</a></div>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="aidemengsihuzaidahaizeshidaichengweilefuchouzhedey/"
+                                   target='_blank' title='爱德蒙似乎在大海贼时代成为了复仇者的样子'><img
+                                        alt="爱德蒙似乎在大海贼时代成为了复仇者的样子"
+                                        src="https://images.dmzj.com/webpic/17/200906admcwhz.jpg"/>爱德蒙似乎在大海贼时代成为了复仇者的样子                                </a></li>
+                            <li>
+                                <div class="adiv2hidden">作者:<a target='_blank' title='◆2sRGUbBO9j2n' href='/tags/srgubbojn.shtml' class='black_font12'>◆2sRGUbBO9j2n</a></div>
+                                <div class="adiv2hidden">最新:<a
+                                        href="/aidemengsihuzaidahaizeshidaichengweilefuchouzhedey/107735.shtml"
+                                        title="第0话"
+                                        target='_blank'>第0话</a></div>
+                            </li>
+                        </ul>
+                                    </div>
+
+            </div>
+            <!--tcaricature_new-->
+            <div class="clearfix"></div>
+            <!--
+            <iframe src="http://acg.178.com/dh/s/mhzhidao.html" width="713" height="86" frameborder="0" scrolling="no" style="margin: 0px 0px -10px 0px;*margin:-10px 0px 5px;"></iframe>
+            <div class="clearfix"></div>
+              -->
+            <div class="tcaricature_new">
+                <div class="h2_title">
+                    <span class="floatright margintop5"><a href="http://www.dmzj.com" class="update_link" title="原创漫画">更多原创漫画</a></span>
+                    <span class="h2_icon h2_icon4"></span>
+
+                    <h2>原创漫画专栏</h2>
+                </div>
+                <ul class="topnav switch_tab">
+                    <li><a tab='0' class="category_tab current" href="javascript:void(0);"
+                           target="_self"><span>最新原创漫画</span></a></li>
+                                  <li><a tab='1' class="category_tab"  href="javascript:void(0);" target="_self"><span>动漫之家出品</span></a></li>
+              <li><a tab='2' class="category_tab" href="javascript:void(0);" target="_self"><span>仙侠漫画</span></a></li>
+              <li><a tab='3' class="category_tab" href="javascript:void(0);" target="_self"><span>校园类</span></a></li>
+              <li><a tab='4' class="category_tab" href="javascript:void(0);" target="_self"><span>恐怖漫画</span></a></li>
+              <li><a tab='5' class="category_tab" href="javascript:void(0);" target="_self"><span>条漫精品</span></a></li>
+              <li><a tab='6' class="category_tab" href="javascript:void(0);" target="_self"><span>少女漫画</span></a></li>
+              <li><a tab='7' class="category_tab" href="javascript:void(0);" target="_self"><span>冒险漫画</span></a></li>
+              <li><a tab='8' class="category_tab" href="javascript:void(0);" target="_self"><span>其他精品</span></a></li>
+                </ul>
+                <div class="tcaricature_block tcaricature_block2 girlnew category_recom_ul" id='category_recom_0'
+                     style='display:block;'>
+                    
+                    <ul>
+                        <li><a href="http://www.dmzj.com/info/lianxiji.html" target='_blank' title='恋习集'><img alt="恋习集"
+                                                                                            src="https://images.dmzj.com/img/webpic/19/1069805991598932359.jpg"/>
+
+                                <div class="adiv2hidden">恋习集</div>
+                            </a></li>
+                        <li>
+                            <div class="adiv2hidden">作者:吃蕉群众</div>
+                            <div class="adiv2hidden">最新:<a href="http://www.dmzj.com/view/lianxiji/102724.html" title="第02话"
+                                                           target='_blank'>第02话</a></div>
+                        </li>
+                    </ul>
+                    
+                    <ul>
+                        <li><a href="http://www.dmzj.com/info/huoguojiazudisanji.html" target='_blank' title='火锅家族第三季'><img alt="火锅家族第三季"
+                                                                                            src="https://images.dmzj.com/img/webpic/12/1042261121588863908.jpg"/>
+
+                                <div class="adiv2hidden">火锅家族第三季</div>
+                            </a></li>
+                        <li>
+                            <div class="adiv2hidden">作者:钟博士</div>
+                            <div class="adiv2hidden">最新:<a href="http://www.dmzj.com/view/huoguojiazudisanji/108583.html" title="想多了"
+                                                           target='_blank'>想多了</a></div>
+                        </li>
+                    </ul>
+                    
+                    <ul>
+                        <li><a href="http://www.dmzj.com/info/shenkongjingluo.html" target='_blank' title='深空鲸落'><img alt="深空鲸落"
+                                                                                            src="https://images.dmzj.com/img/webpic/10/1059588101599133497.jpg"/>
+
+                                <div class="adiv2hidden">深空鲸落</div>
+                            </a></li>
+                        <li>
+                            <div class="adiv2hidden">作者:创造今天147</div>
+                            <div class="adiv2hidden">最新:<a href="http://www.dmzj.com/view/shenkongjingluo/106905.html" title="第01话上"
+                                                           target='_blank'>第01话上</a></div>
+                        </li>
+                    </ul>
+                    
+                    <ul>
+                        <li><a href="http://www.dmzj.com/info/shark.html" target='_blank' title='小鱼特工(原Shark the agent)'><img alt="小鱼特工(原Shark the agent)"
+                                                                                            src="https://images.dmzj.com/img/webpic/19/1104662191584494140.jpg"/>
+
+                                <div class="adiv2hidden">小鱼特工(原Shark the agent)</div>
+                            </a></li>
+                        <li>
+                            <div class="adiv2hidden">作者:Max_Cross</div>
+                            <div class="adiv2hidden">最新:<a href="http://www.dmzj.com/view/shark/108581.html" title="实验集"
+                                                           target='_blank'>实验集</a></div>
+                        </li>
+                    </ul>
+                    
+                    <ul>
+                        <li><a href="http://www.dmzj.com/info/heiyedeyanjing.html" target='_blank' title='黑夜的眼睛'><img alt="黑夜的眼睛"
+                                                                                            src="https://images.dmzj.com/img/webpic/3/1006119031598808157.jpg"/>
+
+                                <div class="adiv2hidden">黑夜的眼睛</div>
+                            </a></li>
+                        <li>
+                            <div class="adiv2hidden">作者:桔五味</div>
+                            <div class="adiv2hidden">最新:<a href="http://www.dmzj.com/view/heiyedeyanjing/106903.html" title="勇敢者游戏3"
+                                                           target='_blank'>勇敢者游戏3</a></div>
+                        </li>
+                    </ul>
+                    
+                    <ul>
+                        <li><a href="http://www.dmzj.com/info/woyunvzhuangbuliang.html" target='_blank' title='我与女装不良'><img alt="我与女装不良"
+                                                                                            src="https://images.dmzj.com/img/webpic/10/1112910501596275225.jpg"/>
+
+                                <div class="adiv2hidden">我与女装不良</div>
+                            </a></li>
+                        <li>
+                            <div class="adiv2hidden">作者:YGHM</div>
+                            <div class="adiv2hidden">最新:<a href="http://www.dmzj.com/view/woyunvzhuangbuliang/108572.html" title="第34天"
+                                                           target='_blank'>第34天</a></div>
+                        </li>
+                    </ul>
+                    
+                </div>
+                            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_1'>
+              <li><a href="//www.dmzj.com/info/heibaiwushuang.html"><img src="//images.dmzj.com/img/webpic/4/1434074276.jpg" alt="黑白无双" /></a><span><a href="//www.dmzj.com/info/heibaiwushuang.html">黑白无双</a></span><span>国漫少年王的梦，展开翅膀</span></li>
+              <li><a href="//www.dmzj.com/info/guiyingzi.html"><img src="//images.dmzj.com/webpic/14/guishuiyiyun.jpg" alt="诡水疑云" /></a><span><a href="//www.dmzj.com/info/guiyingzi.html">诡水疑云</a></span><span>悬疑新国漫 烧脑开始</span></li>
+              <li><a href="//www.dmzj.com/info/heiheiheiyanshe.html"><img src="//images.dmzj.com/img/webpic/12/1000911121438753067.jpg" alt="嘿嘿，黑研社" /></a><span><a href="//www.dmzj.com/info/heiheiheiyanshe.html">黑研社</a></span><span>阎王重生 谁是我黑白无双</span></li>
+                <li><a href="//www.dmzj.com/info/xianxiashijie.html"><img src="//images.dmzj.com/img/webpic/10/1432195641.jpg" alt="仙侠世界" /></a><span><a href="//www.dmzj.com/info/xianxiashijie.html">仙侠世界</a></span><span>无罪大神的武侠世界 游戏杠杠</span></li>
+              <li><a href="//www.dmzj.com/info/xingjichuanqi.html"><img src="//images.dmzj.com/img/webpic/2/1000992621436455980.jpg" alt="星际传奇" /></a><span><a href="//www.dmzj.com/info/xingjichuanqi.html">星际传奇</a></span><span>五大势力征战 幽灵诡秘难寻</span></li>
+              <li><a href="//www.dmzj.com/info/mwyyzysjsd.html"><img src="//images.dmzj.com/webpic/0/0210mowangyongzheyushengjianshendianfml.jpg" alt="魔王与勇者与圣剑神殿" /></a><span><a href="//www.dmzj.com/info/mwyyzysjsd.html">魔王与勇者与圣剑神殿</a></span><span>逗比搞笑魔王和主角剑八的故事</span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_2'>
+              <li><a href="//www.dmzj.com/info/liantaisijiaowaizhizhan.html"><img src="//images.dmzj.com/img/webpic/0/1002267401435893581.jpg" alt="莲台寺郊外之战" /></a><span><a href="//www.dmzj.com/info/liantaisijiaowaizhizhan.html">莲台寺郊外之战</a></span><span>为了清十郎~~井上雄彦风</span></li>
+              <li><a href="//www.dmzj.com/info/xuezhonghandaoxingheibaiban.html"><img src="//images.dmzj.com/img/webpic/0/1435297979.jpg" alt="雪中悍刀行" /></a><span><a href="//www.dmzj.com/info/xuezhonghandaoxingheibaiban.html">雪中悍刀行</a></span><span>烽火的原汁仙侠 让你飞</span></li>
+              <li><a href="//www.dmzj.com/info/wojiaomt.html"><img src="//images.dmzj.com/img/webpic/18/mtllll.jpg" alt="我叫MT黑翼之巢篇" /></a><span><a href="//www.dmzj.com/info/wojiaomt.html">我叫MT黑翼之巢篇</a></span><span>国产动漫巅峰 狰狞的mt</span></li>
+              <li><a href="//www.dmzj.com/info/yueluozihua.html"><img src="//images.dmzj.com/img/webpic/0320yueluozihuafml.jpg" alt="月落紫华" /></a><span><a href="//www.dmzj.com/info/yueluozihua.html">月落紫华</a></span><span>修仙少年风流潇洒，尘世降妖捉鬼</span></li>
+              <li><a href="//www.dmzj.com/info/xuanhaizhanji.html"><img src="//images.dmzj.com/img/webpic/11/1002844311438337425.jpg" alt="玄皓战记" /></a><span><a href="//www.dmzj.com/info/xuanhaizhanji.html">玄皓战记</a></span><span>玄皓战记漫画世界不同</span></li>
+              <li><a href="//www.dmzj.com/info/dishiji.html"><img src="//images.dmzj.com/img/webpic/10/1002391501436496550.jpg" alt="帝世纪" /></a><span><a href="//www.dmzj.com/info/dishiji.html">帝世纪</a></span><span>五行玄幻  正义少年的故事</span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_3'>
+              <li><a href="//www.dmzj.com/info/jiandienvgao.html"><img src="//images.dmzj.com/img/webpic/6/166969461433475815.jpg" alt="间谍女高" /></a><span><a href="//www.dmzj.com/info/jiandienvgao.html">间谍女高</a></span><span>伪娘保镖保平安 不给力就切</span></li>
+              <li><a href="//www.dmzj.com/info/mocajiaoshi.html"><img src="//images.dmzj.com/img/webpic/2/1000992621433388403.jpg" alt="摩擦教师" /></a><span><a href="//www.dmzj.com/info/mocajiaoshi.html">摩擦教师</a></span><span>国民女婿？？散钱了 爹停了</span></li>
+              <li><a href="//www.dmzj.com/info/banzhangdaren.html"><img src="//images.dmzj.com/img/webpic/4/1001499241430791814.jpg" alt="班长大人" /></a><span><a href="//www.dmzj.com/info/banzhangdaren.html">班长大人</a></span><span>不一样中二校园 我是班长</span></li>
+              <li><a href="//www.dmzj.com/info/shixilaoshi.html"><img src="//images.dmzj.com/img/webpic/6/1001871461433153016.jpg" alt="实习老师" /></a><span><a href="//www.dmzj.com/info/shixilaoshi.html">实习老师</a></span><span>新老师才是好老师 要努力</span></li>
+              <li><a href="//www.dmzj.com/info/chuanlingwuyu.html"><img src="//images.dmzj.com/img/webpic/4/1000992241431683979.jpg" alt="川灵物语" /></a><span><a href="//www.dmzj.com/info/chuanlingwuyu.html">川灵物语</a></span><span>校园突然被入侵 如何辟邪</span></li>
+              <li><a href="//www.dmzj.com/info/renoudiguo.html"><img src="//images.dmzj.com/img/webpic/4/1001499241432623968.jpg" alt="人偶帝国" /></a><span><a href="//www.dmzj.com/info/renoudiguo.html">人偶帝国</a></span><span>大神造就就人偶帝国故事 </span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_4'>
+              <li><a href="//www.dmzj.com/info/yanqimenduanpianji.html"><img src="//images.dmzj.com/webpic/7/1218yanqimenduanpianfm.jpg" alt="衍其门短篇集" /></a><span><a href="//www.dmzj.com/info/yanqimenduanpianji.html">衍其门短篇集</a></span><span>衍其门短篇集 花样恐怖</span></li>
+              <li><a href="//www.dmzj.com/info/guiwang.html"><img src="//images.dmzj.com/webpic/18/1231guiwangfml.jpg" alt="鬼王" /></a><span><a href="//www.dmzj.com/info/guiwang.html">鬼王</a></span><span>钟馗，传说中的驱鬼驱邪之神</span></li>
+              <li><a href="//www.dmzj.com/info/xiangyaofumolu.html"><img src="//images.dmzj.com/webpic/13/jiangyaofumo.jpg" alt="降妖伏魔录" /></a><span><a href="//www.dmzj.com/info/xiangyaofumolu.html">降妖伏魔录</a></span><span>降妖伏魔录 临兵斗者</span></li>
+              <li><a href="//www.dmzj.com/info/xiaolengkongbumanhua.html"><img src="//images.dmzj.com/img/webpic/9/1001379891430106004.jpg" alt="小冷恐怖漫画" /></a><span><a href="//www.dmzj.com/info/xiaolengkongbumanhua.html">小冷恐怖漫画</a></span><span>小冷恐怖世界 四格也致命</span></li>
+              <li><a href="//www.dmzj.com/info/dpemoshouji.html"><img src="//images.dmzj.com/img/webpic/15/1001399951430189841.jpg" alt="DP恶魔手机" /></a><span><a href="//www.dmzj.com/info/dpemoshouji.html">DP恶魔手机</a></span><span>DP恶魔手机冒险 炸弹随时可能</span></li>
+              <li><a href="//www.dmzj.com/info/manhua2359.html"><img src="//images.dmzj.com/img/webpic/1/1003332611441941978.jpg" alt="《23:59》" /></a><span><a href="//www.dmzj.com/info/manhua2359.html">《23:59》</a></span><span>午夜23点59分，恐怖诡异小故事</span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_5'>
+              <li><a href="//www.dmzj.com/info/yitiaogou.html"><img src="//images.dmzj.com/webpic/11/0210yitiaogoufml.jpg" alt="一条狗" /></a><span><a href="//www.dmzj.com/info/yitiaogou.html">一条狗</a></span><span>化身汪星人的搞笑大冒险 开始</span></li>
+              <li><a href="//www.dmzj.com/info/qinglanzhiwu.html"><img src="//images.dmzj.com/webpic/2/0114qinglanzhiwufml.jpg" alt="青岚之舞" /></a><span><a href="//www.dmzj.com/info/qinglanzhiwu.html">青岚之舞</a></span><span>三国幻想奇谭</span></li>
+              <li><a href="//www.dmzj.com/info/qingdianwobazhuren.html"><img src="//images.dmzj.com/img/webpic/8/1001057081434189152.jpg" alt="请点我吧，主人！" /></a><span><a href="//www.dmzj.com/info/qingdianwobazhuren.html">请点我吧，主人！</a></span><span>困在手机肿麽办 努力点回去</span></li>
+              <li><a href="//www.dmzj.com/info/wojiaomtzhiwodepengyou.html"><img src="//images.dmzj.com/img/webpic/19/1001780991432542176.jpg" alt="我叫MT之我的朋友" /></a><span><a href="//www.dmzj.com/info/wojiaomtzhiwodepengyou.html">我叫MT之我的朋友</a></span><span>MT与朋友的生活之路！感觉追忆</span></li>
+              <li><a href="//www.dmzj.com/info/dota2sigepian.html"><img src="//images.dmzj.com/webpic/18/0105dota2sigepianfml.jpg" alt="DOTA2四格篇" /></a><span><a href="//www.dmzj.com/info/dota2sigepian.html">DOTA2四格篇</a></span><span>DOTA2四格经典再次开始远航</span></li>
+              <li><a href="//www.dmzj.com/info/xiaomingdmzj.html"><img src="//images.dmzj.com/webpic/3/xiaomingll.jpg" alt="小明" /></a><span><a href="//www.dmzj.com/info/xiaomingdmzj.html">小明</a></span><span>小明搞笑日常大冒险</span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_6'>
+              <li><a href="//www.dmzj.com/info/maozhiming.html"><img src="//images.dmzj.com/webpic/6/0311maozhiming2fml.jpg" alt="猫之茗" /></a><span><a href="//www.dmzj.com/info/maozhiming.html">猫之茗</a></span><span>少女茉莉大冒险 么么答的故事</span></li>
+              <li><a href="//www.dmzj.com/info/richanghuanxiangzhinan.html"><img src="//images.dmzj.com/img/webpic/2/1432795955.jpg" alt="日常幻想指南" /></a><span><a href="//www.dmzj.com/info/richanghuanxiangzhinan.html">日常幻想指南</a></span><span>日常幻想指南 温馨治愈</span></li>
+              <li><a href="//www.dmzj.com/info/bosscpyz.html"><img src="//images.dmzj.com/webpic/14/0302bossfml.jpg" alt="Boss" /></a><span><a href="//www.dmzj.com/info/bosscpyz.html">Boss</a></span><span>霸气总裁爱上我。。 爱玛</span></li>
+              <li><a href="//www.dmzj.com/info/dongfanglongyuxifanglong.html"><img src="//images.dmzj.com/img/webpic/8/1001624681431593207.jpg" alt="东方龙与西方龙" /></a><span><a href="//www.dmzj.com/info/dongfanglongyuxifanglong.html">东方龙与西方龙</a></span><span>东方 西方龙错乱耽美故事</span></li>
+              <li><a href="//www.dmzj.com/info/luokengchengfunan.html/"><img src="//images.dmzj.com/img/webpic/2/1001337421429867516.jpg" alt="落坑成腐男" /></a><span><a href="//www.dmzj.com/info/luokengchengfunan.html">落坑成腐男</a></span><span>新一代腐男诞生 靠你了下一代</span></li>
+              <li><a href="//www.dmzj.com/info/xinyinshouhushen.html"><img src="//images.dmzj.com/img/webpic/9/1001292291432177361.jpg" alt="心音守护神" /></a><span><a href="//www.dmzj.com/info/xinyinshouhushen.html">心音守护神</a></span><span>少女追王子 守护神助阵</span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_7'>
+              <li><a href="//www.dmzj.com/info/lzjyuan.html"><img src="//images.dmzj.com/webpic/7/0313lingzhijiyuan.jpg" alt="零之纪元" /></a><span><a href="//www.dmzj.com/info/lzjyuan.html">零之纪元</a></span><span>人类的历史被改写传说</span></li>
+              <li><a href="//www.dmzj.com/info/lzjyhjzhq.html"><img src="//images.dmzj.com/webpic/7/lzjyhjzhq.jpg" alt="零之纪元 幻界镇魂曲" /></a><span><a href="//www.dmzj.com/info/lzjyhjzhq.html">  幻界镇魂曲</a></span><span>零之纪元番外全彩连载</span></li>
+              <li><a href="//www.dmzj.com/info/shouhuzhiguang.html"><img src="//images.dmzj.com/webpic/4/shouhuzhiguang10.jpg" alt="守护之光" /></a><span><a href="//www.dmzj.com/info/shouhuzhiguang.html">守护之光</a></span><span>搞笑游戏改编 传奇人物登场</span></li>
+              <li><a href="//www.dmzj.com/info/wunongliezhuan.html"><img src="//images.dmzj.com/img/webpic/19/1433917441.jpg" alt="巫农列传" /></a><span><a href="//www.dmzj.com/info/wunongliezhuan.html">巫农列传</a></span><span>农业黑科技爆发 技能有多高</span></li>
+              <li><a href="//www.dmzj.com/info/gebianchengmofashaonvle.html"><img src="//images.dmzj.com/img/webpic/2/1001074821436621295.jpg" alt="哥变成魔法少女了？！" /></a><span><a href="//www.dmzj.com/info/gebianchengmofashaonvle.html">哥变魔法少女了！</a></span><span>俺才不是魔法少女！</span></li>
+              <li><a href="//www.dmzj.com/info/manhuaxyingxiong.html"><img src="//images.dmzj.com/img/webpic/0/1431918300.jpg" alt="漫画X英雄" /></a><span><a href="//www.dmzj.com/info/manhuaxyingxiong.html">漫画X英雄</a></span><span>漫画家大冒险，是自虐还是自强</span></li>
+            </ul>
+            <ul class="topnav2 category_recom_ul" style='display:none;' id='category_recom_8'>
+              <li><a href="//www.dmzj.com/info/boshezheshuo.html"><img src="//images.dmzj.com/img/webpic/16/1002095961434631910.jpg" alt="捕蛇者说" /></a><span><a href="//www.dmzj.com/info/boshezheshuo.html">捕蛇者说</a></span><span>古老蛇王 赤胆将军的传奇</span></li>
+              <li><a href="//www.dmzj.com/info/hailangu37.html"><img src="//images.dmzj.com/webpic/15/0513hailangfml.jpg" alt="海狼U-37" /></a><span><a href="//www.dmzj.com/info/hailangu37.html">海狼U-37</a></span><span>男人就要上过潜艇，汉子</span></li>
+              <li><a href="//www.dmzj.com/info/quelingshenyu.html"><img src="//images.dmzj.com/webpic/12/1229quelingshenyufml.jpg" alt="雀灵神域" /></a><span><a href="//www.dmzj.com/info/quelingshenyu.html">雀灵神域</a></span><span>雀灵神域的世界，你敢来吗</span></li>
+              <li><a href="//www.dmzj.com/info/zhenlizhitu.html"><img src="//images.dmzj.com/img/webpic/14/1001633941434082255.jpg" alt="真理之徒 " /></a><span><a href="//www.dmzj.com/info/zhenlizhitu.html">真理之徒</a></span><span>真理的世界你怕吗，秒杀分分钟</span></li>
+              <li><a href="//www.dmzj.com/info/busixiaoqiang.html "><img src="//images.dmzj.com/img/webpic/17/1001677771433606979.jpg" alt="不死小强" /></a><span><a href="//www.dmzj.com/info/busixiaoqiang.html ">不死小强</a></span><span>死后才能爆发，20亿可以败光</span></li>
+              <li><a href="//www.dmzj.com/info/henxiyou.html"><img src="//images.dmzj.com/img/webpic/19/1000916591428634478.jpg" alt="狠西遊" /></a><span><a href="//www.dmzj.com/info/henxiyou.html">狠西遊</a></span><span>狠西遊的故事，你不知道西游记</span></li>
+            </ul>
+            </div>
+            <div class="caricature_see">
+                <div class="h2_title">
+                    <span class="h2_icon h2_icon2"></span>
+
+                    <h2>推荐必看漫画</h2>
+                </div>
+                 <div class="caricature_see1">
+
+
+
+                            <div class="caricature_see1_a">
+                            <div class="caricature_see1_a1 graybold">20年07月新番漫画版　　　　　<a href="http://zt.dmzj.com/donghua202007/">更多>></a></div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/reconglingkaishideyishijieshenghuodisizhang/" target="_blank" title="Re：从零开始的异世界生活 第四章 圣域与强欲的魔女"><img src="//images.dmzj.com/tuijian/donghua/reclksdysjshdej202007.jpg" alt="Re：从零开始的异世界生活 第四章 圣域与强欲的魔女"/></a></div> <!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/reconglingkaishideyishijieshenghuodisizhang/" target="_blank" title="Re：从零开始的异世界生活 第四章 圣域与强欲的魔女">Re：从零开始</a></li>
+                                            <li>作者：<a href="/tags/changyuedaping.shtml" target="_blank" title="长月达平" class="gray12">长月达平</a> </li>
+                                            <li>分类：<a href="/tags/mofa.shtml" target="_blank" title="魔法" class="black_font12">魔法</a> <a href="/tags/maoxian.shtml" target="_blank" title="冒险" class="black_font12">冒险</a></li>
+                                            <li>更新：<a href="/reconglingkaishideyishijieshenghuodisizhang/" target="_blank" title="Re：从零开始的异世界生活 第四章 圣域与强欲的魔女">月刊连载</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">一切为了拯救蕾姆</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/reconglingkaishideyishijieshenghuodisizhang/" class="gray12link" target="_blank" title="Re：从零开始的异世界生活 第四章 圣域与强欲的魔女">Re：从零开始</a></li>
+                                            <li><span class="icon20"></span><a href="/saimaniangsige/" class="gray12link" target="_blank" title="赛马娘四格">赛马娘四格</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/mflsws/" class="gray12link" target="_blank" title="魔法律事务所">魔法律事务所</a></li>
+                                            <li><span class="icon20"></span><a href="https://manhua.dmzj.com/tags/search.shtml?s=%E5%88%83%E7%89%99" class="gray12link" target="_blank" title="刃牙">刃牙</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/maniangprettyderby/" class="gray12link" target="_blank" title="马娘 PrettyDerby">马娘 Pretty</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/mowuniangdeyisheng/" class="gray12link" target="_blank" title="魔物娘的医生">魔物娘的医生</a></li>
+                                            <li><span class="icon20"></span><a href="/jibianshisigemanhuawodeqingchunlianaiwuyuyiranyouw/" class="gray12link" target="_blank" title="即便是四格漫画，我的青春恋爱物语依旧有问题">大春物四格漫画</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="https://manhua.dmzj.com/tags/search.shtml?s=%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F" class="gray12link" target="_blank" title="刀剑神域">刀剑神域</a></li>
+                                            <li><span class="icon20"></span><a href="/reclksdysjshgfjxj/" class="gray12link" target="_blank" title="Re:从零开始的异世界生活 官方精选集">Re:0官方精选</a></li>
+                                             <li class="blue_bg"><span class="icon20"></span><a href="/daqizhashi/" class="gray12link" target="_blank" title="大欺诈师">大欺诈师</a></li> 
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see1_a-->
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="caricature_see2_a">
+                            <div class="caricature_see1_a1 graybold">20年04月新番漫画版　　　　　<a href="http://zt.dmzj.com/donghua202004/">更多>></a></div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/jibianshisigemanhuawodeqingchunlianaiwuyuyiranyouw/" target="_blank" title="即便是四格漫画，我的青春恋爱物语依旧有问题"><img src="//images.dmzj.com/tuijian/donghua/wdqclawygrywtw202004.jpg" alt="即便是四格漫画，我的青春恋爱物语依旧有问题"/></a></div> 
+
+<!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/jibianshisigemanhuawodeqingchunlianaiwuyuyiranyouw/" target="_blank" title="即便是四格漫画，我的青春恋爱物语依旧有问题">大春物四格</a></li>
+                                            <li>作者：<a href="/tags/zhongtianyoutai.shtml" target="_blank" title="种田优太" class="gray12">种田优太</a> <a href="/tags/duhang.shtml" target="_blank" title="渡航" class="gray12">渡航</a></li>
+                                            <li>分类：<a href="/tags/sige.shtml" target="_blank" title="四格" class="black_font12">四格</a>  <a href="/tags/huanle.shtml" target="_blank" title="欢乐向" class="black_font12">欢乐向</a></li>
+                                            <li>更新：<a href="/jibianshisigemanhuawodeqingchunlianaiwuyuyiranyouw/" target="_blank" title="即便是四格漫画，我的青春恋爱物语依旧有问题">月刊连载</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">我的青春恋爱物语延期了！</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/jibianshisigemanhuawodeqingchunlianaiwuyuyiranyouw/" class="gray12link" target="_blank" title="即便是四格漫画，我的青春恋爱物语依旧有问题">大春物四格</a></li>
+                                            <li><span class="icon20"></span><a href="/qiouyong/" class="gray12link" target="_blank" title="球咏">球咏</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/xinyinghuadazhan/" class="gray12link" target="_blank" title="新樱花大战">新樱花大战</a></li>
+                                            <li><span class="icon20"></span><a href="/bqdlmnnd/" class="gray12link" target="_blank" title="棒球大联盟2nd">棒球大联盟2nd</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/zrzg/" class="gray12link" target="_blank" title="昨日之歌">昨日之歌</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/arte/" class="gray12link" target="_blank" title="ARTE">ARTE</a></li>
+                                            <li><span class="icon20"></span><a href="/aishudexiakeshangdierbu/" class="gray12link" target="_blank" title="爱书的下克上 第二部">爱书的下克上2</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/baimaoproject/" class="gray12link" target="_blank" title="白猫project">白猫project</a></li> 
+                                            <li><span class="icon20"></span><a href="/gongzhulianjie/" class="gray12link" target="_blank" title="公主连接Re:Dive">公主连接</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/nogunslife/" class="gray12link" target="_blank" title="NO GUNS LIFE">NO GUNS LIFE</a></li>
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see2_a-->
+
+
+
+
+
+                            <div class="caricature_see2_a">
+                            <div class="caricature_see1_a1 graybold">20年01月新番漫画版　　　　　<a href="http://zt.dmzj.com/donghua202001/">更多>></a></div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/yinweitaipatongjiuquandianfangyulile/" target="_blank" title="因为太怕痛就全点防御力了"><img src="//images.dmzj.com/tuijian/donghua/yinweitaipatongquandianfyxx202001.jpg" alt="因为太怕痛就全点防御力了"/></a></div> 
+
+<!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/yinweitaipatongjiuquandianfangyulile/" target="_blank" title="因为太怕痛就全点防御力了">怕痛全点防御力</a></li>
+                                            <li>作者：<a href="/tags/oimotojirou.shtml" target="_blank" title="おいもとじろう" class="gray12">おいもとじろう</a></li>
+                                            <li>分类：<a href="/tags/maoxian.shtml" target="_blank" title="冒险" class="black_font12">冒险</a>  <a href="/tags/huanle.shtml" target="_blank" title="欢乐向" class="black_font12">欢乐向</a></li>
+                                            <li>更新：<a href="/yinweitaipatongjiuquandianfangyulile/" target="_blank" title="因为太怕痛就全点防御力了">季刊连载</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">叠最厚的甲，挨最毒的打！</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/yinweitaipatongjiuquandianfangyulile/" class="gray12link" target="_blank" title="因为太怕痛就全点防御力了">怕痛全点防御力</a></li>
+                                            <li><span class="icon20"></span><a href="/lianaixiaoxingxing/" class="gray12link" target="_blank" title="恋爱小行星">恋爱小行星</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/mofajilu/" class="gray12link" target="_blank" title="魔法纪录">魔法纪录</a></li>
+                                            <li><span class="icon20"></span><a href="/bieduiyingxiangyanchushou/" class="gray12link" target="_blank" title="别对映像研出手">别对映像研出手</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/yaoyeluying/" class="gray12link" target="_blank" title="摇曳露营△">摇曳露营△</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/dfsnhzj/" class="gray12link" target="_blank" title="地缚少年花子君">地缚少年花子君</a></li>
+                                            <li><span class="icon20"></span><a href="/haphszsb/" class="gray12link" target="_blank" title="暗黑破坏神在身边">暗黑破坏神身边</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/idinvaded/" class="gray12link" target="_blank" title="ID:INVADED">ID:INVADED</a></li> 
+                                            <li><span class="icon20"></span><a href="https://manhua.dmzj.com/tags/search.shtml?s=BanG+Dream" class="gray12link" target="_blank" title="BanG Dream！">BanG Dream！</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="https://manhua.dmzj.com/tags/search.shtml?s=%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB" class="gray12link" target="_blank" title="Re:从零开始的异世界生活">Re:从零开始</a></li>
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see2_a-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          
+                           
+
+                     </div>
+
+                     <div class="clearfix"></div>
+
+                     <div class="caricature_see2">
+
+                            <div class="caricature_see1_a">
+                            <div class="caricature_see1_a1 graybold">必看欧美漫画　　　　　　           <a href="http://donghua.dmzj.com/s/oumeimanhua.html">更多>></a></div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/aochuangjiyuan/" target="_blank" title="奥创纪元"><img src="//images.dmzj.com/tuijian/150_200/aochuang.jpg" alt="奥创纪元" /></a></div> 
+
+<!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/aochuangjiyuan/" target="_blank" title="奥创纪元">奥创纪元</a></li>
+                                            <li>作者：<a href="/tags/marvel.shtml" target="_blank" title="Marvel Comics" class="gray12">Marvel Comics</a></li>
+                                            <li>分类：<a href="/tags/kehuan.shtml" target="_blank" title="科幻" class="black_font12">科幻</a></li>
+                                            <li>更新：<a href="/aochuangjiyuan/28219.shtml" target="_blank" title="余波：饥饿02">余波：饥饿02</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">一个毁灭性造物的诞生……</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//manhua.dmzj.com/tags/search.shtml?s=%E5%BA%B7%E6%96%AF%E5%9D%A6%E4%B8%81" class="gray12link" target="_blank" 
+
+title="康斯坦丁">康斯坦丁</a></li>
+                                            <li><span class="icon20"></span><a href="/bianfuxianew52/" class="gray12link" target="_blank" title="新52蝙蝠侠">新52蝙蝠侠</a></li>
+                                            <li><span class="icon20"></span><a href="/yinheshouhuzhe/" class="gray12link" target="_blank" title="银河护卫队">银河护卫队</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/yirendiyiji/" class="gray12link" target="_blank" title="蚁人:第一季">蚁人:第一季</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/sqzzxmnv/" class="gray12link" target="_blank" title="神奇蜘蛛侠">神奇蜘蛛侠</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/shangdoufuren/" class="gray12link" target="_blank" title="上都夫人">上都夫人</a></li>
+                                            <li><span class="icon20"></span><a href="/buyilianmen/" class="gray12link" target="_blank" title="不义联盟">不义联盟</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/sbwww/" class="gray12link" target="_blank" title="新52超人神奇女侠">超人/神奇女侠</a></li>
+                                            <li><span class="icon20"></span><a href="/fables/" class="gray12link" target="_blank" title="Fables">Fables</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/heian/" class="gray12link" target="_blank" title="黑暗">黑暗</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see1_a-->
+
+
+                            <div class="caricature_see2_a">
+                            <div class="caricature_see1_a1 graybold">必看悬疑漫画</div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/lei/" target="_blank" title="累"><img src="//images.dmzj.com/resource/news/2015/06/10/1433906257710908.jpg" alt="累" /></a></div> 
+
+<!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/lei/" target="_blank" title="累">累</a></li>
+                                            <li>作者：<a href="/tags/spdm.shtml" target="_blank" title="松浦达磨" class="gray12">松浦达磨</a></li>
+                                            <li>分类：<a href="/tags/xuanyi.shtml" target="_blank" title="悬疑" class="black_font12">悬疑</a></li>
+                                            <li>更新：<a href="/lei/" target="_blank" title="累第51话">第51话</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">换脸的故事，人面人心到底哪个更丑陋</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>                          
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/tunshirenjian/" class="gray12link" target="_blank" title="吞噬人间">吞噬人间</a></li>
+                                            <li><span class="icon20"></span><a href="/acmagame/" class="gray12link" target="_blank" title="Acma:Game">Acma:Game</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/zhiyouwobuzaidejiedao/" class="gray12link" target="_blank" title="只有我不在的街道">只有我不在的街</a></li>
+                                            <li><span class="icon20"></span><a href="/yueguangtiaoli/" class="gray12link" target="_blank" title="月光条例">月光条例</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/hunhuan/" class="gray12link" target="_blank" title="魂环">魂环</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/xssxxzhdyw/" class="gray12link" target="_blank" title="向死神许下最后的愿望">向死神许愿</a></li>
+                                            <li><span class="icon20"></span><a href="/huaziyuzhentan/" class="gray12link" target="_blank" title="化子与伪侦探">化子与伪侦探</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/billybat/" class="gray12link" target="_blank" title="蝙蝠比利">蝙蝠比利</a></li>
+                                            <li><span class="icon20"></span><a href="/heikuro/" class="gray12link" target="_blank" title="黑">黑</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/chaotuinaokei/" class="gray12link" target="_blank" title="超推脑KEI">超推脑KEI</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div>		<!--caricature_see2_a-->
+
+
+                        <div class="caricature_see2_a">
+                             <div class="caricature_see1_a1 graybold">女儿控必看漫画</div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/tianmidaoqi/" target="_blank" title="甜蜜稻妻"><img src="//images.dmzj.com/tuijian/150_200/1029tianmidaoqi.jpg" alt="甜蜜稻妻" /></a></div> <!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/tianmidaoqi/" target="_blank" title="甜蜜稻妻">甜蜜稻妻</a></li>
+                                            <li>作者：<a href="/tags/yuyinjibo.shtml" target="_blank" title="雨隐ギド" class="gray12">雨隐ギド</a></li>
+                                            <li>分类：<a href="/tags/aiqing.shtml" target="_blank" title="爱情" class="black_font12">爱情</a> <a href="/tags/meishi.shtml" target="_blank" title="美食" class="black_font12">美食</a></li>
+                                            <li>更新：<a href="/tianmidaoqi/42040.shtml" target="_blank" title="甜蜜稻妻第10话">第10话</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">丧妻的父亲为了女儿学做饭的故事</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>                          
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/usagidrop/" class="gray12link" target="_blank" title="白兔糖">白兔糖</a></li>
+                                            <li><span class="icon20"></span><a href="/wdlbsaz/" class="gray12link" target="_blank" title="我的老爸是阿宅">我的老爸是阿宅</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/worldembryo/" class="gray12link" target="_blank" title="救世之茧">救世之茧</a></li>
+                                            <li><span class="icon20"></span><a href="/wlsnemomoshon/" class="gray12link" target="_blank" title="未来少女Emomoshon">未来少女</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/mofamoe/" class="gray12link" target="_blank" title="魔法萌美眉">魔法萌美眉</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/heishihuidcnlnr/" class="gray12link" target="_blank" title="黑社会的超能力女儿">黑社会超能女儿</a></li>
+                                            <li><span class="icon20"></span><a href="/symm/" class="gray12link" target="_blank" title="四叶妹妹">四叶妹妹</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/zhufuzhizhong/" class="gray12link" target="_blank" title="祝福之钟">祝福之钟</a></li>
+                                            <li><span class="icon20"></span><a href="/xingyunxing/" class="gray12link" target="_blank" title="幸运星">幸运星</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/jinrigali/" class="gray12link" target="_blank" title="今日咖哩">今日咖哩</a></li>                                        
+
+ </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see2_a-->
+                        
+                     </div><!--caricature_see1-->
+                     
+                     <div class="clearfix"></div>
+
+                     <!--start-->
+                     <div class="caricature_see2">
+
+                            <div class="caricature_see1_a">
+                            <div class="caricature_see1_a1 graybold">必看精彩国漫　　　　　　           <a href="//www.dmzj.com/">更多>></a></div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="//www.dmzj.com/info/heibaiwushuang.html" target="_blank" title="黑白无双"><img src="//images.dmzj.com/resource/news/2015/07/13/1436751798189069.jpg" alt="黑白无双" /></a></div> <!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="//www.dmzj.com/info/heibaiwushuang.html" target="_blank" title="黑白无双">黑白无双</a></li>
+                                            <li>作者：<a href="/tags/dayue.shtml" target="_blank" title="于彦舒" class="gray12">于彦舒</a></li>
+                                            <li>分类：<a href="/tags/rexue.shtml" target="_blank" title="冒险" class="black_font12">冒险</a> <a href="/tags/qihuan.shtml" target="_blank" title="格斗" class="black_font12">格斗</a></li>
+                                            <li>更新：<a href="//www.dmzj.com/info/heibaiwushuang.html" target="_blank" title="黑白无双第105话">第105话</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">经典国漫动画正热播，真人剧企划中。</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>                          
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//www.dmzj.com/info/kuangxiangzhe.html" class="gray12link" target="_blank" title="狂想者">狂想者</a></li>
+                                            <li><span class="icon20"></span><a href="//www.dmzj.com/info/yaoshenji.html" class="gray12link" target="_blank" title="妖神记">妖神记</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//www.dmzj.com/info/boshezheshuo.html" class="gray12link" target="_blank" title="捕蛇者说">捕蛇者说</a></li>
+                                            <li><span class="icon20"></span><a href="//www.dmzj.com/info/guiyingzi.html" class="gray12link" target="_blank" title="诡水疑云">诡水疑云</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//www.dmzj.com/info/jinglingzhidan.html" class="gray12link" target="_blank" title="精灵之蛋">精灵之蛋</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//www.dmzj.com/info/fulingzhanshi.html" class="gray12link" target="_blank" title="附灵战士">附灵战士</a></li>
+                                            <li><span class="icon20"></span><a href="//www.dmzj.com/info/maozhiming.html" class="gray12link" target="_blank" title="猫之茗">猫之茗</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//www.dmzj.com/info/xiangyaofumolu.html" class="gray12link" target="_blank" title="降妖伏魔录">降妖伏魔录</a></li>
+                                            <li><span class="icon20"></span><a href="//www.dmzj.com/info/shenbeiketiehe.html" class="gray12link" target="_blank" title="神北克铁盒">神北克铁盒</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="//www.dmzj.com/info/baiguilu.html" class="gray12link" target="_blank" title="百鬼录">百鬼录</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div>		<!--caricature_see1_a-->
+
+
+                            <div class="caricature_see2_a">
+                            <div class="caricature_see1_a1 graybold">Magzine经典漫画</div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/yaojingdeweiba/" target="_blank" title="妖精的尾巴"><img src="//images.dmzj.com/resource/news/2015/06/10/1433914386630883.jpg" alt="
+
+妖精的尾巴" /></a></div> <!--caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/yaojingdeweiba/" target="_blank" title="妖精的尾巴">妖精的尾巴</a></li>
+                                            <li>作者：<a href="/tags/zdh.shtml" target="_blank" title="真岛浩" class="gray12">真岛浩</a></li>
+                                            <li>分类：<a href="/tags/maoxian.shtml" target="_blank" title="冒险" class="black_font12">冒险</a> <a href="/tags/mofa.shtml" target="_blank" title="魔法" 
+
+class="black_font12">魔法</a></li>
+                                            <li>更新：<a href="/yaojingdeweiba/
+" target="_blank" title="妖精的尾巴第439话">第439话</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">属于妖精的尾巴的门扉，为你打开！</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>                          
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/sthqgmn/" class="gray12link" target="_blank" title="山田和七个魔女">山田和七个魔女</a></li>
+                                            <li><span class="icon20"></span><a href="/ugholder/" class="gray12link" target="_blank" title="UQ HOLDER!">UQ HOLDER!</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/wqyds/" class="gray12link" target="_blank" title="网球优等生">网球优等生</a></li>
+                                            <li><span class="icon20"></span><a href="/akb49/" class="gray12link" target="_blank" title="AKB49">AKB49</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/zuqiuqishi/" class="gray12link" target="_blank" title="足球骑士">足球骑士</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/fengxia/" class="gray12link" target="_blank" title="风夏">风夏</a></li>
+                                            <li><span class="icon20"></span><a href="/lanqiushaonianwang/" class="gray12link" target="_blank" title="篮球少年王">篮球少年王</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/lianaisigexiaojuchang/" class="gray12link" target="_blank" title="恋爱四格小剧场">恋爱四格小剧场</a></li>
+                                            <li><span class="icon20"></span><a href="/njsjm/" class="gray12link" target="_blank" title="南家三姐妹">南家三姐妹</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/dccyd/" class="gray12link" target="_blank" title="初音岛">初音岛</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see2_a-->                                        
+
+
+                            <div class="caricature_see2_a">
+                            <div class="caricature_see1_a1 graybold">Sunday经典漫画　　　　　　　<a href="http://donghua.178.com/s/sunday.html">更多>></a></div><!--caricature_see1_a1 graybold-->
+                             <div class="clearfix"></div>
+                            
+                            <div class="caricature_see1_a2">
+                            <div class="tcaricature_see1_a2_a"><a href="/kenan/" target="_blank" title="柯南"><img src="//images.dmzj.com/tuijian/150_200/kenan.jpg" alt="柯南" /></a></div> <!--
+
+caricature_see1_a2-->                            
+                              <div class="tcaricature_see1_a2_b">
+                                       <ul>
+                                            <li>名称：<a href="/kenan/" target="_blank" title="柯南">名侦探柯南</a></li>
+                                            <li>作者：<a href="/tags/qsgc.shtml" target="_blank" title="青山刚昌" class="gray12">青山刚昌</a></li>
+                                            <li>分类：<a href="/tags/zhentan.shtml" target="_blank" title="侦探类" class="black_font12">侦探类</a></li>
+                                            <li>更新：<a href="/kenan/" target="_blank" title="柯南第924话">第924话</a> <span class="red_font12"></span></li>
+                                            <li>点评：<span class="gray12">死神小学生!</span></li>
+                                       </ul>
+                              </div><!--tcaricature_see1_a2_b-->
+                          </div><!--caricature_see1_a2-->
+                          
+                          <div class="clearfix"></div>                          
+                          <div class="tcaricature_see1_a3">
+                                        <ul>
+                                            
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/x/xfgj.shtml" class="gray12link" target="_blank" title="旋风管家">旋风管家</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/x/xysyc.shtml" class="gray12link" target="_blank" title="四叶游戏">四叶游戏</a></li>
+                                            <li><span class="icon20"></span><a href="/baiyinzhiyao/" class="gray12link" target="_blank" title="白银之匙">白银之匙</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/caihuayangguozidiandehaogongzuo/" class="gray12link" target="_blank" title="菜花洋果子店的好工作">菜花洋果子店</a></li>
+                                            <li><span class="icon20"></span><a href="/bqdlmnnd/" class="gray12link" target="_blank" title="棒球大联盟2nd">棒球大联盟2nd</a></li>
+                                        </ul>
+                          </div><!--tcaricature_see1_a3--> 
+                                 <div class="tcaricature_see1_a3_a">
+                                        <ul>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/magi/" class="gray12link" target="_blank" title="魔笛magi">魔笛magi</a></li>
+                                            <li><span class="icon20"></span><a href="/birdman/" class="gray12link" target="_blank" title="BIRDMEN">BIRDMEN</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/cudianxinzhanzheng/" class="gray12link" target="_blank" title="粗点心战争">粗点心战争</a></li>
+                                            <li><span class="icon20"></span><a href="/huanjuezaiyici/" class="gray12link" target="_blank" title="命运轮回">命运轮回</a></li>
+                                            <li class="blue_bg"><span class="icon20"></span><a href="/zhanzhengjuchang/" class="gray12link" target="_blank" title="战争剧场">战争剧场</a></li>  
+                                        </ul>
+                          </div><!--tcaricature_see1_a3_a--> 
+                        </div><!--caricature_see2_a-->
+
+                     </div><!--caricature_see2-->
+                     <!--end--> 
+            </div>
+            <!--caricature_see-->
+
+            <div class="clearfix"></div>
+            <div class="initialsnewindex">
+                <div class="h2_title">
+                    <span class="floatright margintop5"><a
+                            href="http://www.dmzj.com/tags/category_search/0-0-0-all-0-0-0-1.shtml#category_nav_anchor"
+                            class="update_link" title="查看全部分类漫画">查看全部分类漫画</a></span>
+                    <span class="h2_icon h2_icon4"></span>
+
+                    <h2>漫画分类列表</h2>
+                </div>
+                <div class="twoer_index">
+                    <div class="twoer_index-navi">
+                        <div class="zptypetitnew">首字母：</div>
+                        <span><a target='_self' href='javascript:void(0);' id='initial_all' class='category_nav_initial ' onclick="category_search.changeCategory('initial','all')" title='全部'>全部</a><a target='_self' href='javascript:void(0);' id='initial_hot' class='category_nav_initial current' onclick="category_search.changeCategory('initial','hot')" title='热门'>热门</a><a target='_self' href='javascript:void(0);' id='initial_9' class='category_nav_initial ' onclick="category_search.changeCategory('initial','9')" title='0~9'>0~9</a><a target='_self' href='javascript:void(0);' id='initial_A' class='category_nav_initial ' onclick="category_search.changeCategory('initial','A')" title='A'>A</a><a target='_self' href='javascript:void(0);' id='initial_B' class='category_nav_initial ' onclick="category_search.changeCategory('initial','B')" title='B'>B</a><a target='_self' href='javascript:void(0);' id='initial_C' class='category_nav_initial ' onclick="category_search.changeCategory('initial','C')" title='C'>C</a><a target='_self' href='javascript:void(0);' id='initial_D' class='category_nav_initial ' onclick="category_search.changeCategory('initial','D')" title='D'>D</a><a target='_self' href='javascript:void(0);' id='initial_E' class='category_nav_initial ' onclick="category_search.changeCategory('initial','E')" title='E'>E</a><a target='_self' href='javascript:void(0);' id='initial_F' class='category_nav_initial ' onclick="category_search.changeCategory('initial','F')" title='F'>F</a><a target='_self' href='javascript:void(0);' id='initial_G' class='category_nav_initial ' onclick="category_search.changeCategory('initial','G')" title='G'>G</a><a target='_self' href='javascript:void(0);' id='initial_H' class='category_nav_initial ' onclick="category_search.changeCategory('initial','H')" title='H'>H</a><a target='_self' href='javascript:void(0);' id='initial_I' class='category_nav_initial ' onclick="category_search.changeCategory('initial','I')" title='I'>I</a><a target='_self' href='javascript:void(0);' id='initial_J' class='category_nav_initial ' onclick="category_search.changeCategory('initial','J')" title='J'>J</a><a target='_self' href='javascript:void(0);' id='initial_K' class='category_nav_initial ' onclick="category_search.changeCategory('initial','K')" title='K'>K</a><a target='_self' href='javascript:void(0);' id='initial_L' class='category_nav_initial ' onclick="category_search.changeCategory('initial','L')" title='L'>L</a><a target='_self' href='javascript:void(0);' id='initial_M' class='category_nav_initial ' onclick="category_search.changeCategory('initial','M')" title='M'>M</a><a target='_self' href='javascript:void(0);' id='initial_N' class='category_nav_initial ' onclick="category_search.changeCategory('initial','N')" title='N'>N</a><a target='_self' href='javascript:void(0);' id='initial_O' class='category_nav_initial ' onclick="category_search.changeCategory('initial','O')" title='O'>O</a><a target='_self' href='javascript:void(0);' id='initial_P' class='category_nav_initial ' onclick="category_search.changeCategory('initial','P')" title='P'>P</a><a target='_self' href='javascript:void(0);' id='initial_Q' class='category_nav_initial ' onclick="category_search.changeCategory('initial','Q')" title='Q'>Q</a><a target='_self' href='javascript:void(0);' id='initial_R' class='category_nav_initial ' onclick="category_search.changeCategory('initial','R')" title='R'>R</a><a target='_self' href='javascript:void(0);' id='initial_S' class='category_nav_initial ' onclick="category_search.changeCategory('initial','S')" title='S'>S</a><a target='_self' href='javascript:void(0);' id='initial_T' class='category_nav_initial ' onclick="category_search.changeCategory('initial','T')" title='T'>T</a><a target='_self' href='javascript:void(0);' id='initial_U' class='category_nav_initial ' onclick="category_search.changeCategory('initial','U')" title='U'>U</a><a target='_self' href='javascript:void(0);' id='initial_V' class='category_nav_initial ' onclick="category_search.changeCategory('initial','V')" title='V'>V</a><a target='_self' href='javascript:void(0);' id='initial_W' class='category_nav_initial ' onclick="category_search.changeCategory('initial','W')" title='W'>W</a><a target='_self' href='javascript:void(0);' id='initial_X' class='category_nav_initial ' onclick="category_search.changeCategory('initial','X')" title='X'>X</a><a target='_self' href='javascript:void(0);' id='initial_Y' class='category_nav_initial ' onclick="category_search.changeCategory('initial','Y')" title='Y'>Y</a><a target='_self' href='javascript:void(0);' id='initial_Z' class='category_nav_initial ' onclick="category_search.changeCategory('initial','Z')" title='Z'>Z</a></span>
+                    </div>
+                    <div class="twoer_index-navi">
+                        <div class="zptypetitnew">作品类型：</div>
+                        <span><a target='_self' href='javascript:void(0);' id='type_0' class='category_nav_type current' onclick="category_search.changeCategory('type','0')" title='全部'>全部</a><a target='_self' href='javascript:void(0);' id='type_4' class='category_nav_type ' onclick="category_search.changeCategory('type','4')" title='冒险'>冒险</a><a target='_self' href='javascript:void(0);' id='type_5' class='category_nav_type ' onclick="category_search.changeCategory('type','5')" title='欢乐向'>欢乐向</a><a target='_self' href='javascript:void(0);' id='type_6' class='category_nav_type ' onclick="category_search.changeCategory('type','6')" title='格斗'>格斗</a><a target='_self' href='javascript:void(0);' id='type_7' class='category_nav_type ' onclick="category_search.changeCategory('type','7')" title='科幻'>科幻</a><a target='_self' href='javascript:void(0);' id='type_8' class='category_nav_type ' onclick="category_search.changeCategory('type','8')" title='爱情'>爱情</a><a target='_self' href='javascript:void(0);' id='type_9' class='category_nav_type ' onclick="category_search.changeCategory('type','9')" title='侦探'>侦探</a><a target='_self' href='javascript:void(0);' id='type_10' class='category_nav_type ' onclick="category_search.changeCategory('type','10')" title='竞技'>竞技</a><a target='_self' href='javascript:void(0);' id='type_11' class='category_nav_type ' onclick="category_search.changeCategory('type','11')" title='魔法'>魔法</a><a target='_self' href='javascript:void(0);' id='type_12' class='category_nav_type ' onclick="category_search.changeCategory('type','12')" title='神鬼'>神鬼</a><a target='_self' href='javascript:void(0);' id='type_13' class='category_nav_type ' onclick="category_search.changeCategory('type','13')" title='校园'>校园</a><a target='_self' href='javascript:void(0);' id='type_14' class='category_nav_type ' onclick="category_search.changeCategory('type','14')" title='惊悚'>惊悚</a><a target='_self' href='javascript:void(0);' id='type_16' class='category_nav_type ' onclick="category_search.changeCategory('type','16')" title='其他'>其他</a><a target='_self' href='javascript:void(0);' id='type_17' class='category_nav_type ' onclick="category_search.changeCategory('type','17')" title='四格'>四格</a><a target='_self' href='javascript:void(0);' id='type_3242' class='category_nav_type ' onclick="category_search.changeCategory('type','3242')" title='生活'>生活</a><a target='_self' href='javascript:void(0);' id='type_3243' class='category_nav_type ' onclick="category_search.changeCategory('type','3243')" title='ゆり'>ゆり</a><a target='_self' href='javascript:void(0);' id='type_3244' class='category_nav_type ' onclick="category_search.changeCategory('type','3244')" title='秀吉'>秀吉</a><a target='_self' href='javascript:void(0);' id='type_3245' class='category_nav_type ' onclick="category_search.changeCategory('type','3245')" title='悬疑'>悬疑</a><a target='_self' href='javascript:void(0);' id='type_3246' class='category_nav_type ' onclick="category_search.changeCategory('type','3246')" title='纯爱'>纯爱</a><a target='_self' href='javascript:void(0);' id='type_3248' class='category_nav_type ' onclick="category_search.changeCategory('type','3248')" title='热血'>热血</a><a target='_self' href='javascript:void(0);' id='type_3249' class='category_nav_type ' onclick="category_search.changeCategory('type','3249')" title='后宫'>后宫</a><a target='_self' href='javascript:void(0);' id='type_3250' class='category_nav_type ' onclick="category_search.changeCategory('type','3250')" title='历史'>历史</a><a target='_self' href='javascript:void(0);' id='type_3251' class='category_nav_type ' onclick="category_search.changeCategory('type','3251')" title='战争'>战争</a><a target='_self' href='javascript:void(0);' id='type_3252' class='category_nav_type ' onclick="category_search.changeCategory('type','3252')" title='萌系'>萌系</a><a target='_self' href='javascript:void(0);' id='type_3253' class='category_nav_type ' onclick="category_search.changeCategory('type','3253')" title='宅系'>宅系</a><a target='_self' href='javascript:void(0);' id='type_3254' class='category_nav_type ' onclick="category_search.changeCategory('type','3254')" title='治愈'>治愈</a><a target='_self' href='javascript:void(0);' id='type_3255' class='category_nav_type ' onclick="category_search.changeCategory('type','3255')" title='励志'>励志</a><a target='_self' href='javascript:void(0);' id='type_3324' class='category_nav_type ' onclick="category_search.changeCategory('type','3324')" title='武侠'>武侠</a><a target='_self' href='javascript:void(0);' id='type_3325' class='category_nav_type ' onclick="category_search.changeCategory('type','3325')" title='机战'>机战</a><a target='_self' href='javascript:void(0);' id='type_3326' class='category_nav_type ' onclick="category_search.changeCategory('type','3326')" title='音乐舞蹈'>音乐舞蹈</a><a target='_self' href='javascript:void(0);' id='type_3327' class='category_nav_type ' onclick="category_search.changeCategory('type','3327')" title='美食'>美食</a><a target='_self' href='javascript:void(0);' id='type_3328' class='category_nav_type ' onclick="category_search.changeCategory('type','3328')" title='职场'>职场</a><a target='_self' href='javascript:void(0);' id='type_3365' class='category_nav_type ' onclick="category_search.changeCategory('type','3365')" title='西方魔幻'>西方魔幻</a><a target='_self' href='javascript:void(0);' id='type_4459' class='category_nav_type ' onclick="category_search.changeCategory('type','4459')" title='高清单行'>高清单行</a><a target='_self' href='javascript:void(0);' id='type_4518' class='category_nav_type ' onclick="category_search.changeCategory('type','4518')" title='性转换'>性转换</a><a target='_self' href='javascript:void(0);' id='type_5077' class='category_nav_type ' onclick="category_search.changeCategory('type','5077')" title='东方'>东方</a><a target='_self' href='javascript:void(0);' id='type_5345' class='category_nav_type ' onclick="category_search.changeCategory('type','5345')" title='扶她'>扶她</a><a target='_self' href='javascript:void(0);' id='type_5806' class='category_nav_type ' onclick="category_search.changeCategory('type','5806')" title='魔幻'>魔幻</a><a target='_self' href='javascript:void(0);' id='type_5848' class='category_nav_type ' onclick="category_search.changeCategory('type','5848')" title='奇幻'>奇幻</a><a target='_self' href='javascript:void(0);' id='type_6219' class='category_nav_type ' onclick="category_search.changeCategory('type','6219')" title='节操'>节操</a><a target='_self' href='javascript:void(0);' id='type_6316' class='category_nav_type ' onclick="category_search.changeCategory('type','6316')" title='轻小说'>轻小说</a><a target='_self' href='javascript:void(0);' id='type_6437' class='category_nav_type ' onclick="category_search.changeCategory('type','6437')" title='颜艺'>颜艺</a><a target='_self' href='javascript:void(0);' id='type_7568' class='category_nav_type ' onclick="category_search.changeCategory('type','7568')" title='搞笑'>搞笑</a><a target='_self' href='javascript:void(0);' id='type_7900' class='category_nav_type ' onclick="category_search.changeCategory('type','7900')" title='仙侠'>仙侠</a><a target='_self' href='javascript:void(0);' id='type_13627' class='category_nav_type ' onclick="category_search.changeCategory('type','13627')" title='舰娘'>舰娘</a><a target='_self' href='javascript:void(0);' id='type_17192' class='category_nav_type ' onclick="category_search.changeCategory('type','17192')" title='动画'>动画</a><a target='_self' href='javascript:void(0);' id='type_18522' class='category_nav_type ' onclick="category_search.changeCategory('type','18522')" title='AA'>AA</a></span>
+                    </div>
+                    <div class="bbg"></div>
+                    <ul id='category_search_ul'>
+                        
+                        <li class="twoer_index-li2">
+                            
+                            <span class="icn-02_index"><span></span><a title='妖神记第174话 回归（下）'
+                                                                       href="/yaoshenji/">妖神记</a> <a title='妖神记第174话 回归（下）' class='icn-02_indexa' href='/yaoshenji/76532.shtml' target='_blank'>[第174话 回归（下）]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='只要可爱即使是变态你也会喜欢我吧第27话'
+                                                                       href="/zykajjsbtnyhxhwb/">只要可爱即使是变态你也会喜欢我吧</a> <a title='只要可爱即使是变态你也会喜欢我吧第27话' class='icn-02_indexa' href='/zykajjsbtnyhxhwb/104543.shtml' target='_blank'>[第27话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='我家大师兄脑子有坑第307话'
+                                                                       href="/wojiadashixiongnaoziyoukeng/">我家大师兄脑子有坑</a> <a title='我家大师兄脑子有坑第307话' class='icn-02_indexa' href='/wojiadashixiongnaoziyoukeng/77290.shtml' target='_blank'>[第307话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='别当欧尼酱了！第42话'
+                                                                       href="/biedangounijiangle/">别当欧尼酱了！</a> <a title='别当欧尼酱了！第42话' class='icn-02_indexa' href='/biedangounijiangle/107317.shtml' target='_blank'>[第42话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='看得见的女孩连载27'
+                                                                       href="/kandejiandenvhai/">看得见的女孩</a> <a title='看得见的女孩连载27' class='icn-02_indexa' href='/kandejiandenvhai/101926.shtml' target='_blank'>[连载27]</a> </span>
+                            
+                        </li>
+                        
+                        <li class="twoer_index-li">
+                            
+                            <span class="icn-02_index"><span></span><a title='再见龙生你好人生第51话'
+                                                                       href="/zaijianlongshengnihaorensheng/">再见龙生你好人生</a> <a title='再见龙生你好人生第51话' class='icn-02_indexa' href='/zaijianlongshengnihaorensheng/102732.shtml' target='_blank'>[第51话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='狂赌之渊第78话'
+                                                                       href="/kuangduzhiyuan/">狂赌之渊</a> <a title='狂赌之渊第78话' class='icn-02_indexa' href='/kuangduzhiyuan/108561.shtml' target='_blank'>[第78话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='身为暗杀者的我明显比勇者还强第18话'
+                                                                       href="/shenweianshazhedewomingxianbiyongzhehaiqiang/">身为暗杀者的我明显比勇者还强</a> <a title='身为暗杀者的我明显比勇者还强第18话' class='icn-02_indexa' href='/shenweianshazhedewomingxianbiyongzhehaiqiang/107250.shtml' target='_blank'>[第18话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='久保同学不放过我第39话'
+                                                                       href="/jiubaotongxuebufangguowo/">久保同学不放过我</a> <a title='久保同学不放过我第39话' class='icn-02_indexa' href='/jiubaotongxuebufangguowo/102741.shtml' target='_blank'>[第39话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='为了女儿击倒魔王第31话'
+                                                                       href="/weilenverjidaomowang/">为了女儿击倒魔王</a> <a title='为了女儿击倒魔王第31话' class='icn-02_indexa' href='/weilenverjidaomowang/106329.shtml' target='_blank'>[第31话]</a> </span>
+                            
+                        </li>
+                        
+                        <li class="twoer_index-li2">
+                            
+                            <span class="icn-02_index"><span></span><a title='我家女友可不止可爱呢连载63'
+                                                                       href="/wojianvyoukebuzhikeaine/">我家女友可不止可爱呢</a> <a title='我家女友可不止可爱呢连载63' class='icn-02_indexa' href='/wojianvyoukebuzhikeaine/107110.shtml' target='_blank'>[连载63]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='崩坏3rd异乡篇 第七话 机器'
+                                                                       href="/benghuai3rd/">崩坏3rd</a> <a title='崩坏3rd异乡篇 第七话 机器' class='icn-02_indexa' href='/benghuai3rd/102712.shtml' target='_blank'>[异乡篇 第七话 机器]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='不熟练的两人第39话'
+                                                                       href="/hegaolengqizidexinhunshenghuo/">不熟练的两人</a> <a title='不熟练的两人第39话' class='icn-02_indexa' href='/hegaolengqizidexinhunshenghuo/99322.shtml' target='_blank'>[第39话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='完全没有恋爱感情的青梅竹马出张篇'
+                                                                       href="/wanquanmeiyoulianaiganqingdeqinmeizhuma/">完全没有恋爱感情的青梅竹马</a> <a title='完全没有恋爱感情的青梅竹马出张篇' class='icn-02_indexa' href='/wanquanmeiyoulianaiganqingdeqinmeizhuma/106263.shtml' target='_blank'>[出张篇]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='社畜女梦魔的故事新年祝福2'
+                                                                       href="/shechunvmengyandegushi/">社畜女梦魔的故事</a> <a title='社畜女梦魔的故事新年祝福2' class='icn-02_indexa' href='/shechunvmengyandegushi/94135.shtml' target='_blank'>[新年祝福2]</a> </span>
+                            
+                        </li>
+                        
+                        <li class="twoer_index-li">
+                            
+                            <span class="icn-02_index"><span></span><a title='为何无人记得我的世界第26话'
+                                                                       href="/weihewurenjidewodeshijie/">为何无人记得我的世界</a> <a title='为何无人记得我的世界第26话' class='icn-02_indexa' href='/weihewurenjidewodeshijie/100192.shtml' target='_blank'>[第26话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='勇者辞职不干了第03卷'
+                                                                       href="/yongzhecizhibuganle/">勇者辞职不干了</a> <a title='勇者辞职不干了第03卷' class='icn-02_indexa' href='/yongzhecizhibuganle/92723.shtml' target='_blank'>[第03卷]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='被勇者队伍开除的驭兽使、邂逅了最强种的猫耳少女第35话'
+                                                                       href="/beiyongzheduiwukaichudeyushoushixiehoulezuiqiangzh/">被勇者队伍开除的驭兽使、邂逅了最强种的猫耳少女</a> <a title='被勇者队伍开除的驭兽使、邂逅了最强种的猫耳少女第35话' class='icn-02_indexa' href='/beiyongzheduiwukaichudeyushoushixiehoulezuiqiangzh/106940.shtml' target='_blank'>[第35话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='简明易懂的SCP第192话'
+                                                                       href="/jianmingyidongdescp/">简明易懂的SCP</a> <a title='简明易懂的SCP第192话' class='icn-02_indexa' href='/jianmingyidongdescp/107679.shtml' target='_blank'>[第192话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='理想的小白脸生活第42话'
+                                                                       href="/lixiangdexiaobailianshenghuo/">理想的小白脸生活</a> <a title='理想的小白脸生活第42话' class='icn-02_indexa' href='/lixiangdexiaobailianshenghuo/106906.shtml' target='_blank'>[第42话]</a> </span>
+                            
+                        </li>
+                        
+                        <li class="twoer_index-li2">
+                            
+                            <span class="icn-02_index"><span></span><a title='转生猪公爵，这次想说喜欢你第26话'
+                                                                       href="/zhuanshengzhugongjuezhecixiangshuoxihuanni/">转生猪公爵，这次想说喜欢你</a> <a title='转生猪公爵，这次想说喜欢你第26话' class='icn-02_indexa' href='/zhuanshengzhugongjuezhecixiangshuoxihuanni/103840.shtml' target='_blank'>[第26话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='消极勇者与魔王军干部第18话'
+                                                                       href="/xiaojiyongzheyumowangjunganbu/">消极勇者与魔王军干部</a> <a title='消极勇者与魔王军干部第18话' class='icn-02_indexa' href='/xiaojiyongzheyumowangjunganbu/108100.shtml' target='_blank'>[第18话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='即使是不起眼剑圣亦是最强第39话'
+                                                                       href="/jishishibuqiyanjianshengyishizuiqiang/">即使是不起眼剑圣亦是最强</a> <a title='即使是不起眼剑圣亦是最强第39话' class='icn-02_indexa' href='/jishishibuqiyanjianshengyishizuiqiang/107370.shtml' target='_blank'>[第39话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='重生的猫骑士与精灵娘的日常第28话'
+                                                                       href="/chongshengdemaoqishiyujinglingniangderichang/">重生的猫骑士与精灵娘的日常</a> <a title='重生的猫骑士与精灵娘的日常第28话' class='icn-02_indexa' href='/chongshengdemaoqishiyujinglingniangderichang/105918.shtml' target='_blank'>[第28话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？第3-7话'
+                                                                       href="/putonggongjishiquantigongjierqienengercigongjidema/">普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？</a> <a title='普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？第3-7话' class='icn-02_indexa' href='/putonggongjishiquantigongjierqienengercigongjidema/97017.shtml' target='_blank'>[第3-7话]</a> </span>
+                            
+                        </li>
+                        
+                        <li class="twoer_index-li">
+                            
+                            <span class="icn-02_index"><span></span><a title='青春期笨蛋不做兔女郎学姐的梦剧场版视觉图'
+                                                                       href="/qingchunqibendanbuzuotunvlangxuejiedemeng/">青春期笨蛋不做兔女郎学姐的梦</a> <a title='青春期笨蛋不做兔女郎学姐的梦剧场版视觉图' class='icn-02_indexa' href='/qingchunqibendanbuzuotunvlangxuejiedemeng/77350.shtml' target='_blank'>[剧场版视觉图]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='通过扭蛋增加同伴，做成最强美少女军团第24话'
+                                                                       href="/tgndzjtbzczqmsnjt/">通过扭蛋增加同伴，做成最强美少女军团</a> <a title='通过扭蛋增加同伴，做成最强美少女军团第24话' class='icn-02_indexa' href='/tgndzjtbzczqmsnjt/101656.shtml' target='_blank'>[第24话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='异世界悠闲农家第121话'
+                                                                       href="/yishijieyouxiannongjia/">异世界悠闲农家</a> <a title='异世界悠闲农家第121话' class='icn-02_indexa' href='/yishijieyouxiannongjia/102146.shtml' target='_blank'>[第121话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='小弟的我与热恋的番长第60话'
+                                                                       href="/xiaodewoyureliandefanzhang/">小弟的我与热恋的番长</a> <a title='小弟的我与热恋的番长第60话' class='icn-02_indexa' href='/xiaodewoyureliandefanzhang/100843.shtml' target='_blank'>[第60话]</a> </span>
+                            
+                            <span class="icn-02_index"><span></span><a title='更多此类漫画...{chapter_name}'
+                                                                       href="/tags/category_search/0-0-0-all-0-0-1-1.shtml">更多此类漫画...</a></span>
+                            
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <!--initialsnew-->
+            <div class="tcaricature_new">
+                <div class="h2_title">
+                    <!--<span class="floatright margintop5"><a href="http://acg.178.com/list/manhua/" class="update_link"
+                                                            title="更多漫画情报">查看更多</a></span>-->
+                    <span class="h2_icon h2_icon2"></span>
+
+                    <h2>动漫之家出品</h2>
+                </div>
+                <iframe src="//manhua.dmzj.com/zt/module/production.html" width="100%" height="145" frameborder="0"
+                        scrolling="no"></iframe>
+            </div>
+            <div class="tcaricature_new">
+                <div class="h2_title">
+                    <span class="floatright margintop5"><a href="http://news.dmzj.com/manhuaqingbao" class="update_link" title="查看更多">查看更多</a></span>
+                    <span class="h2_icon h2_icon3"></span>
+
+                    <h2>最新漫画情报</h2>
+                </div>
+                <iframe src="//news.dmzj.com/information/manhuaqingbao.html" width="100%" height="145" frameborder="0"
+                        scrolling="no"></iframe>
+            </div>
+        </div>
+        <!--leftmiddle_mr-->
+    </div>
+    <!--leftmiddle-->
+
+    <div class="right">
+        <div class="right_mr">
+            <a href="/statement.shtml" class="blank-more-important">我要发布漫画</a>
+            <div class="read_week">
+    <div class="top10_top">网站公告</div>
+    <div class="read_mend">
+        <div class="read_mend_back">
+            <div class="clearfix"></div>
+            <div class="read_mend_mr">
+                <div class="read_a history_list_div" id='notice_panel'>
+
+                </div>
+                <!--read_a-->
+                <div class="read_a history_list_div" id='visit_panel' style='display:none;'>
+                </div>
+                <!--read_a-->
+
+            </div>
+            <!--read_mend_mr-->
+        </div>
+        <!--read_mend_back-->
+    </div>
+    <!--read_mend-->
+    <div class="week_foot"></div>
+    <!--week_mend-->
+</div><!--read_week-->
+<script type='text/javascript'>if (_VisitPanel)_VisitPanel.init();</script>
+
+<!-- 推广位Id:56102471 推广位名称:漫画首页右侧小图1 类型：固定 尺寸：218x140-->
+<!-- <iframe id="ac_im86_56102471" name="ac_im86_56102471" src="//afpeng.alimama.com/ex?a=mm_115547023_13540163_56102471&sp=0&cb=_acM.r" width="218" height="140" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" style="margin-top: 10px;" ></iframe> -->
+
+
+            <div class="read_week margin_top_10px">
+	   	 <script src="https://www.dmzj.com/js/ad/ad_3.js?v=1" type="text/javascript"></script>
+	   </div>
+            <div class="read_week margin_top_10px">
+                <div class="read_top margin_top_10px">漫画预告</div>
+                <div class="read_mend">
+                          <div class="read_mend_back">      
+                          <div class="read_mend_mr">
+ 
+
+    <div class="read_mend_mr_a"> 
+ <ul>
+   <li class="read_mend_li_l"><span class="red_font12">18-09-22</span></li>
+   <li class="read_mend_li_r"><a href="/lieren/" title="猎人381">猎人381</a><!--<span style="color:#f00">休刊</span>--></li>
+   </ul>
+ </div>
+ </div>
+                               
+                          </div><!--read_mend_back-->
+                     </div><!--read_mend-->
+                <div class="week_foot"></div>
+                <!--week_mend-->
+            </div>
+            <!--read_week-->
+
+            
+
+            <div class="read_week margin_top_10px">
+                <div class="read"><span class="floatright"><a href="/rank/snscite.shtml" class="update_link"
+                                                              title="查看更多">查看更多</a></span>最多吐槽漫画章节
+                </div>
+                <div class="read_mend">
+                    <div class="read_mend_back" style="padding-top:5px">
+                        <div class="clearfix"></div>
+                        <div class="week_mend_nav">
+                            <ul>
+                                <li class="s-nav3 rank_tab" target_div='list_daily'>
+                                    <span>今日排行</span>
+                                </li>
+                                <li class='rank_tab' target_div='list_weekly'>
+                                    <span>本周排行</span>
+                                </li>
+                                <li class='rank_tab' target_div='list_month'>
+                                    <span>本月排行</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="read_mend_mr" style="padding-left:12px;">
+                            <div id="list_daily" class='rank_div'>
+                                <div class="sns_words_top"><ul class="top_list"><li><span class="no_1">1</span><a href="//manhua.dmzj.com/yizhiyiweishinanhaizidehaiziwangqishishinvhaizi/107706.shtml" target="_blank" title="一直以为是男孩子的孩子王其实是女孩子 妇科">一直以为是男孩子的孩子王其实是女孩子 妇科..</a><span class="num">2043</span></li><li><span class="no_2">2</span><a href="//manhua.dmzj.com/jianmingyidongdescp/107679.shtml" target="_blank" title="简明易懂的SCP 第192话">简明易懂的SCP 第192话..</a><span class="num">1669</span></li><li><span class="no_3">3</span><a href="//manhua.dmzj.com/xiaoxinnageenv/108551.shtml" target="_blank" title="小心那个恶女！ 第14话">小心那个恶女！ 第14话..</a><span class="num">722</span></li><li><span class="no_4">4</span><a href="//manhua.dmzj.com/lianaiduoshaofen/103204.shtml" target="_blank" title="恋爱多少分 第05话">恋爱多少分 第05话..</a><span class="num">562</span></li><li><span class="no_5">5</span><a href="//manhua.dmzj.com/liudaodeenvmen/103205.shtml" target="_blank" title="六道的恶女们 第203话">六道的恶女们 第203话..</a><span class="num">386</span></li><li><span class="no_6">6</span><a href="//manhua.dmzj.com/lixiangdexiaobailianshenghuo/106906.shtml" target="_blank" title="理想的小白脸生活 第42话">理想的小白脸生活 第42话..</a><span class="num">349</span></li><li><span class="no_7">7</span><a href="//manhua.dmzj.com/mowangjunzuiqiangdemoshushishirenlei/108556.shtml" target="_blank" title="魔王军最强的魔术师是人类 第14.1话">魔王军最强的魔术师是人类 第14.1话..</a><span class="num">346</span></li><li><span class="no_8">8</span><a href="//manhua.dmzj.com/wodepengyoukeaidaorangrentoutong/106883.shtml" target="_blank" title="我的朋友可爱到让人困扰 第12话">我的朋友可爱到让人困扰 第12话..</a><span class="num">329</span></li><li><span class="no_9">9</span><a href="//manhua.dmzj.com/xienan/107675.shtml" target="_blank" title="谢男 第12话">谢男 第12话..</a><span class="num">305</span></li><li><span class="no_10">10</span><a href="//manhua.dmzj.com/wodantuidenvhai/108544.shtml" target="_blank" title="【我推的孩子】 第16话">【我推的孩子】 第16话..</a><span class="num">285</span></li></ul></div>
+                            </div>
+                            <div id="list_weekly" class='rank_div' style="display:none">
+                                <div class="sns_words_top"><ul class="top_list"><li><span class="no_1">1</span><a href="//manhua.dmzj.com/zichengeyidaxiaojiedehunyuezheguanchajilu/106782.shtml" target="_blank" title="自称恶役大小姐的婚约者观察记录 第23话">自称恶役大小姐的婚约者观察记录 第23话..</a><span class="num">5546</span></li><li><span class="no_2">2</span><a href="//manhua.dmzj.com/yizhiyiweishinanhaizidehaiziwangqishishinvhaizi/107469.shtml" target="_blank" title="一直以为是男孩子的孩子王其实是女孩子 第28话">一直以为是男孩子的孩子王其实是女孩子 第28话..</a><span class="num">4261</span></li><li><span class="no_3">3</span><a href="//manhua.dmzj.com/eyizhiyousiwangjieju/107467.shtml" target="_blank" title="恶役只有死亡结局 第34话">恶役只有死亡结局 第34话..</a><span class="num">3251</span></li><li><span class="no_4">4</span><a href="//manhua.dmzj.com/yubianchengleyishijiemeishaonvdedashuyiqimaoxian/106863.shtml" target="_blank" title="与变成了异世界美少女的大叔一起冒险 第37话">与变成了异世界美少女的大叔一起冒险 第37话..</a><span class="num">3176</span></li><li><span class="no_5">5</span><a href="//manhua.dmzj.com/yijinanoneyuanzuoban/103172.shtml" target="_blank" title="一击男ONE原作版 第129话">一击男ONE原作版 第129话..</a><span class="num">2945</span></li><li><span class="no_6">6</span><a href="//manhua.dmzj.com/qingnihuiqubaajiujintongxue/107443.shtml" target="_blank" title="请你回去吧！阿久津同学 第48话">请你回去吧！阿久津同学 第48话..</a><span class="num">2873</span></li><li><span class="no_7">7</span><a href="//manhua.dmzj.com/yykgjnbydghzyylscsjbdasz/106635.shtml" target="_blank" title="拥有开挂技能「薄影」的公会职员原来是传说级别的暗杀者 第14话">拥有开挂技能「薄影」的公会职员原来是传说级别的暗杀者 第14话..</a><span class="num">2603</span></li><li><span class="no_8">8</span><a href="//manhua.dmzj.com/zangsongdefulilian/107477.shtml" target="_blank" title="葬送的芙莉莲 第16话">葬送的芙莉莲 第16话..</a><span class="num">2600</span></li><li><span class="no_9">9</span><a href="//manhua.dmzj.com/yubianchengleyishijiemeishaonvdedashuyiqimaoxian/106651.shtml" target="_blank" title="与变成了异世界美少女的大叔一起冒险 触手短篇">与变成了异世界美少女的大叔一起冒险 触手短篇..</a><span class="num">2528</span></li><li><span class="no_10">10</span><a href="//manhua.dmzj.com/wodantuidenvhai/108544.shtml" target="_blank" title="【我推的孩子】 第16话">【我推的孩子】 第16话..</a><span class="num">2508</span></li></ul></div>
+                            </div>
+                            <div id="list_month" class='rank_div' style="display:none">
+                                <div class="sns_words_top"><ul class="top_list"><li><span class="no_1">1</span><a href="//manhua.dmzj.com/beijiegudeanheishibingmanshenghuodedierrensheng/102178.shtml" target="_blank" title="被解雇的暗黑士兵慢生活的第二人生 第12话">被解雇的暗黑士兵慢生活的第二人生 第12话..</a><span class="num">8017</span></li><li><span class="no_2">2</span><a href="//manhua.dmzj.com/yubianchengleyishijiemeishaonvdedashuyiqimaoxian/105370.shtml" target="_blank" title="与变成了异世界美少女的大叔一起冒险 第35话">与变成了异世界美少女的大叔一起冒险 第35话..</a><span class="num">7212</span></li><li><span class="no_3">3</span><a href="//manhua.dmzj.com/guaishou8hao/107773.shtml" target="_blank" title="怪兽8号 第07话">怪兽8号 第07话..</a><span class="num">6587</span></li><li><span class="no_4">4</span><a href="//manhua.dmzj.com/chongjingchengweimofashaonv/107342.shtml" target="_blank" title="憧憬成为魔法少女 第15话">憧憬成为魔法少女 第15话..</a><span class="num">6217</span></li><li><span class="no_5">5</span><a href="//manhua.dmzj.com/shengerweigouwohenxingfu/101772.shtml" target="_blank" title="生而为狗 我很幸福 第03话">生而为狗 我很幸福 第03话..</a><span class="num">5861</span></li><li><span class="no_6">6</span><a href="//manhua.dmzj.com/guaishou8hao/107874.shtml" target="_blank" title="怪兽8号 第08话">怪兽8号 第08话..</a><span class="num">5838</span></li><li><span class="no_7">7</span><a href="//manhua.dmzj.com/biedangounijiangle/107317.shtml" target="_blank" title="别当欧尼酱了！ 第42话">别当欧尼酱了！ 第42话..</a><span class="num">5806</span></li><li><span class="no_8">8</span><a href="//manhua.dmzj.com/xuejiefengyun/106400.shtml" target="_blank" title="穴界风云 第16话">穴界风云 第16话..</a><span class="num">5693</span></li><li><span class="no_9">9</span><a href="//manhua.dmzj.com/zichengeyidaxiaojiedehunyuezheguanchajilu/106782.shtml" target="_blank" title="自称恶役大小姐的婚约者观察记录 第23话">自称恶役大小姐的婚约者观察记录 第23话..</a><span class="num">5546</span></li><li><span class="no_10">10</span><a href="//manhua.dmzj.com/guaishou8hao/107428.shtml" target="_blank" title="怪兽8号 第06话">怪兽8号 第06话..</a><span class="num">5337</span></li></ul></div>
+                            </div>
+                        </div>
+                        <!--read_mend_mr-->
+                    </div>
+                    <!--read_mend_back-->
+                </div>
+                <!--read_mend-->
+                <div class="week_foot"></div>
+                <!--week_mend-->
+            </div>
+            <div class="read_week margin_top_10px">
+                <div class="read"><span class="floatright"><a href="/rank/" class="update_link"
+                                                              title="查看完整排行">查看完整排行</a></span>漫画人气排行
+                </div>
+                <div class="read_mend">
+                    <div class="read_mend_back" style="padding-top:5px">
+                        <div class="clearfix"></div>
+                        <div class="week_mend_nav week_mend_nav2" style="margin-bottom:5px">
+                            <ul>
+                                <li class="s-nav3 rank_tab2" target_div='day_rank_list'>
+                                    <a target="_self" href='/rank/day-list-1.shtml'>今日</a>
+                                </li>
+                                <li class='rank_tab2' target_div='week_rank_list'>
+                                    <a target="_self" href='/rank/week-list-1.shtml'>本周</a>
+                                </li>
+                                <li class='rank_tab2' target_div='month_rank_list'>
+                                    <a target="_self" href='/rank/month-list-1.shtml'>本月</a>
+                                </li>
+                                <li class='rank_tab2' target_div='total_rank_list'>
+                                    <a target="_self" href='/rank/total-list-1.shtml'>总排行</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="read_mend_mr" style="padding-left:12px;">
+                                                              <div id="day_rank_list" class='rank_div2'  >
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">1</span><a href="/liushenjixiangyuwotanlianai/" title="六神姬想与我谈恋爱" class="linehidden" target="_blank" >六神姬想与我谈恋爱</a></span>
+												 <span class="float_right">1515004℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">2</span><a href="/jiulongdazhonglangman/" title="九龙大众浪漫" class="linehidden" target="_blank" >九龙大众浪漫</a></span>
+												 <span class="float_right">913319℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">3</span><a href="/yingzhiyingxiongderichangshenghuo/" title="影之英雄的日常生活" class="linehidden" target="_blank" >影之英雄的日常生活</a></span>
+												 <span class="float_right">899715℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">4</span><a href="/xiangyanheyingtao/" title="香烟与樱桃" class="linehidden" target="_blank" >香烟与樱桃</a></span>
+												 <span class="float_right">689837℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">5</span><a href="/disanwangzideguangmangguoyuyaoyanwufazhishiiyutani/" title="第三王子的光芒过于耀眼、无法直视！" class="linehidden" target="_blank" >第三王子的光芒过于耀眼、无法直视！</a></span>
+												 <span class="float_right">651739℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">6</span><a href="/yongzhuangyukouzhao/" title="泳装与口罩" class="linehidden" target="_blank" >泳装与口罩</a></span>
+												 <span class="float_right">566428℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">7</span><a href="/erzhoumuzuobidezhuanshengmodaoshi/" title="二周目作弊的转生魔导士" class="linehidden" target="_blank" >二周目作弊的转生魔导士</a></span>
+												 <span class="float_right">553162℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">8</span><a href="/chengweixunshoushidezhuanshengshengnv/" title="成为驯兽师的转生圣女" class="linehidden" target="_blank" >成为驯兽师的转生圣女</a></span>
+												 <span class="float_right">539128℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">9</span><a href="/monvyushixixiunv/" title="魔女与实习修女" class="linehidden" target="_blank" >魔女与实习修女</a></span>
+												 <span class="float_right">505886℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">10</span><a href="/xiangxiarendezhenzijiang/" title="想吓人的贞子酱" class="linehidden" target="_blank" >想吓人的贞子酱</a></span>
+												 <span class="float_right">505262℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">11</span><a href="/shoujinqilingdetabeituiluoduzhaozhuanshengchengwei/" title="受尽欺凌的她被推落毒沼转生成为最强毒蛇的故事" class="linehidden" target="_blank" >受尽欺凌的她被推落毒沼转生成为最强毒蛇的故事</a></span>
+												 <span class="float_right">458822℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">12</span><a href="/noelart/" title="NOELART" class="linehidden" target="_blank" >NOELART</a></span>
+												 <span class="float_right">449070℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">13</span><a href="/yanyumi/" title="烟与蜜" class="linehidden" target="_blank" >烟与蜜</a></span>
+												 <span class="float_right">443245℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">14</span><a href="/zhishigongbenyinghenkeaieryidexiaoshuodemanhua/" title="宫本樱非常可爱的漫画" class="linehidden" target="_blank" >宫本樱非常可爱的漫画</a></span>
+												 <span class="float_right">440596℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">15</span><a href="/suiranxianzaihaishiqingmeizhumademeimei/" title="虽然现在还是「青梅竹马的妹妹」。" class="linehidden" target="_blank" >虽然现在还是「青梅竹马的妹妹」。</a></span>
+												 <span class="float_right">436556℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">16</span><a href="/yimeng/" title="异梦" class="linehidden" target="_blank" >异梦</a></span>
+												 <span class="float_right">431518℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">17</span><a href="/jintiandemeimeiyehenkeai/" title="今天的妹妹也很可爱" class="linehidden" target="_blank" >今天的妹妹也很可爱</a></span>
+												 <span class="float_right">407442℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">18</span><a href="/huxiangjielehshuzhihouchengweilepengyoudenvsheng/" title="互相借了H书之后成了朋友的女生" class="linehidden" target="_blank" >互相借了H书之后成了朋友的女生</a></span>
+												 <span class="float_right">390692℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">19</span><a href="/xianshizhuyimowangdeyishijiegaige/" title="现实主义魔王的异世界改革" class="linehidden" target="_blank" >现实主义魔王的异世界改革</a></span>
+												 <span class="float_right">368792℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">20</span><a href="/weixiyangsuozhebi/" title="为夕阳所遮蔽" class="linehidden" target="_blank" >为夕阳所遮蔽</a></span>
+												 <span class="float_right">335855℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									  
+								  </div>
+                                  <div id="week_rank_list" class='rank_div2' style='display:none;' >
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">1</span><a href="/zuiqiangshiguwujianyulingganyingnengliweilingdenan/" title="最强事故物件与灵感应能力为零的男子" class="linehidden"  target="_blank"  >最强事故物件与灵感应能力为零的男子</a></span>
+												 <span class="float_right">5708699℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">2</span><a href="/huxiangjielehshuzhihouchengweilepengyoudenvsheng/" title="互相借了H书之后成了朋友的女生" class="linehidden"  target="_blank"  >互相借了H书之后成了朋友的女生</a></span>
+												 <span class="float_right">3339658℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">3</span><a href="/wodemuqinshibeiliufangdeyuanfanpaiqianjin/" title="我的母亲是被流放的原反派千金" class="linehidden"  target="_blank"  >我的母亲是被流放的原反派千金</a></span>
+												 <span class="float_right">3297152℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">4</span><a href="/xujiubujiandeqingmeizuma/" title="许久不见的青梅竹马" class="linehidden"  target="_blank"  >许久不见的青梅竹马</a></span>
+												 <span class="float_right">3028702℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">5</span><a href="/shoujinqilingdetabeituiluoduzhaozhuanshengchengwei/" title="受尽欺凌的她被推落毒沼转生成为最强毒蛇的故事" class="linehidden"  target="_blank"  >受尽欺凌的她被推落毒沼转生成为最强毒蛇的故事</a></span>
+												 <span class="float_right">2715754℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">6</span><a href="/yuanlingfuren/" title="怨灵夫人" class="linehidden"  target="_blank"  >怨灵夫人</a></span>
+												 <span class="float_right">2611837℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">7</span><a href="/erzhoumuzuobidezhuanshengmodaoshi/" title="二周目作弊的转生魔导士" class="linehidden"  target="_blank"  >二周目作弊的转生魔导士</a></span>
+												 <span class="float_right">2516758℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">8</span><a href="/jiulongdazhonglangman/" title="九龙大众浪漫" class="linehidden"  target="_blank"  >九龙大众浪漫</a></span>
+												 <span class="float_right">2415449℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">9</span><a href="/kandejiandenvhai/" title="看得见的女孩" class="linehidden"  target="_blank"  >看得见的女孩</a></span>
+												 <span class="float_right">2302250℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">10</span><a href="/qiangweiyuanchuangqi/" title="蔷薇园传奇" class="linehidden"  target="_blank"  >蔷薇园传奇</a></span>
+												 <span class="float_right">1965428℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">11</span><a href="/chengweibojuejiadehunhun/" title="成为伯爵家的混混" class="linehidden"  target="_blank"  >成为伯爵家的混混</a></span>
+												 <span class="float_right">1950990℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">12</span><a href="/yishijiededaokaiguanenglidewoxianshishijiezhongyis/" title="异世界无敌的我，现实世界中亦是无双" class="linehidden"  target="_blank"  >异世界无敌的我，现实世界中亦是无双</a></span>
+												 <span class="float_right">1925294℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">13</span><a href="/yongqianyouhuobulianglameijieguobeifangongdegaoyan/" title="用钱诱惑不良辣妹结果被反攻的高颜值女" class="linehidden"  target="_blank"  >用钱诱惑不良辣妹结果被反攻的高颜值女</a></span>
+												 <span class="float_right">1857040℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">14</span><a href="/liushenjixiangyuwotanlianai/" title="六神姬想与我谈恋爱" class="linehidden"  target="_blank"  >六神姬想与我谈恋爱</a></span>
+												 <span class="float_right">1812587℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">15</span><a href="/gulingjingguaispring/" title="古灵精怪 x SPRING" class="linehidden"  target="_blank"  >古灵精怪 x SPRING</a></span>
+												 <span class="float_right">1705874℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">16</span><a href="/zhuanshengchenglewudoupaiqianjin/" title="转生成了武斗派千金" class="linehidden"  target="_blank"  >转生成了武斗派千金</a></span>
+												 <span class="float_right">1678650℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">17</span><a href="/xiangyanheyingtao/" title="香烟与樱桃" class="linehidden"  target="_blank"  >香烟与樱桃</a></span>
+												 <span class="float_right">1649402℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">18</span><a href="/taoyanrenlridemowang/" title="讨厌人类的魔王" class="linehidden"  target="_blank"  >讨厌人类的魔王</a></span>
+												 <span class="float_right">1593966℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">19</span><a href="/suiranxianzaihaishiqingmeizhumademeimei/" title="虽然现在还是「青梅竹马的妹妹」。" class="linehidden"  target="_blank"  >虽然现在还是「青梅竹马的妹妹」。</a></span>
+												 <span class="float_right">1577359℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">20</span><a href="/cmnsksyxzyttx/" title="从本能寺开始与信长一统天下" class="linehidden"  target="_blank"  >从本能寺开始与信长一统天下</a></span>
+												 <span class="float_right">1557252℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									  
+								  </div>
+                                  <div id="month_rank_list" class='rank_div2' style='display:none;' >
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">1</span><a href="/xiangzhizhimeimeizhesixiaoguideyangzi/" title="想治治妹妹这死小鬼的样子！" class="linehidden" target="_blank" >想治治妹妹这死小鬼的样子！</a></span>
+												 <span class="float_right">9778835℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">2</span><a href="/lvyimowangyudujifeiyongzhe/" title="LV1魔王与独居废勇者" class="linehidden" target="_blank" >LV1魔王与独居废勇者</a></span>
+												 <span class="float_right">9745788℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">3</span><a href="/zuoriyongzhejinweigu/" title="昨日勇者今为骨" class="linehidden" target="_blank" >昨日勇者今为骨</a></span>
+												 <span class="float_right">8224304℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">4</span><a href="/cysjksdywtzqscysjzzxyfslyqlczcyzwfglddxcb/" title="从异世界开始的业务拓展！ ？ ～前社畜异世界转职咸鱼翻身录！一起来创造出勇者无法攻略的地下城吧～" class="linehidden" target="_blank" >从异世界开始的业务拓展！ ？ ～前社畜异世界转职咸鱼翻身录！一起来创造出勇者无法攻略的地下城吧～</a></span>
+												 <span class="float_right">8159786℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">5</span><a href="/zuiqiangshiguwujianyulingganyingnengliweilingdenan/" title="最强事故物件与灵感应能力为零的男子" class="linehidden" target="_blank" >最强事故物件与灵感应能力为零的男子</a></span>
+												 <span class="float_right">7580415℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">6</span><a href="/nagemoguijiaoshizenmebianchengwojiele/" title="那个魔鬼教师怎么变成我姐了" class="linehidden" target="_blank" >那个魔鬼教师怎么变成我姐了</a></span>
+												 <span class="float_right">7533104℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">7</span><a href="/shengerweigouwohenxingfu/" title="生而为狗 我很幸福" class="linehidden" target="_blank" >生而为狗 我很幸福</a></span>
+												 <span class="float_right">7158182℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">8</span><a href="/yinweijiabeishaoleerzibaoziqidewoyongjinshengdeqia/" title="因为家被烧了而自暴自弃的我、用仅剩的钱买了一个黑暗精灵奴隶" class="linehidden" target="_blank" >因为家被烧了而自暴自弃的我、用仅剩的钱买了一个黑暗精灵奴隶</a></span>
+												 <span class="float_right">6675867℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">9</span><a href="/xinhunxueqixiangyuwojiaorong/" title="新婚雪妻想与我交融" class="linehidden" target="_blank" >新婚雪妻想与我交融</a></span>
+												 <span class="float_right">6579935℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">10</span><a href="/qiangweiyuanchuangqi/" title="蔷薇园传奇" class="linehidden" target="_blank" >蔷薇园传奇</a></span>
+												 <span class="float_right">6574486℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">11</span><a href="/areawuyi/" title="AREA51" class="linehidden" target="_blank" >AREA51</a></span>
+												 <span class="float_right">6521210℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">12</span><a href="/yjxlzyszhfcwjdymytdmdhdfzwmbzwybzydhxq/" title="一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去" class="linehidden" target="_blank" >一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去</a></span>
+												 <span class="float_right">6386858℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">13</span><a href="/wukoudebaitianxiaojieyuyuanqidetaitianjun/" title="无口的柏田小姐与元气的太田君" class="linehidden" target="_blank" >无口的柏田小姐与元气的太田君</a></span>
+												 <span class="float_right">6373419℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">14</span><a href="/tongjurenbushizhegeshijiededongxi/" title="同居人不是这个世界的东西" class="linehidden" target="_blank" >同居人不是这个世界的东西</a></span>
+												 <span class="float_right">6154804℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">15</span><a href="/xujiubujiandeqingmeizuma/" title="许久不见的青梅竹马" class="linehidden" target="_blank" >许久不见的青梅竹马</a></span>
+												 <span class="float_right">6097210℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">16</span><a href="/putongpengyou/" title="普通朋友" class="linehidden" target="_blank" >普通朋友</a></span>
+												 <span class="float_right">5978085℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">17</span><a href="/guaishou8hao/" title="怪兽8号" class="linehidden" target="_blank" >怪兽8号</a></span>
+												 <span class="float_right">5643099℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">18</span><a href="/maoniangzhenghouqun/" title="猫娘症候群" class="linehidden" target="_blank" >猫娘症候群</a></span>
+												 <span class="float_right">5636539℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">19</span><a href="/zhuanshengchenghuangyoujiyoujueseyonyouxizhishiziy/" title="转生成黄油基友角色，用游戏知识自由生活" class="linehidden" target="_blank" >转生成黄油基友角色，用游戏知识自由生活</a></span>
+												 <span class="float_right">5503266℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">20</span><a href="/xiangbeishizitangxiaojiexunchi/" title="想被狮子堂小姐训斥" class="linehidden" target="_blank" >想被狮子堂小姐训斥</a></span>
+												 <span class="float_right">5437196℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									  
+								  </div>
+                                  <div id="total_rank_list" class='rank_div2' style='display:none;' >
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">1</span><a href="/yiquanchaoren/" title="一拳超人" class="linehidden" target="_blank" >一拳超人</a></span>
+												 <span class="float_right">534324658℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">2</span><a href="/yaojingdeweiba/" title="妖精的尾巴" class="linehidden" target="_blank" >妖精的尾巴</a></span>
+												 <span class="float_right">146157072℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">3</span><a href="/xingqiyidewanwan/" title="星期一的丰满" class="linehidden" target="_blank" >星期一的丰满</a></span>
+												 <span class="float_right">120241176℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">4</span><a href="/wudengfendehuajia/" title="五等分的花嫁" class="linehidden" target="_blank" >五等分的花嫁</a></span>
+												 <span class="float_right">118903087℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">5</span><a href="/jingjidejuren/" title="进击的巨人" class="linehidden" target="_blank" >进击的巨人</a></span>
+												 <span class="float_right">115920013℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">6</span><a href="/zykajjsbtnyhxhwb/" title="只要可爱即使是变态你也会喜欢我吧" class="linehidden" target="_blank" >只要可爱即使是变态你也会喜欢我吧</a></span>
+												 <span class="float_right">114654227℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">7</span><a href="/dzyzcmlu/" title="盾之勇者成名录" class="linehidden" target="_blank" >盾之勇者成名录</a></span>
+												 <span class="float_right">114506137℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">8</span><a href="/hydxjxrwgb/" title="辉夜大小姐想让我告白 ~天才们的恋爱头脑战~" class="linehidden" target="_blank" >辉夜大小姐想让我告白 ~天才们的恋爱头脑战~</a></span>
+												 <span class="float_right">102434574℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">9</span><a href="/dianjuren/" title="电锯人" class="linehidden" target="_blank" >电锯人</a></span>
+												 <span class="float_right">99551343℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">10</span><a href="/heishihuidcnlnr/" title="黑社会的超能力女儿" class="linehidden" target="_blank" >黑社会的超能力女儿</a></span>
+												 <span class="float_right">98818219℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">11</span><a href="/wodeyingxiongxueyuan/" title="我的英雄学院" class="linehidden" target="_blank" >我的英雄学院</a></span>
+												 <span class="float_right">96734070℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">12</span><a href="/womenyiqiwufaxuexi/" title="我们无法一起学习" class="linehidden" target="_blank" >我们无法一起学习</a></span>
+												 <span class="float_right">94338732℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">13</span><a href="/kandejiandenvhai/" title="看得见的女孩" class="linehidden" target="_blank" >看得见的女孩</a></span>
+												 <span class="float_right">93987184℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">14</span><a href="/shanchangzhuonongdegaomutongxue/" title="擅长捉弄的高木同学" class="linehidden" target="_blank" >擅长捉弄的高木同学</a></span>
+												 <span class="float_right">93685789℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">15</span><a href="/biedangounijiangle/" title="别当欧尼酱了！" class="linehidden" target="_blank" >别当欧尼酱了！</a></span>
+												 <span class="float_right">93074538℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">16</span><a href="/jizhufudao/" title="极主夫道" class="linehidden" target="_blank" >极主夫道</a></span>
+												 <span class="float_right">89564392℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">17</span><a href="/lv999decunmin/" title="LV999的村民" class="linehidden" target="_blank" >LV999的村民</a></span>
+												 <span class="float_right">84203401℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">18</span><a href="/jojo/" title="JoJo的奇妙冒险" class="linehidden" target="_blank" >JoJo的奇妙冒险</a></span>
+												 <span class="float_right">83411204℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">19</span><a href="/woshicunminyouyijian/" title="我是村民 有意见？" class="linehidden" target="_blank" >我是村民 有意见？</a></span>
+												 <span class="float_right">81239242℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									    
+										 <div class="read10_mend_mr_b">                                      
+											 <div class="read10_mend_mr_particular">
+												<span class="float_left"><span class="apinknum">20</span><a href="/jiandieguojiajia/" title="间谍过家家" class="linehidden" target="_blank" >间谍过家家</a></span>
+												 <span class="float_right">79920082℃<!--<span class="icon_up"></span>  --></span>
+											 </div><!--read10_mend_particular-->
+										 </div><!--read10_mend_mr_b-->
+									  
+								  </div>
+
+                        </div>
+                        <!--read_mend_mr-->
+
+                    </div>
+                    <!--read_mend_back-->
+                </div>
+                <!--read_mend-->
+                <div class="week_foot"></div>
+                <!--week_mend-->
+            </div>
+            <!--read_week-->
+
+
+            <div class="read_week margin_top_10px">
+                <div class="read"><span class="floatright"><a href="update_1.shtml" class="update_link"
+                                                              title="更多更新">全部更新列表</a></span>最新更新漫画
+                </div>
+                <div class="read_mend">
+                    <div class="read_mend_back">
+                        <div class="zxgxbox">
+                            <ul>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:49</span></span><a class="tt_comic"
+                                                                                                title="神奇女侠：回到我身边"
+                                                                                                href="shenqinvxiahuidaowoshenbian/">神奇女侠：回到我身边</a><a
+                                        title="第08卷" class="tt_chapter" href="/shenqinvxiahuidaowoshenbian/103246.shtml">[第08卷]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:27</span></span><a class="tt_comic"
+                                                                                                title="九酱是诚实的 "
+                                                                                                href="jiujiangshichengshide/">九酱是诚实的 </a><a
+                                        title="第01话" class="tt_chapter" href="/jiujiangshichengshide/108601.shtml">[第01话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:21</span></span><a class="tt_comic"
+                                                                                                title="恋上伪娘的少女"
+                                                                                                href="lianshangweiniangdeshaonv/">恋上伪娘的少女</a><a
+                                        title="第541~570话" class="tt_chapter" href="/lianshangweiniangdeshaonv/108600.shtml">[第541~570话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:20</span></span><a class="tt_comic"
+                                                                                                title="和喜欢游戏的朋友各种轶事"
+                                                                                                href="shaonvnidiandehanzidaoleo/">和喜欢游戏的朋友各种轶事</a><a
+                                        title="第31话" class="tt_chapter" href="/shaonvnidiandehanzidaoleo/106928.shtml">[第31话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:20</span></span><a class="tt_comic"
+                                                                                                title="现在我成了恶役大小姐弟弟则是女主角"
+                                                                                                href="xianzaiwochengleeyidaxiaojiedidizeshinvzhujue/">现在我成了恶役大小姐弟弟则是女主角</a><a
+                                        title="第03话" class="tt_chapter" href="/xianzaiwochengleeyidaxiaojiedidizeshinvzhujue/106927.shtml">[第03话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:08</span></span><a class="tt_comic"
+                                                                                                title="劣等人魔剑使运用技能板成为最强"
+                                                                                                href="liedengrenmojianshiyunyongjinengbanchengweizuiqian/">劣等人魔剑使运用技能板成为最强</a><a
+                                        title="第02话" class="tt_chapter" href="/liedengrenmojianshiyunyongjinengbanchengweizuiqian/108598.shtml">[第02话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:04</span></span><a class="tt_comic"
+                                                                                                title="可爱属于你"
+                                                                                                href="keaishuyuni/">可爱属于你</a><a
+                                        title="第04话" class="tt_chapter" href="/keaishuyuni/107737.shtml">[第04话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:02</span></span><a class="tt_comic"
+                                                                                                title="魔王的人事"
+                                                                                                href="mowangderenshi/">魔王的人事</a><a
+                                        title="第12话" class="tt_chapter" href="/mowangderenshi/103244.shtml">[第12话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:01</span></span><a class="tt_comic"
+                                                                                                title="无限树图：黑鸦传记"
+                                                                                                href="wuxianshutuheiyazhuanji/">无限树图：黑鸦传记</a><a
+                                        title="第10话" class="tt_chapter" href="/wuxianshutuheiyazhuanji/102743.shtml">[第10话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig"><span class="color_red">09-07 00:00</span></span><a class="tt_comic"
+                                                                                                title="暴食妃之剑"
+                                                                                                href="baoshifeizhijian/">暴食妃之剑</a><a
+                                        title="附录01" class="tt_chapter" href="/baoshifeizhijian/107734.shtml">[附录01]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:59</span><a class="tt_comic"
+                                                                                                title="转生过了40年，大叔也想恋爱了"
+                                                                                                href="zhuanshengguolesishiniandashuyexianglianailiao/">转生过了40年，大叔也想恋爱了</a><a
+                                        title="第05话" class="tt_chapter" href="/zhuanshengguolesishiniandashuyexianglianailiao/107736.shtml">[第05话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:59</span><a class="tt_comic"
+                                                                                                title="爱德蒙似乎在大海贼时代成为了复仇者的样子"
+                                                                                                href="aidemengsihuzaidahaizeshidaichengweilefuchouzhedey/">爱德蒙似乎在大海贼时代成为了复仇者的样子</a><a
+                                        title="第0话" class="tt_chapter" href="/aidemengsihuzaidahaizeshidaichengweilefuchouzhedey/107735.shtml">[第0话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:57</span><a class="tt_comic"
+                                                                                                title="勇者的婚约"
+                                                                                                href="yongzhedehunyue/">勇者的婚约</a><a
+                                        title="第06话" class="tt_chapter" href="/yongzhedehunyue/108597.shtml">[第06话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:57</span><a class="tt_comic"
+                                                                                                title="自负勇者无法拯救"
+                                                                                                href="zifuyongzhewufazhengjiu/">自负勇者无法拯救</a><a
+                                        title="第10话" class="tt_chapter" href="/zifuyongzhewufazhengjiu/106926.shtml">[第10话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:55</span><a class="tt_comic"
+                                                                                                title="小心那个恶女！"
+                                                                                                href="xiaoxinnageenv/">小心那个恶女！</a><a
+                                        title="第15话" class="tt_chapter" href="/xiaoxinnageenv/108596.shtml">[第15话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:54</span><a class="tt_comic"
+                                                                                                title="不能屈服于瞬间的爱情故事！"
+                                                                                                href="bunengqufuyushunjiandeaiqinggushi/">不能屈服于瞬间的爱情故事！</a><a
+                                        title="第04话" class="tt_chapter" href="/bunengqufuyushunjiandeaiqinggushi/107732.shtml">[第04话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:50</span><a class="tt_comic"
+                                                                                                title="略显微妙的温柔欺凌"
+                                                                                                href="luexianweimiaodewenrouqiling/">略显微妙的温柔欺凌</a><a
+                                        title="第38话" class="tt_chapter" href="/luexianweimiaodewenrouqiling/106925.shtml">[第38话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:48</span><a class="tt_comic"
+                                                                                                title="达光贵人"
+                                                                                                href="daguangguiren/">达光贵人</a><a
+                                        title="第14话" class="tt_chapter" href="/daguangguiren/102742.shtml">[第14话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:47</span><a class="tt_comic"
+                                                                                                title="Code Geass 反骨的无惨"
+                                                                                                href="codegeassfangudewucan/">Code Geass 反骨的无惨</a><a
+                                        title="第18话" class="tt_chapter" href="/codegeassfangudewucan/108595.shtml">[第18话]</a>
+                                </li>
+                                
+                                <li><span class="floatright numbig">09-06 23:46</span><a class="tt_comic"
+                                                                                                title="久保同学不放过我"
+                                                                                                href="jiubaotongxuebufangguowo/">久保同学不放过我</a><a
+                                        title="第39话" class="tt_chapter" href="/jiubaotongxuebufangguowo/102741.shtml">[第39话]</a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                        <!--zxgxbox-->
+
+
+                    </div>
+                    <!--read_mend_back-->
+                </div>
+                <!--read_mend-->
+                <div class="week_foot"></div>
+                <!--week_mend-->
+            </div>
+            <!--read_week-->
+
+
+                <iframe width="100%" height="450" class="share_self" frameborder="0" scrolling="no"
+        src="//widget.weibo.com/weiboshow/index.php?language=&width=0&height=450&fansRow=2&ptype=1&speed=0&skin=9&isTitle=0&noborder=1&isWeibo=1&isFans=0&uid=3205158964&verifier=ebc1a357&colors=d3e3fa,ffffff,666666,4d6df3,d3e3fa&dpc=1"></iframe>
+
+            <div class="read_week margin_top_10px">
+                <!-- 广告位：首页右下-->
+<!--                <script type='text/javascript' charset='gb2312' src='http://js.adm.cnzz.net/s.php?sid=263750'></script>-->
+                <!-- 116723：首页右下 类型：固定广告位 尺寸：220x310-->
+<!--                <script type="text/javascript">
+                    _acM({aid:"mm_115547023_13540163_54576855",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+                </script>  -->
+            </div>
+
+        </div>
+        <!--right_mrt-->
+    </div>
+    <!--right-->
+    <div class="clearfix"></div>
+</div>
+<!--wrap-->
+<div class="clearfix"></div>
+<div class="flink-box">
+        <div class="flink-box-main">
+        
+            <strong>快速导航:</strong>
+            <a target="_blank" href="//www.dmzj.com/aboutus/sitemap.html" title="网站地图">网站地图</a>
+            <a target="_blank" href="/haizeiwang/" title="海贼王">海贼王</a>
+            <a target="_blank" href="/huoyingrenzhe/" title="火影忍者">火影忍者</a>
+            <a target="_blank" href="/sishen/" title="死神">死神</a>
+            <a target="_blank" href="/yaojingdeweiba/" title="妖精的尾巴">妖精的尾巴</a>
+            <a target="_blank" href="/lieren/" title="猎人">猎人</a>
+            <a target="_blank" href="/jiatingjiaoshi/" title="家庭教师">家庭教师</a>
+            <a target="_blank" href="/dajian/" title="大剑">大剑</a>
+            <a target="_blank" href="/kenan/" title="名侦探柯南">名侦探柯南</a>
+            <a target="_blank" href="/yinhun/" title="银魂">银魂</a>
+            <a target="_blank" href="/tianjiangzhiwu/" title="天降之物">天降之物</a>
+            <a target="_blank" href="/gzljss/" title="钢之炼金术师">钢之炼金术师</a>
+            <a target="_blank" href="/shengdoushi-mingwangshenhua/" title="圣斗士冥王神话">圣斗士冥王神话</a>
+            <a target="_blank" href="/mowangnaiba/" title="魔王奶爸">魔王奶爸</a><br>
+            
+            
+            <strong>友情链接:</strong>
+            <a target="_blank" href="http://bbs.dmzj.com" title="动漫之家论坛">动漫之家论坛</a>
+            <a target="_blank" href="http://donghua.dmzj.com/" title="动漫之家动画频道">动漫之家动画频道</a>
+            <a target="_blank" href="https://lsj.ac" title="老司机">CC在线漫画</a>
+            <a target="_blank" href=" " title="网漫吧">网漫吧</a>
+            <a target="_blank" href="http://book.sfacg.com/" title="轻小说">轻小说</a>
+            <a target="_blank" href=" " title="手机壁纸">手机壁纸</a>
+            <a target="_blank" href="http://www.myfcomic.com/comic/327" title = "一拳超人">一拳超人</a>
+          <a target="_blank" href="http://comic.zongheng.com/" title="纵横原创漫画">纵横原创漫画</a>
+            <a target="_blank" href=" " title="漫客栈">漫客栈</a> 
+            <a target="_blank" href="http://www.iqing.com" title = "轻文轻小说">轻文轻小说</a>
+            <a target="_blank" href="https://lsjacg.com" title = "新番动漫">新番动漫</a>
+<a target="_blank" href=" http://m.yizhikan.cn " title = "一直看漫画">一直看漫画</a>
+<a target="_blank" href="http://www.myfcomic.com/comic/232" title = "鬼灭之刃 ">鬼灭之刃 </a>
+
+
+     
+    
+            交换友情链接：4105685＃qq.com（请将#换为@）<br>
+Copyright © 2005-2017 dmzj.com All Rights Reserved 京ICP备17012542号-2<br>
+联系电话：010-57221044<br>
+        </div>
+</div>
+
+<div class="footer">
+    
+    <div class="float_code" id="floatCode" style="display:none;">
+    <a style="cursor:pointer" class="close_code"></a>
+    <a href="http://www.dmzj.com/app/index.html" target="_blank" class="code_wrap"></a>
+    <img src="//static.dmzj.com/module/images/float_code.jpg" alt="1" height="153" width="126"/>
+</div>
+
+<script>
+  $(function(){
+    $(".ad_code_close").click(function(){
+        $(".ad_bottom_code").hide();
+    })
+})
+</script>
+<div class="ad_bottom_code">
+        <script src="https://www.dmzj.com/js/ad/ad_22.js?v=1" type="text/javascript"></script>
+</div>
+
+<script type='text/javascript' src='//static.dmzj.com/module/js/float_code.js?dsf'></script>
+<div style="display:none;">
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1000465408'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1000465408' type='text/javascript'%3E%3C/script%3E"));</script>
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1000465515'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1000465515' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</div>
+
+<!-- 广告位：漫画站对联栏-->
+<!--<script type='text/javascript' charset='gb2312' src='http://js.adm.cnzz.net/s.php?sid=263760'></script>-->
+<!-- 116733：漫画站对联 类型：固定广告位 尺寸：160x600-->
+<!-- <script type="text/javascript">
+    _acM({aid:"mm_115547023_13540163_54576839",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script> -->
+<script type="text/javascript">
+    window._pt_sp_2 = [];
+    _pt_sp_2.push('setAccount,198bb240');
+    var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+
+    (function () {
+        var atag = document.createElement('script');
+        atag.type = 'text/javascript';
+        atag.async = true;
+        atag.src = _protocol + 'js.ptengine.cn/js/pta.js';
+        var stag = document.createElement('script');
+        stag.type = 'text/javascript';
+        stag.async = true;
+        stag.src = _protocol + 'js.ptengine.cn/js/pts.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(atag, s);
+        s.parentNode.insertBefore(stag, s);
+    })();
+</script>
+</body>
+</html>
